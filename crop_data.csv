@@ -1,0 +1,2881 @@
+year,district,crop,season,area,production
+2009,Trichy,Groundnut,Rabi,141.27,740.15
+2009,Trichy,Groundnut,Rabi,254.99,574.05
+2009,Trichy,Bengal Gram,Rabi,115.05,790.24
+2009,Trichy,Bengal Gram,Rabi,271.02,565.17
+2010,Trichy,Groundnut,Rabi,138.06,715.29
+2010,Trichy,Groundnut,Rabi,236.66,767.63
+2010,Trichy,Bengal Gram,Rabi,89.22,760.31
+2010,Trichy,Bengal Gram,Rabi,208.11,575.1
+2011,Trichy,Groundnut,Rabi,182.85,736.49
+2011,Trichy,Groundnut,Rabi,141.87,627.19
+2011,Trichy,Bengal Gram,Rabi,136.41,736.67
+2011,Trichy,Bengal Gram,Rabi,126.07,654.17
+2012,Trichy,Groundnut,Rabi,263.81,591.63
+2012,Trichy,Groundnut,Rabi,235.68,607.07
+2012,Trichy,Bengal Gram,Rabi,115.14,650.31
+2012,Trichy,Bengal Gram,Rabi,257.53,657.2
+2013,Trichy,Groundnut,Rabi,152.53,629.98
+2013,Trichy,Groundnut,Rabi,227.11,603.27
+2013,Trichy,Bengal Gram,Rabi,152.69,781.64
+2013,Trichy,Bengal Gram,Rabi,238.02,730.66
+2014,Trichy,Groundnut,Rabi,154.79,738.7
+2014,Trichy,Groundnut,Rabi,216.3,777.92
+2014,Trichy,Bengal Gram,Rabi,218.77,735.32
+2014,Trichy,Bengal Gram,Rabi,194.97,755.69
+2015,Trichy,Groundnut,Rabi,173.93,732.04
+2015,Trichy,Groundnut,Rabi,127.02,564.39
+2015,Trichy,Bengal Gram,Rabi,140.78,606.12
+2015,Trichy,Bengal Gram,Rabi,236.03,624.92
+2016,Trichy,Groundnut,Rabi,186.66,690.72
+2016,Trichy,Groundnut,Rabi,195.61,623.61
+2016,Trichy,Bengal Gram,Rabi,227.33,628.93
+2016,Trichy,Bengal Gram,Rabi,207.69,585.23
+2017,Trichy,Groundnut,Rabi,205.64,680.27
+2017,Trichy,Groundnut,Rabi,256.93,739.36
+2017,Trichy,Bengal Gram,Rabi,102.99,786.35
+2017,Trichy,Bengal Gram,Rabi,140.24,590.04
+2018,Trichy,Groundnut,Rabi,92.6,751.2
+2018,Trichy,Groundnut,Rabi,247.21,678.86
+2018,Trichy,Bengal Gram,Rabi,197.66,777.73
+2018,Trichy,Bengal Gram,Rabi,185.99,611.52
+2019,Trichy,Groundnut,Rabi,134.35,628.72
+2019,Trichy,Groundnut,Rabi,136,742.89
+2019,Trichy,Bengal Gram,Rabi,134.57,642.04
+2019,Trichy,Bengal Gram,Rabi,230.97,561.92
+2020,Trichy,Groundnut,Rabi,155.76,618.39
+2020,Trichy,Groundnut,Rabi,186.56,620.31
+2020,Trichy,Bengal Gram,Rabi,255.48,737.45
+2020,Trichy,Bengal Gram,Rabi,177.82,779.89
+2021,Trichy,Groundnut,Rabi,214.58,695.77
+2021,Trichy,Groundnut,Rabi,239.56,568.88
+2021,Trichy,Bengal Gram,Rabi,231.57,762.06
+2021,Trichy,Bengal Gram,Rabi,92.21,710.51
+2009,Trichy,Groundnut,Rabi,141.45,563.59
+2009,Trichy,Groundnut,Rabi,121.27,692.84
+2009,Trichy,Bengal Gram,Rabi,161.02,676.79
+2009,Trichy,Bengal Gram,Rabi,149.36,602.27
+2010,Trichy,Groundnut,Rabi,132.68,676.2
+2010,Trichy,Groundnut,Rabi,197.45,577.36
+2010,Trichy,Bengal Gram,Rabi,258.31,647.3
+2010,Trichy,Bengal Gram,Rabi,141.54,586.68
+2011,Trichy,Groundnut,Rabi,254.01,609.93
+2011,Trichy,Groundnut,Rabi,139.09,754.79
+2011,Trichy,Bengal Gram,Rabi,259.12,714.4
+2011,Trichy,Bengal Gram,Rabi,122.71,684.89
+2012,Trichy,Groundnut,Rabi,89.39,649.18
+2012,Trichy,Groundnut,Rabi,207.78,664.72
+2012,Trichy,Bengal Gram,Rabi,119.03,655.52
+2012,Trichy,Bengal Gram,Rabi,91.08,717.21
+2013,Trichy,Groundnut,Rabi,156.39,562.78
+2013,Trichy,Groundnut,Rabi,132.11,718.01
+2013,Trichy,Bengal Gram,Rabi,157.37,596.81
+2013,Trichy,Bengal Gram,Rabi,242.03,769.22
+2014,Trichy,Groundnut,Rabi,242.37,646.88
+2014,Trichy,Groundnut,Rabi,186.51,641.08
+2014,Trichy,Bengal Gram,Rabi,149.4,585.67
+2014,Trichy,Bengal Gram,Rabi,161.35,732.45
+2015,Trichy,Groundnut,Rabi,94.14,688.94
+2015,Trichy,Groundnut,Rabi,107.69,776.91
+2015,Trichy,Bengal Gram,Rabi,93.16,752.59
+2015,Trichy,Bengal Gram,Rabi,85.97,676.4
+2016,Trichy,Groundnut,Rabi,215.06,618.44
+2016,Trichy,Groundnut,Rabi,225.93,563.64
+2016,Trichy,Bengal Gram,Rabi,191.96,752.07
+2016,Trichy,Bengal Gram,Rabi,166.72,719.65
+2017,Trichy,Groundnut,Rabi,163.18,666.52
+2017,Trichy,Groundnut,Rabi,206.27,771.13
+2017,Trichy,Bengal Gram,Rabi,135.3,564.79
+2017,Trichy,Bengal Gram,Rabi,97.79,655.52
+2018,Trichy,Groundnut,Rabi,263.79,613.49
+2018,Trichy,Groundnut,Rabi,170.89,592.41
+2018,Trichy,Bengal Gram,Rabi,269.62,658.27
+2018,Trichy,Bengal Gram,Rabi,198.46,647.54
+2019,Trichy,Groundnut,Rabi,140.35,670.78
+2019,Trichy,Groundnut,Rabi,150.59,707.02
+2019,Trichy,Bengal Gram,Rabi,245.59,563.81
+2019,Trichy,Bengal Gram,Rabi,103.11,626.87
+2020,Trichy,Groundnut,Rabi,112.97,623.26
+2020,Trichy,Groundnut,Rabi,258.08,775.31
+2020,Trichy,Bengal Gram,Rabi,133.92,599.46
+2020,Trichy,Bengal Gram,Rabi,245.96,557.03
+2021,Trichy,Groundnut,Rabi,262.83,583.12
+2021,Trichy,Groundnut,Rabi,102.46,708.44
+2021,Trichy,Bengal Gram,Rabi,111.12,648.02
+2021,Trichy,Bengal Gram,Rabi,177.84,649.77
+2009,Kanchipuram,Groundnut,Kharif,292.9,218.65
+2009,Kanchipuram,Groundnut,Kharif,324.61,398.76
+2009,Kanchipuram,Bengal Gram,Kharif,299.03,368.42
+2009,Kanchipuram,Bengal Gram,Kharif,265.17,281.88
+2010,Kanchipuram,Groundnut,Kharif,299.78,457.01
+2010,Kanchipuram,Groundnut,Kharif,222.2,415.78
+2010,Kanchipuram,Bengal Gram,Kharif,287.47,276.56
+2010,Kanchipuram,Bengal Gram,Kharif,179.44,298.06
+2011,Kanchipuram,Groundnut,Kharif,331.2,529.63
+2011,Kanchipuram,Groundnut,Kharif,300.02,287.62
+2011,Kanchipuram,Bengal Gram,Kharif,238.66,268.63
+2011,Kanchipuram,Bengal Gram,Kharif,188.48,330.44
+2012,Kanchipuram,Groundnut,Kharif,249.32,471.12
+2012,Kanchipuram,Groundnut,Kharif,341.01,398.59
+2012,Kanchipuram,Bengal Gram,Kharif,235.39,397.07
+2012,Kanchipuram,Bengal Gram,Kharif,183.17,455.27
+2013,Kanchipuram,Groundnut,Kharif,229.06,341.59
+2013,Kanchipuram,Groundnut,Kharif,296.78,546.77
+2013,Kanchipuram,Bengal Gram,Kharif,278.21,580.3
+2013,Kanchipuram,Bengal Gram,Kharif,239.11,336.91
+2014,Kanchipuram,Groundnut,Kharif,162.29,543.44
+2014,Kanchipuram,Groundnut,Kharif,314.8,477.46
+2014,Kanchipuram,Bengal Gram,Kharif,192.7,584.16
+2014,Kanchipuram,Bengal Gram,Kharif,171.3,337.15
+2015,Kanchipuram,Groundnut,Kharif,230.38,285.39
+2015,Kanchipuram,Groundnut,Kharif,322.32,239.36
+2015,Kanchipuram,Bengal Gram,Kharif,195.73,310.71
+2015,Kanchipuram,Bengal Gram,Kharif,330.45,547.63
+2016,Kanchipuram,Groundnut,Kharif,366.36,349.24
+2016,Kanchipuram,Groundnut,Kharif,323.06,266.77
+2016,Kanchipuram,Bengal Gram,Kharif,180.44,493.44
+2016,Kanchipuram,Bengal Gram,Kharif,274.52,417.12
+2017,Kanchipuram,Groundnut,Kharif,187.23,392.5
+2017,Kanchipuram,Groundnut,Kharif,227.25,277.35
+2017,Kanchipuram,Bengal Gram,Kharif,319.18,550.28
+2017,Kanchipuram,Bengal Gram,Kharif,323.87,468.53
+2018,Kanchipuram,Groundnut,Kharif,284.78,577.06
+2018,Kanchipuram,Groundnut,Kharif,184,308.19
+2018,Kanchipuram,Bengal Gram,Kharif,280.46,465.25
+2018,Kanchipuram,Bengal Gram,Kharif,302.64,448.96
+2019,Kanchipuram,Groundnut,Kharif,187.32,358.95
+2019,Kanchipuram,Groundnut,Kharif,195.73,536.08
+2019,Kanchipuram,Bengal Gram,Kharif,158.64,408.35
+2019,Kanchipuram,Bengal Gram,Kharif,364.27,423.95
+2020,Kanchipuram,Groundnut,Kharif,350.46,397.62
+2020,Kanchipuram,Groundnut,Kharif,209.26,279.59
+2020,Kanchipuram,Bengal Gram,Kharif,323.95,271.69
+2020,Kanchipuram,Bengal Gram,Kharif,324.1,345.24
+2021,Kanchipuram,Groundnut,Kharif,242.76,331.94
+2021,Kanchipuram,Groundnut,Kharif,189.49,395.61
+2021,Kanchipuram,Bengal Gram,Kharif,362.27,535.25
+2021,Kanchipuram,Bengal Gram,Kharif,258.99,381.89
+2009,Kanchipuram,Groundnut,Kharif,230.07,247.38
+2009,Kanchipuram,Groundnut,Kharif,213.25,593.3
+2009,Kanchipuram,Bengal Gram,Kharif,251.52,573.33
+2009,Kanchipuram,Bengal Gram,Kharif,260.55,370.96
+2010,Kanchipuram,Groundnut,Kharif,196.25,464.73
+2010,Kanchipuram,Groundnut,Kharif,299.81,216.77
+2010,Kanchipuram,Bengal Gram,Kharif,289.16,454.74
+2010,Kanchipuram,Bengal Gram,Kharif,343.39,559.87
+2011,Kanchipuram,Groundnut,Kharif,181.24,481.75
+2011,Kanchipuram,Groundnut,Kharif,206.32,388.66
+2011,Kanchipuram,Bengal Gram,Kharif,279.58,370.4
+2011,Kanchipuram,Bengal Gram,Kharif,302.37,234.26
+2012,Kanchipuram,Groundnut,Kharif,355.68,436.78
+2012,Kanchipuram,Groundnut,Kharif,345.5,579.01
+2012,Kanchipuram,Bengal Gram,Kharif,336.69,507.71
+2012,Kanchipuram,Bengal Gram,Kharif,275.26,435.81
+2013,Kanchipuram,Groundnut,Kharif,185.33,437.4
+2013,Kanchipuram,Groundnut,Kharif,319.89,274.03
+2013,Kanchipuram,Bengal Gram,Kharif,243.71,542
+2013,Kanchipuram,Bengal Gram,Kharif,302.08,299.46
+2014,Kanchipuram,Groundnut,Kharif,188.81,357.93
+2014,Kanchipuram,Groundnut,Kharif,205.94,382.56
+2014,Kanchipuram,Bengal Gram,Kharif,209.95,349.32
+2014,Kanchipuram,Bengal Gram,Kharif,168.3,476.47
+2015,Kanchipuram,Groundnut,Kharif,222.72,424.93
+2015,Kanchipuram,Groundnut,Kharif,305.9,326.91
+2015,Kanchipuram,Bengal Gram,Kharif,169.94,487.22
+2015,Kanchipuram,Bengal Gram,Kharif,329.37,315.47
+2016,Kanchipuram,Groundnut,Kharif,274.62,293.22
+2016,Kanchipuram,Groundnut,Kharif,159.14,331.86
+2016,Kanchipuram,Bengal Gram,Kharif,291.66,586.08
+2016,Kanchipuram,Bengal Gram,Kharif,236.74,553.63
+2017,Kanchipuram,Groundnut,Kharif,360.84,428.92
+2017,Kanchipuram,Groundnut,Kharif,320.43,576.92
+2017,Kanchipuram,Bengal Gram,Kharif,308.25,415.9
+2017,Kanchipuram,Bengal Gram,Kharif,322.46,421.79
+2018,Kanchipuram,Groundnut,Kharif,331.79,213.97
+2018,Kanchipuram,Groundnut,Kharif,291.66,477.62
+2018,Kanchipuram,Bengal Gram,Kharif,300.95,532.33
+2018,Kanchipuram,Bengal Gram,Kharif,342.37,479.91
+2019,Kanchipuram,Groundnut,Kharif,308.7,271.01
+2019,Kanchipuram,Groundnut,Kharif,294.29,414.51
+2019,Kanchipuram,Bengal Gram,Kharif,313.81,577.12
+2019,Kanchipuram,Bengal Gram,Kharif,223.01,529.07
+2020,Kanchipuram,Groundnut,Kharif,186.81,239.39
+2020,Kanchipuram,Groundnut,Kharif,278.5,358.05
+2020,Kanchipuram,Bengal Gram,Kharif,333.89,348.25
+2020,Kanchipuram,Bengal Gram,Kharif,245.98,410.33
+2021,Kanchipuram,Groundnut,Kharif,218.47,320.46
+2021,Kanchipuram,Groundnut,Kharif,307.53,582.51
+2021,Kanchipuram,Bengal Gram,Kharif,259.89,370.33
+2021,Kanchipuram,Bengal Gram,Kharif,262.42,309.72
+2009,Thirunelveli,Groundnut,Kharif,68.43,192.58
+2009,Thirunelveli,Groundnut,Kharif,137.78,319.44
+2009,Thirunelveli,Bengal Gram,Kharif,79.88,344.88
+2009,Thirunelveli,Bengal Gram,Kharif,111.83,356.18
+2010,Thirunelveli,Groundnut,Kharif,164.44,252.18
+2010,Thirunelveli,Groundnut,Kharif,142.17,228.05
+2010,Thirunelveli,Bengal Gram,Kharif,159.42,318.93
+2010,Thirunelveli,Bengal Gram,Kharif,52.87,344
+2011,Thirunelveli,Groundnut,Kharif,100.89,186.51
+2011,Thirunelveli,Groundnut,Kharif,153.07,350.11
+2011,Thirunelveli,Bengal Gram,Kharif,152.56,329.37
+2011,Thirunelveli,Bengal Gram,Kharif,63.51,229.47
+2012,Thirunelveli,Groundnut,Kharif,138.86,303.13
+2012,Thirunelveli,Groundnut,Kharif,154.83,269.93
+2012,Thirunelveli,Bengal Gram,Kharif,117.81,329.57
+2012,Thirunelveli,Bengal Gram,Kharif,99.53,293.49
+2013,Thirunelveli,Groundnut,Kharif,83.45,312.74
+2013,Thirunelveli,Groundnut,Kharif,110.03,370.82
+2013,Thirunelveli,Bengal Gram,Kharif,99.92,287.83
+2013,Thirunelveli,Bengal Gram,Kharif,107.62,313.86
+2014,Thirunelveli,Groundnut,Kharif,92.47,229.7
+2014,Thirunelveli,Groundnut,Kharif,63.43,261.11
+2014,Thirunelveli,Bengal Gram,Kharif,89.43,302.8
+2014,Thirunelveli,Bengal Gram,Kharif,102.38,191.44
+2015,Thirunelveli,Groundnut,Kharif,123.83,277.16
+2015,Thirunelveli,Groundnut,Kharif,63.94,266
+2015,Thirunelveli,Bengal Gram,Kharif,76.33,180.94
+2015,Thirunelveli,Bengal Gram,Kharif,99.74,253.31
+2016,Thirunelveli,Groundnut,Kharif,67.84,196.25
+2016,Thirunelveli,Groundnut,Kharif,55.23,264.88
+2016,Thirunelveli,Bengal Gram,Kharif,160.76,342.36
+2016,Thirunelveli,Bengal Gram,Kharif,102.61,218.59
+2017,Thirunelveli,Groundnut,Kharif,128.91,361.62
+2017,Thirunelveli,Groundnut,Kharif,70.94,185.91
+2017,Thirunelveli,Bengal Gram,Kharif,56.54,196.03
+2017,Thirunelveli,Bengal Gram,Kharif,164.41,331.88
+2018,Thirunelveli,Groundnut,Kharif,139.54,262.16
+2018,Thirunelveli,Groundnut,Kharif,147.69,236.09
+2018,Thirunelveli,Bengal Gram,Kharif,151.14,207.7
+2018,Thirunelveli,Bengal Gram,Kharif,120.97,256.11
+2019,Thirunelveli,Groundnut,Kharif,168.57,310.74
+2019,Thirunelveli,Groundnut,Kharif,71.78,207.44
+2019,Thirunelveli,Bengal Gram,Kharif,61.33,262.17
+2019,Thirunelveli,Bengal Gram,Kharif,158.78,260.95
+2020,Thirunelveli,Groundnut,Kharif,125.76,198.64
+2020,Thirunelveli,Groundnut,Kharif,114.86,242.39
+2020,Thirunelveli,Bengal Gram,Kharif,163.43,311.47
+2020,Thirunelveli,Bengal Gram,Kharif,59.36,349.26
+2021,Thirunelveli,Groundnut,Kharif,146.69,346.64
+2021,Thirunelveli,Groundnut,Kharif,58.56,282.46
+2021,Thirunelveli,Bengal Gram,Kharif,71.21,232.87
+2021,Thirunelveli,Bengal Gram,Kharif,141.96,341.54
+2009,Thirunelveli,Groundnut,Kharif,135.89,247.49
+2009,Thirunelveli,Groundnut,Kharif,102.01,358.86
+2009,Thirunelveli,Bengal Gram,Kharif,166.83,198.37
+2009,Thirunelveli,Bengal Gram,Kharif,128.92,271.25
+2010,Thirunelveli,Groundnut,Kharif,70.55,353.61
+2010,Thirunelveli,Groundnut,Kharif,128.02,321.04
+2010,Thirunelveli,Bengal Gram,Kharif,79.02,312.11
+2010,Thirunelveli,Bengal Gram,Kharif,130.95,358.67
+2011,Thirunelveli,Groundnut,Kharif,104.89,191.13
+2011,Thirunelveli,Groundnut,Kharif,109,272.34
+2011,Thirunelveli,Bengal Gram,Kharif,161.13,306.61
+2011,Thirunelveli,Bengal Gram,Kharif,99.67,217.76
+2012,Thirunelveli,Groundnut,Kharif,88.14,180.72
+2012,Thirunelveli,Groundnut,Kharif,124.93,213.57
+2012,Thirunelveli,Bengal Gram,Kharif,151.1,279.14
+2012,Thirunelveli,Bengal Gram,Kharif,120.8,303.11
+2013,Thirunelveli,Groundnut,Kharif,169,253.36
+2013,Thirunelveli,Groundnut,Kharif,156.5,341.77
+2013,Thirunelveli,Bengal Gram,Kharif,116.63,356.17
+2013,Thirunelveli,Bengal Gram,Kharif,62.84,266.8
+2014,Thirunelveli,Groundnut,Kharif,82.73,205.37
+2014,Thirunelveli,Groundnut,Kharif,111.59,286.26
+2014,Thirunelveli,Bengal Gram,Kharif,148.35,296.94
+2014,Thirunelveli,Bengal Gram,Kharif,83.41,252.36
+2015,Thirunelveli,Groundnut,Kharif,149.99,327.02
+2015,Thirunelveli,Groundnut,Kharif,115.57,366.66
+2015,Thirunelveli,Bengal Gram,Kharif,127.54,235.44
+2015,Thirunelveli,Bengal Gram,Kharif,123.61,316.07
+2016,Thirunelveli,Groundnut,Kharif,111.24,233.68
+2016,Thirunelveli,Groundnut,Kharif,78.08,278.35
+2016,Thirunelveli,Bengal Gram,Kharif,142.65,235.3
+2016,Thirunelveli,Bengal Gram,Kharif,126.16,242.57
+2017,Thirunelveli,Groundnut,Kharif,93.55,262.35
+2017,Thirunelveli,Groundnut,Kharif,54.45,297.61
+2017,Thirunelveli,Bengal Gram,Kharif,58.05,241.26
+2017,Thirunelveli,Bengal Gram,Kharif,118.6,291.83
+2018,Thirunelveli,Groundnut,Kharif,73.85,192.82
+2018,Thirunelveli,Groundnut,Kharif,62.41,272.08
+2018,Thirunelveli,Bengal Gram,Kharif,86.19,309.51
+2018,Thirunelveli,Bengal Gram,Kharif,108.5,336.67
+2019,Thirunelveli,Groundnut,Kharif,79.16,216.85
+2019,Thirunelveli,Groundnut,Kharif,157.49,290.34
+2019,Thirunelveli,Bengal Gram,Kharif,143.01,371.39
+2019,Thirunelveli,Bengal Gram,Kharif,81.99,309.28
+2020,Thirunelveli,Groundnut,Kharif,108.11,366.35
+2020,Thirunelveli,Groundnut,Kharif,60.73,347.82
+2020,Thirunelveli,Bengal Gram,Kharif,142.94,301.26
+2020,Thirunelveli,Bengal Gram,Kharif,107.54,329.44
+2021,Thirunelveli,Groundnut,Kharif,88.79,183.86
+2021,Thirunelveli,Groundnut,Kharif,72.7,197.65
+2021,Thirunelveli,Bengal Gram,Kharif,67.76,227.77
+2021,Thirunelveli,Bengal Gram,Kharif,58.73,375.36
+2009,Salem,Groundnut,Rabi,53.71,537.87
+2009,Salem,Groundnut,Rabi,69.91,414.99
+2009,Salem,Bengal Gram,Rabi,89.07,524.77
+2009,Salem,Bengal Gram,Rabi,145.94,378.62
+2010,Salem,Groundnut,Rabi,92.09,509.8
+2010,Salem,Groundnut,Rabi,139.05,459
+2010,Salem,Bengal Gram,Rabi,145.57,456.91
+2010,Salem,Bengal Gram,Rabi,141.78,397.27
+2011,Salem,Groundnut,Rabi,48.48,434.76
+2011,Salem,Groundnut,Rabi,53.86,492.34
+2011,Salem,Bengal Gram,Rabi,79.15,414.21
+2011,Salem,Bengal Gram,Rabi,141.18,431.29
+2012,Salem,Groundnut,Rabi,69.97,466.88
+2012,Salem,Groundnut,Rabi,114.98,360.25
+2012,Salem,Bengal Gram,Rabi,96.43,379.16
+2012,Salem,Bengal Gram,Rabi,63.08,551.47
+2013,Salem,Groundnut,Rabi,61.9,456.01
+2013,Salem,Groundnut,Rabi,106.86,406.83
+2013,Salem,Bengal Gram,Rabi,110.22,442.74
+2013,Salem,Bengal Gram,Rabi,41.21,489.9
+2014,Salem,Groundnut,Rabi,50.34,549.46
+2014,Salem,Groundnut,Rabi,105.45,381.72
+2014,Salem,Bengal Gram,Rabi,132.19,547.33
+2014,Salem,Bengal Gram,Rabi,129.2,391.69
+2015,Salem,Groundnut,Rabi,71.82,356.85
+2015,Salem,Groundnut,Rabi,98.23,461.7
+2015,Salem,Bengal Gram,Rabi,132.23,389.75
+2015,Salem,Bengal Gram,Rabi,89.33,510.74
+2016,Salem,Groundnut,Rabi,132.42,434.63
+2016,Salem,Groundnut,Rabi,121.67,372.7
+2016,Salem,Bengal Gram,Rabi,63.32,361.96
+2016,Salem,Bengal Gram,Rabi,41.92,393.03
+2017,Salem,Groundnut,Rabi,140.86,495.62
+2017,Salem,Groundnut,Rabi,131.59,549.58
+2017,Salem,Bengal Gram,Rabi,128.35,552.33
+2017,Salem,Bengal Gram,Rabi,105.29,444.36
+2018,Salem,Groundnut,Rabi,146.32,527.53
+2018,Salem,Groundnut,Rabi,80.95,541.42
+2018,Salem,Bengal Gram,Rabi,99.43,512.6
+2018,Salem,Bengal Gram,Rabi,126.01,398.82
+2019,Salem,Groundnut,Rabi,127.58,498.32
+2019,Salem,Groundnut,Rabi,62.71,403.27
+2019,Salem,Bengal Gram,Rabi,90.87,413.8
+2019,Salem,Bengal Gram,Rabi,101.92,473.48
+2020,Salem,Groundnut,Rabi,84.29,548.08
+2020,Salem,Groundnut,Rabi,132.02,464.09
+2020,Salem,Bengal Gram,Rabi,83.36,429.72
+2020,Salem,Bengal Gram,Rabi,140.02,547.8
+2021,Salem,Groundnut,Rabi,119.16,416.94
+2021,Salem,Groundnut,Rabi,105.99,399.73
+2021,Salem,Bengal Gram,Rabi,57.71,532.01
+2021,Salem,Bengal Gram,Rabi,51.2,375.54
+2009,Salem,Groundnut,Rabi,83.85,494.67
+2009,Salem,Groundnut,Rabi,105.7,484.84
+2009,Salem,Bengal Gram,Rabi,42.04,430.95
+2009,Salem,Bengal Gram,Rabi,125.7,487.08
+2010,Salem,Groundnut,Rabi,138.12,485.88
+2010,Salem,Groundnut,Rabi,40.03,537.45
+2010,Salem,Bengal Gram,Rabi,66.03,374.43
+2010,Salem,Bengal Gram,Rabi,143.45,440.02
+2011,Salem,Groundnut,Rabi,134.12,429.16
+2011,Salem,Groundnut,Rabi,57,481.67
+2011,Salem,Bengal Gram,Rabi,97.51,511.03
+2011,Salem,Bengal Gram,Rabi,51.44,488.56
+2012,Salem,Groundnut,Rabi,70.75,508.46
+2012,Salem,Groundnut,Rabi,143.24,557.57
+2012,Salem,Bengal Gram,Rabi,102.83,372.45
+2012,Salem,Bengal Gram,Rabi,95.77,461.09
+2013,Salem,Groundnut,Rabi,67.12,421.93
+2013,Salem,Groundnut,Rabi,85.83,418.67
+2013,Salem,Bengal Gram,Rabi,147.47,415.49
+2013,Salem,Bengal Gram,Rabi,60.66,488.68
+2014,Salem,Groundnut,Rabi,87.93,463.78
+2014,Salem,Groundnut,Rabi,134.25,428.07
+2014,Salem,Bengal Gram,Rabi,100.63,487.58
+2014,Salem,Bengal Gram,Rabi,111.01,415.46
+2015,Salem,Groundnut,Rabi,67.09,404.13
+2015,Salem,Groundnut,Rabi,96.94,460.83
+2015,Salem,Bengal Gram,Rabi,130.29,456.44
+2015,Salem,Bengal Gram,Rabi,77.58,451.72
+2016,Salem,Groundnut,Rabi,51.82,456.61
+2016,Salem,Groundnut,Rabi,45.7,478.74
+2016,Salem,Bengal Gram,Rabi,97.71,502.98
+2016,Salem,Bengal Gram,Rabi,112.63,552.77
+2017,Salem,Groundnut,Rabi,55.42,511.61
+2017,Salem,Groundnut,Rabi,98.55,505.82
+2017,Salem,Bengal Gram,Rabi,65.87,480.13
+2017,Salem,Bengal Gram,Rabi,142.25,368.98
+2018,Salem,Groundnut,Rabi,125.99,454.99
+2018,Salem,Groundnut,Rabi,101.4,458.96
+2018,Salem,Bengal Gram,Rabi,87.29,362.45
+2018,Salem,Bengal Gram,Rabi,76.88,367.37
+2019,Salem,Groundnut,Rabi,37.6,368.77
+2019,Salem,Groundnut,Rabi,54.73,521.47
+2019,Salem,Bengal Gram,Rabi,127,456.23
+2019,Salem,Bengal Gram,Rabi,77.43,532.93
+2020,Salem,Groundnut,Rabi,108.72,469.4
+2020,Salem,Groundnut,Rabi,119.48,561.68
+2020,Salem,Bengal Gram,Rabi,72.82,423.36
+2020,Salem,Bengal Gram,Rabi,93.62,433.19
+2021,Salem,Groundnut,Rabi,99.21,405.17
+2021,Salem,Groundnut,Rabi,86.33,498.92
+2021,Salem,Bengal Gram,Rabi,91.98,527.07
+2021,Salem,Bengal Gram,Rabi,105.49,526.55
+2009,Trichy,Groundnut,Kharif,247.87,421.7
+2009,Trichy,Groundnut,Kharif,252.24,329.17
+2009,Trichy,Bengal Gram,Kharif,216.84,334.45
+2009,Trichy,Bengal Gram,Kharif,96.64,255.9
+2010,Trichy,Groundnut,Kharif,213.7,375.44
+2010,Trichy,Groundnut,Kharif,121.31,380.19
+2010,Trichy,Bengal Gram,Kharif,217.43,228.12
+2010,Trichy,Bengal Gram,Kharif,171.33,359.45
+2011,Trichy,Groundnut,Kharif,257.93,340.42
+2011,Trichy,Groundnut,Kharif,104.25,297.94
+2011,Trichy,Bengal Gram,Kharif,185.66,431
+2011,Trichy,Bengal Gram,Kharif,211.97,383.44
+2012,Trichy,Groundnut,Kharif,97.19,231.01
+2012,Trichy,Groundnut,Kharif,131.92,284.54
+2012,Trichy,Bengal Gram,Kharif,218.29,257.85
+2012,Trichy,Bengal Gram,Kharif,259.92,286.97
+2013,Trichy,Groundnut,Kharif,237.01,317.74
+2013,Trichy,Groundnut,Kharif,162.06,373.18
+2013,Trichy,Bengal Gram,Kharif,188.67,319.77
+2013,Trichy,Bengal Gram,Kharif,148.93,286.97
+2014,Trichy,Groundnut,Kharif,230.08,380.29
+2014,Trichy,Groundnut,Kharif,223.78,473.29
+2014,Trichy,Bengal Gram,Kharif,162.09,335.7
+2014,Trichy,Bengal Gram,Kharif,127.58,475.09
+2015,Trichy,Groundnut,Kharif,217.85,348.06
+2015,Trichy,Groundnut,Kharif,260.42,265.23
+2015,Trichy,Bengal Gram,Kharif,138.22,358.55
+2015,Trichy,Bengal Gram,Kharif,234.7,226.62
+2016,Trichy,Groundnut,Kharif,239.99,327.44
+2016,Trichy,Groundnut,Kharif,267.41,372.08
+2016,Trichy,Bengal Gram,Kharif,161.31,378.63
+2016,Trichy,Bengal Gram,Kharif,269.74,395.61
+2017,Trichy,Groundnut,Kharif,223.61,400.44
+2017,Trichy,Groundnut,Kharif,154.99,363.7
+2017,Trichy,Bengal Gram,Kharif,268.42,397.61
+2017,Trichy,Bengal Gram,Kharif,209.52,386.01
+2018,Trichy,Groundnut,Kharif,223.08,376.65
+2018,Trichy,Groundnut,Kharif,212.54,357.5
+2018,Trichy,Bengal Gram,Kharif,214.84,375.5
+2018,Trichy,Bengal Gram,Kharif,126.47,353.84
+2019,Trichy,Groundnut,Kharif,133.91,288.31
+2019,Trichy,Groundnut,Kharif,245.45,351.35
+2019,Trichy,Bengal Gram,Kharif,125.17,244.55
+2019,Trichy,Bengal Gram,Kharif,153.36,381.42
+2020,Trichy,Groundnut,Kharif,121.03,475.76
+2020,Trichy,Groundnut,Kharif,99.09,289.01
+2020,Trichy,Bengal Gram,Kharif,104.53,296.04
+2020,Trichy,Bengal Gram,Kharif,137.47,281.68
+2021,Trichy,Groundnut,Kharif,271.18,466.09
+2021,Trichy,Groundnut,Kharif,250.54,467.7
+2021,Trichy,Bengal Gram,Kharif,219.71,360.3
+2021,Trichy,Bengal Gram,Kharif,144.91,372.02
+2009,Trichy,Groundnut,Kharif,167.01,381.33
+2009,Trichy,Groundnut,Kharif,270.51,470
+2009,Trichy,Bengal Gram,Kharif,105.77,406.82
+2009,Trichy,Bengal Gram,Kharif,220.28,353.45
+2010,Trichy,Groundnut,Kharif,261.18,335.6
+2010,Trichy,Groundnut,Kharif,144.04,366.6
+2010,Trichy,Bengal Gram,Kharif,109.16,246.29
+2010,Trichy,Bengal Gram,Kharif,179.67,452.41
+2011,Trichy,Groundnut,Kharif,254.1,256.58
+2011,Trichy,Groundnut,Kharif,112.26,301.72
+2011,Trichy,Bengal Gram,Kharif,206.85,316.26
+2011,Trichy,Bengal Gram,Kharif,149.19,258.01
+2012,Trichy,Groundnut,Kharif,170.05,238.35
+2012,Trichy,Groundnut,Kharif,139.26,435.21
+2012,Trichy,Bengal Gram,Kharif,217.51,301.18
+2012,Trichy,Bengal Gram,Kharif,121.79,259.92
+2013,Trichy,Groundnut,Kharif,218.11,374.99
+2013,Trichy,Groundnut,Kharif,245.93,242.06
+2013,Trichy,Bengal Gram,Kharif,248.93,397.84
+2013,Trichy,Bengal Gram,Kharif,189.67,259.94
+2014,Trichy,Groundnut,Kharif,210.88,407.51
+2014,Trichy,Groundnut,Kharif,193.76,357.4
+2014,Trichy,Bengal Gram,Kharif,188.54,403.68
+2014,Trichy,Bengal Gram,Kharif,218.48,358.03
+2015,Trichy,Groundnut,Kharif,267.58,274.37
+2015,Trichy,Groundnut,Kharif,111.29,277.61
+2015,Trichy,Bengal Gram,Kharif,235.69,330.25
+2015,Trichy,Bengal Gram,Kharif,234.43,322.06
+2016,Trichy,Groundnut,Kharif,107.27,359.61
+2016,Trichy,Groundnut,Kharif,236.71,270.93
+2016,Trichy,Bengal Gram,Kharif,167.78,227.24
+2016,Trichy,Bengal Gram,Kharif,146.83,382.3
+2017,Trichy,Groundnut,Kharif,230.97,327
+2017,Trichy,Groundnut,Kharif,145.59,243.02
+2017,Trichy,Bengal Gram,Kharif,252.4,368.69
+2017,Trichy,Bengal Gram,Kharif,158.46,361.5
+2018,Trichy,Groundnut,Kharif,252.13,414.52
+2018,Trichy,Groundnut,Kharif,156.17,463.01
+2018,Trichy,Bengal Gram,Kharif,265.15,449.84
+2018,Trichy,Bengal Gram,Kharif,257.04,292.74
+2019,Trichy,Groundnut,Kharif,147.3,286.01
+2019,Trichy,Groundnut,Kharif,202.92,412.84
+2019,Trichy,Bengal Gram,Kharif,206.17,381.45
+2019,Trichy,Bengal Gram,Kharif,97.51,294.26
+2020,Trichy,Groundnut,Kharif,233.74,309.66
+2020,Trichy,Groundnut,Kharif,139.87,307.45
+2020,Trichy,Bengal Gram,Kharif,222.65,331.97
+2020,Trichy,Bengal Gram,Kharif,96.73,452.82
+2021,Trichy,Groundnut,Kharif,139.13,423.62
+2021,Trichy,Groundnut,Kharif,237.6,339.45
+2021,Trichy,Bengal Gram,Kharif,240.47,458.72
+2021,Trichy,Bengal Gram,Kharif,136.4,248.5
+2009,Salem,Groundnut,Kharif,82.86,181.49
+2009,Salem,Groundnut,Kharif,55.28,239.73
+2009,Salem,Bengal Gram,Kharif,131.32,227.79
+2009,Salem,Bengal Gram,Kharif,137.65,128.29
+2010,Salem,Groundnut,Kharif,138.78,124.04
+2010,Salem,Groundnut,Kharif,69.01,222.53
+2010,Salem,Bengal Gram,Kharif,37.49,181.43
+2010,Salem,Bengal Gram,Kharif,41.78,240.5
+2011,Salem,Groundnut,Kharif,44.81,162.48
+2011,Salem,Groundnut,Kharif,43.32,143.09
+2011,Salem,Bengal Gram,Kharif,108.38,194.55
+2011,Salem,Bengal Gram,Kharif,113.45,131.88
+2012,Salem,Groundnut,Kharif,58.38,180.98
+2012,Salem,Groundnut,Kharif,107.44,218.55
+2012,Salem,Bengal Gram,Kharif,48.63,130.54
+2012,Salem,Bengal Gram,Kharif,136.95,261.81
+2013,Salem,Groundnut,Kharif,88.67,158.96
+2013,Salem,Groundnut,Kharif,41.14,124.54
+2013,Salem,Bengal Gram,Kharif,105.21,137.19
+2013,Salem,Bengal Gram,Kharif,126.57,179.8
+2014,Salem,Groundnut,Kharif,99.64,175.75
+2014,Salem,Groundnut,Kharif,124.71,231.02
+2014,Salem,Bengal Gram,Kharif,41.06,250.16
+2014,Salem,Bengal Gram,Kharif,66.97,109.16
+2015,Salem,Groundnut,Kharif,41.32,125.52
+2015,Salem,Groundnut,Kharif,52.72,244.99
+2015,Salem,Bengal Gram,Kharif,42.19,248.05
+2015,Salem,Bengal Gram,Kharif,69.64,264.99
+2016,Salem,Groundnut,Kharif,107.36,145.44
+2016,Salem,Groundnut,Kharif,71.22,169.02
+2016,Salem,Bengal Gram,Kharif,53.81,143.03
+2016,Salem,Bengal Gram,Kharif,143.69,111.19
+2017,Salem,Groundnut,Kharif,111.51,163.27
+2017,Salem,Groundnut,Kharif,42.43,124.66
+2017,Salem,Bengal Gram,Kharif,90.28,182.01
+2017,Salem,Bengal Gram,Kharif,124.88,120.46
+2018,Salem,Groundnut,Kharif,103.13,114.61
+2018,Salem,Groundnut,Kharif,78.42,164.71
+2018,Salem,Bengal Gram,Kharif,68.02,111.73
+2018,Salem,Bengal Gram,Kharif,57.08,231.87
+2019,Salem,Groundnut,Kharif,66.95,232.56
+2019,Salem,Groundnut,Kharif,99.56,228.9
+2019,Salem,Bengal Gram,Kharif,95.1,197.63
+2019,Salem,Bengal Gram,Kharif,67.56,198.6
+2020,Salem,Groundnut,Kharif,135.18,171.98
+2020,Salem,Groundnut,Kharif,89.09,214.12
+2020,Salem,Bengal Gram,Kharif,46.7,149.49
+2020,Salem,Bengal Gram,Kharif,65.56,128.49
+2021,Salem,Groundnut,Kharif,72.87,125.52
+2021,Salem,Groundnut,Kharif,55.64,242.29
+2021,Salem,Bengal Gram,Kharif,139.01,194.63
+2021,Salem,Bengal Gram,Kharif,70.06,148.24
+2009,Salem,Groundnut,Kharif,43.63,193.79
+2009,Salem,Groundnut,Kharif,81.3,129.4
+2009,Salem,Bengal Gram,Kharif,59.57,174.14
+2009,Salem,Bengal Gram,Kharif,72.57,197.28
+2010,Salem,Groundnut,Kharif,39.94,162.36
+2010,Salem,Groundnut,Kharif,84.81,180.45
+2010,Salem,Bengal Gram,Kharif,139.68,241.12
+2010,Salem,Bengal Gram,Kharif,143.23,254.19
+2011,Salem,Groundnut,Kharif,124.16,252.95
+2011,Salem,Groundnut,Kharif,115.42,265.62
+2011,Salem,Bengal Gram,Kharif,71.93,184.16
+2011,Salem,Bengal Gram,Kharif,133.43,261.34
+2012,Salem,Groundnut,Kharif,50.62,136.22
+2012,Salem,Groundnut,Kharif,82.27,160.51
+2012,Salem,Bengal Gram,Kharif,50.88,227.84
+2012,Salem,Bengal Gram,Kharif,99.46,199.24
+2013,Salem,Groundnut,Kharif,135.45,220.22
+2013,Salem,Groundnut,Kharif,92.95,254.9
+2013,Salem,Bengal Gram,Kharif,122.77,163.67
+2013,Salem,Bengal Gram,Kharif,128.19,140.52
+2014,Salem,Groundnut,Kharif,49.25,151.77
+2014,Salem,Groundnut,Kharif,100.25,129.87
+2014,Salem,Bengal Gram,Kharif,71.51,117.91
+2014,Salem,Bengal Gram,Kharif,87.4,272.12
+2015,Salem,Groundnut,Kharif,55.99,185.02
+2015,Salem,Groundnut,Kharif,41.36,277.35
+2015,Salem,Bengal Gram,Kharif,73.92,259.96
+2015,Salem,Bengal Gram,Kharif,59.08,122.72
+2016,Salem,Groundnut,Kharif,88.19,141.42
+2016,Salem,Groundnut,Kharif,102.77,203.56
+2016,Salem,Bengal Gram,Kharif,87.54,160.33
+2016,Salem,Bengal Gram,Kharif,66.43,161.46
+2017,Salem,Groundnut,Kharif,124.65,210.6
+2017,Salem,Groundnut,Kharif,97.3,108.28
+2017,Salem,Bengal Gram,Kharif,137.44,156.52
+2017,Salem,Bengal Gram,Kharif,66.32,143.84
+2018,Salem,Groundnut,Kharif,41.57,221.66
+2018,Salem,Groundnut,Kharif,100,206.1
+2018,Salem,Bengal Gram,Kharif,138.16,134.78
+2018,Salem,Bengal Gram,Kharif,119.95,170
+2019,Salem,Groundnut,Kharif,44.97,163.4
+2019,Salem,Groundnut,Kharif,45.66,199.68
+2019,Salem,Bengal Gram,Kharif,143.52,241.93
+2019,Salem,Bengal Gram,Kharif,116.76,204.57
+2020,Salem,Groundnut,Kharif,133.04,190.11
+2020,Salem,Groundnut,Kharif,42.96,243.76
+2020,Salem,Bengal Gram,Kharif,139.47,133.07
+2020,Salem,Bengal Gram,Kharif,91.89,273.15
+2021,Salem,Groundnut,Kharif,79.17,157.83
+2021,Salem,Groundnut,Kharif,53.7,276.22
+2021,Salem,Bengal Gram,Kharif,122.82,159.88
+2021,Salem,Bengal Gram,Kharif,79.21,154.76
+2009,Coimbatore,Groundnut,Kharif,63.56,147.91
+2009,Coimbatore,Groundnut,Kharif,71.76,155.4
+2009,Coimbatore,Bengal Gram,Kharif,60.13,155.59
+2009,Coimbatore,Bengal Gram,Kharif,93.01,175.37
+2010,Coimbatore,Groundnut,Kharif,132.49,171.91
+2010,Coimbatore,Groundnut,Kharif,65.14,154.58
+2010,Coimbatore,Bengal Gram,Kharif,51.37,168.86
+2010,Coimbatore,Bengal Gram,Kharif,93.39,193.47
+2011,Coimbatore,Groundnut,Kharif,47.01,191.59
+2011,Coimbatore,Groundnut,Kharif,49.16,191.17
+2011,Coimbatore,Bengal Gram,Kharif,57.53,177.76
+2011,Coimbatore,Bengal Gram,Kharif,117.09,143.77
+2012,Coimbatore,Groundnut,Kharif,72.08,172.35
+2012,Coimbatore,Groundnut,Kharif,56.72,171.21
+2012,Coimbatore,Bengal Gram,Kharif,58.26,162.7
+2012,Coimbatore,Bengal Gram,Kharif,49.45,198.02
+2013,Coimbatore,Groundnut,Kharif,85.21,200.77
+2013,Coimbatore,Groundnut,Kharif,120.12,149.47
+2013,Coimbatore,Bengal Gram,Kharif,127.66,172.94
+2013,Coimbatore,Bengal Gram,Kharif,70.18,131.68
+2014,Coimbatore,Groundnut,Kharif,115.61,149.13
+2014,Coimbatore,Groundnut,Kharif,47.32,165.12
+2014,Coimbatore,Bengal Gram,Kharif,50.28,177.56
+2014,Coimbatore,Bengal Gram,Kharif,102.28,211.9
+2015,Coimbatore,Groundnut,Kharif,58.9,128.84
+2015,Coimbatore,Groundnut,Kharif,78.33,183.98
+2015,Coimbatore,Bengal Gram,Kharif,57.51,134.08
+2015,Coimbatore,Bengal Gram,Kharif,111.92,206.85
+2016,Coimbatore,Groundnut,Kharif,121.91,212.82
+2016,Coimbatore,Groundnut,Kharif,90.72,133.57
+2016,Coimbatore,Bengal Gram,Kharif,112.83,156.91
+2016,Coimbatore,Bengal Gram,Kharif,84.16,135.68
+2017,Coimbatore,Groundnut,Kharif,64.6,211.18
+2017,Coimbatore,Groundnut,Kharif,81.94,189.06
+2017,Coimbatore,Bengal Gram,Kharif,96.17,215.02
+2017,Coimbatore,Bengal Gram,Kharif,103.84,209.47
+2018,Coimbatore,Groundnut,Kharif,61.09,175.9
+2018,Coimbatore,Groundnut,Kharif,48.7,165.7
+2018,Coimbatore,Bengal Gram,Kharif,89.36,203.11
+2018,Coimbatore,Bengal Gram,Kharif,73.52,132.05
+2019,Coimbatore,Groundnut,Kharif,74.47,177.01
+2019,Coimbatore,Groundnut,Kharif,91.18,171.33
+2019,Coimbatore,Bengal Gram,Kharif,102.3,172.9
+2019,Coimbatore,Bengal Gram,Kharif,98.13,185.64
+2020,Coimbatore,Groundnut,Kharif,107.23,174.44
+2020,Coimbatore,Groundnut,Kharif,118.1,201.76
+2020,Coimbatore,Bengal Gram,Kharif,47.17,184.32
+2020,Coimbatore,Bengal Gram,Kharif,102.14,200.17
+2021,Coimbatore,Groundnut,Kharif,86.83,205.96
+2021,Coimbatore,Groundnut,Kharif,93.44,218.43
+2021,Coimbatore,Bengal Gram,Kharif,94.95,144.79
+2021,Coimbatore,Bengal Gram,Kharif,48.16,144.75
+2009,Coimbatore,Groundnut,Kharif,125.39,157.09
+2009,Coimbatore,Groundnut,Kharif,110.48,206.28
+2009,Coimbatore,Bengal Gram,Kharif,52.85,153.8
+2009,Coimbatore,Bengal Gram,Kharif,94.89,157.82
+2010,Coimbatore,Groundnut,Kharif,95.7,188.95
+2010,Coimbatore,Groundnut,Kharif,128.3,205.24
+2010,Coimbatore,Bengal Gram,Kharif,49.6,166.53
+2010,Coimbatore,Bengal Gram,Kharif,129.04,214.46
+2011,Coimbatore,Groundnut,Kharif,54.49,159.92
+2011,Coimbatore,Groundnut,Kharif,102,165.13
+2011,Coimbatore,Bengal Gram,Kharif,94.25,185.03
+2011,Coimbatore,Bengal Gram,Kharif,105.18,177.65
+2012,Coimbatore,Groundnut,Kharif,47.9,197.91
+2012,Coimbatore,Groundnut,Kharif,119.35,183.9
+2012,Coimbatore,Bengal Gram,Kharif,55.1,152.28
+2012,Coimbatore,Bengal Gram,Kharif,54.15,164.84
+2013,Coimbatore,Groundnut,Kharif,63.8,210.97
+2013,Coimbatore,Groundnut,Kharif,131.19,131.9
+2013,Coimbatore,Bengal Gram,Kharif,99.99,165.99
+2013,Coimbatore,Bengal Gram,Kharif,108.28,130.61
+2014,Coimbatore,Groundnut,Kharif,110.27,209.62
+2014,Coimbatore,Groundnut,Kharif,61.48,152.13
+2014,Coimbatore,Bengal Gram,Kharif,113.59,145.15
+2014,Coimbatore,Bengal Gram,Kharif,78,131.05
+2015,Coimbatore,Groundnut,Kharif,101.25,131.92
+2015,Coimbatore,Groundnut,Kharif,129.34,134.51
+2015,Coimbatore,Bengal Gram,Kharif,125.48,132.05
+2015,Coimbatore,Bengal Gram,Kharif,49.04,184
+2016,Coimbatore,Groundnut,Kharif,75.77,135.06
+2016,Coimbatore,Groundnut,Kharif,130.03,213.64
+2016,Coimbatore,Bengal Gram,Kharif,54.38,155.34
+2016,Coimbatore,Bengal Gram,Kharif,113.24,139.81
+2017,Coimbatore,Groundnut,Kharif,112.08,195.68
+2017,Coimbatore,Groundnut,Kharif,66.9,150.71
+2017,Coimbatore,Bengal Gram,Kharif,93.83,165.13
+2017,Coimbatore,Bengal Gram,Kharif,125.82,148.57
+2018,Coimbatore,Groundnut,Kharif,58.24,191.15
+2018,Coimbatore,Groundnut,Kharif,80.31,202.81
+2018,Coimbatore,Bengal Gram,Kharif,90.25,193.47
+2018,Coimbatore,Bengal Gram,Kharif,107.92,158.56
+2019,Coimbatore,Groundnut,Kharif,76.86,203.01
+2019,Coimbatore,Groundnut,Kharif,94.58,140.03
+2019,Coimbatore,Bengal Gram,Kharif,86.67,189.83
+2019,Coimbatore,Bengal Gram,Kharif,128.83,127.45
+2020,Coimbatore,Groundnut,Kharif,76.8,190.78
+2020,Coimbatore,Groundnut,Kharif,126.2,201.12
+2020,Coimbatore,Bengal Gram,Kharif,53.72,148.28
+2020,Coimbatore,Bengal Gram,Kharif,112.84,184.46
+2021,Coimbatore,Groundnut,Kharif,53.74,149.08
+2021,Coimbatore,Groundnut,Kharif,57.39,126.94
+2021,Coimbatore,Bengal Gram,Kharif,97.55,206.61
+2021,Coimbatore,Bengal Gram,Kharif,91.7,174.24
+2009,Coimbatore,Groundnut,Rabi,85.94,369.56
+2009,Coimbatore,Groundnut,Rabi,100.66,279.28
+2009,Coimbatore,Bengal Gram,Rabi,94.75,261.12
+2009,Coimbatore,Bengal Gram,Rabi,82.4,407.05
+2010,Coimbatore,Groundnut,Rabi,79.11,260.91
+2010,Coimbatore,Groundnut,Rabi,83.95,408.75
+2010,Coimbatore,Bengal Gram,Rabi,54.44,409.61
+2010,Coimbatore,Bengal Gram,Rabi,59.04,261.67
+2011,Coimbatore,Groundnut,Rabi,77.38,288.67
+2011,Coimbatore,Groundnut,Rabi,53.62,291.49
+2011,Coimbatore,Bengal Gram,Rabi,106.58,364.95
+2011,Coimbatore,Bengal Gram,Rabi,49.97,351.68
+2012,Coimbatore,Groundnut,Rabi,54.95,390.83
+2012,Coimbatore,Groundnut,Rabi,58.93,306.56
+2012,Coimbatore,Bengal Gram,Rabi,115.58,290.24
+2012,Coimbatore,Bengal Gram,Rabi,127.13,320.81
+2013,Coimbatore,Groundnut,Rabi,92.72,260.5
+2013,Coimbatore,Groundnut,Rabi,79.13,288.9
+2013,Coimbatore,Bengal Gram,Rabi,62.51,278.37
+2013,Coimbatore,Bengal Gram,Rabi,106.56,272.76
+2014,Coimbatore,Groundnut,Rabi,82.32,299.05
+2014,Coimbatore,Groundnut,Rabi,60.59,315.82
+2014,Coimbatore,Bengal Gram,Rabi,117.23,381.03
+2014,Coimbatore,Bengal Gram,Rabi,127.27,383.37
+2015,Coimbatore,Groundnut,Rabi,72.77,415.65
+2015,Coimbatore,Groundnut,Rabi,53.14,376.39
+2015,Coimbatore,Bengal Gram,Rabi,78.27,406.4
+2015,Coimbatore,Bengal Gram,Rabi,83.19,281.84
+2016,Coimbatore,Groundnut,Rabi,108.1,347.11
+2016,Coimbatore,Groundnut,Rabi,122.7,269.61
+2016,Coimbatore,Bengal Gram,Rabi,83.43,315.51
+2016,Coimbatore,Bengal Gram,Rabi,81.63,344.96
+2017,Coimbatore,Groundnut,Rabi,55.49,382.13
+2017,Coimbatore,Groundnut,Rabi,133.69,417.23
+2017,Coimbatore,Bengal Gram,Rabi,91.05,320.88
+2017,Coimbatore,Bengal Gram,Rabi,67.48,382.6
+2018,Coimbatore,Groundnut,Rabi,119.13,265.1
+2018,Coimbatore,Groundnut,Rabi,53.51,367.45
+2018,Coimbatore,Bengal Gram,Rabi,59.72,401.43
+2018,Coimbatore,Bengal Gram,Rabi,128.75,343.03
+2019,Coimbatore,Groundnut,Rabi,131.67,388.22
+2019,Coimbatore,Groundnut,Rabi,111.67,402.66
+2019,Coimbatore,Bengal Gram,Rabi,115.86,314.18
+2019,Coimbatore,Bengal Gram,Rabi,100.65,399.05
+2020,Coimbatore,Groundnut,Rabi,124.63,292.6
+2020,Coimbatore,Groundnut,Rabi,80.06,414.18
+2020,Coimbatore,Bengal Gram,Rabi,77.02,262.58
+2020,Coimbatore,Bengal Gram,Rabi,77.58,265.54
+2021,Coimbatore,Groundnut,Rabi,63.44,371.55
+2021,Coimbatore,Groundnut,Rabi,114.39,371.7
+2021,Coimbatore,Bengal Gram,Rabi,97.37,271.74
+2021,Coimbatore,Bengal Gram,Rabi,99.86,384.96
+2009,Coimbatore,Groundnut,Rabi,68.54,315.71
+2009,Coimbatore,Groundnut,Rabi,104.83,309.69
+2009,Coimbatore,Bengal Gram,Rabi,118.45,301.53
+2009,Coimbatore,Bengal Gram,Rabi,119.92,272.13
+2010,Coimbatore,Groundnut,Rabi,60.33,395.37
+2010,Coimbatore,Groundnut,Rabi,84.12,381.62
+2010,Coimbatore,Bengal Gram,Rabi,92.88,281.12
+2010,Coimbatore,Bengal Gram,Rabi,121.95,267.61
+2011,Coimbatore,Groundnut,Rabi,72.79,338.84
+2011,Coimbatore,Groundnut,Rabi,94.08,264.1
+2011,Coimbatore,Bengal Gram,Rabi,107.58,409.47
+2011,Coimbatore,Bengal Gram,Rabi,79.75,289.42
+2012,Coimbatore,Groundnut,Rabi,99.38,369.63
+2012,Coimbatore,Groundnut,Rabi,60.09,277.05
+2012,Coimbatore,Bengal Gram,Rabi,94.75,286.86
+2012,Coimbatore,Bengal Gram,Rabi,75.62,338.42
+2013,Coimbatore,Groundnut,Rabi,56.52,368.8
+2013,Coimbatore,Groundnut,Rabi,48.79,276.01
+2013,Coimbatore,Bengal Gram,Rabi,98.78,343.64
+2013,Coimbatore,Bengal Gram,Rabi,123.66,291.72
+2014,Coimbatore,Groundnut,Rabi,63.59,334.59
+2014,Coimbatore,Groundnut,Rabi,71.81,332.54
+2014,Coimbatore,Bengal Gram,Rabi,67.5,418.43
+2014,Coimbatore,Bengal Gram,Rabi,63.73,264.95
+2015,Coimbatore,Groundnut,Rabi,87.08,267.96
+2015,Coimbatore,Groundnut,Rabi,99.29,360.04
+2015,Coimbatore,Bengal Gram,Rabi,130.22,265.04
+2015,Coimbatore,Bengal Gram,Rabi,67.27,415.88
+2016,Coimbatore,Groundnut,Rabi,79.76,366.91
+2016,Coimbatore,Groundnut,Rabi,110.16,266.46
+2016,Coimbatore,Bengal Gram,Rabi,102.11,348.34
+2016,Coimbatore,Bengal Gram,Rabi,87.44,321.07
+2017,Coimbatore,Groundnut,Rabi,106.29,317.3
+2017,Coimbatore,Groundnut,Rabi,123.17,315.38
+2017,Coimbatore,Bengal Gram,Rabi,48.78,283.19
+2017,Coimbatore,Bengal Gram,Rabi,96.75,291.21
+2018,Coimbatore,Groundnut,Rabi,112.59,411.24
+2018,Coimbatore,Groundnut,Rabi,129.3,406.73
+2018,Coimbatore,Bengal Gram,Rabi,106.26,262.84
+2018,Coimbatore,Bengal Gram,Rabi,83.2,411.12
+2019,Coimbatore,Groundnut,Rabi,116.8,355.95
+2019,Coimbatore,Groundnut,Rabi,107.68,377.65
+2019,Coimbatore,Bengal Gram,Rabi,57.01,349.14
+2019,Coimbatore,Bengal Gram,Rabi,88.62,412.13
+2020,Coimbatore,Groundnut,Rabi,48.94,281.26
+2020,Coimbatore,Groundnut,Rabi,113.83,272.54
+2020,Coimbatore,Bengal Gram,Rabi,57.59,262.01
+2020,Coimbatore,Bengal Gram,Rabi,83.95,269.28
+2021,Coimbatore,Groundnut,Rabi,133.33,300
+2021,Coimbatore,Groundnut,Rabi,125.91,343.09
+2021,Coimbatore,Bengal Gram,Rabi,119.39,384.05
+2021,Coimbatore,Bengal Gram,Rabi,110.18,323.23
+2009,Thanjavur,Groundnut,Rabi,561.47,926.51
+2009,Thanjavur,Groundnut,Rabi,627.18,1201.02
+2009,Thanjavur,Bengal Gram,Rabi,392.17,1008.17
+2009,Thanjavur,Bengal Gram,Rabi,642.73,886.27
+2010,Thanjavur,Groundnut,Rabi,620.92,888.41
+2010,Thanjavur,Groundnut,Rabi,432.62,719.55
+2010,Thanjavur,Bengal Gram,Rabi,466.91,1063.4
+2010,Thanjavur,Bengal Gram,Rabi,430.99,921.84
+2011,Thanjavur,Groundnut,Rabi,470.26,1209.83
+2011,Thanjavur,Groundnut,Rabi,617.7,1258.99
+2011,Thanjavur,Bengal Gram,Rabi,637.08,998.98
+2011,Thanjavur,Bengal Gram,Rabi,642.46,1140.65
+2012,Thanjavur,Groundnut,Rabi,413.79,1006.63
+2012,Thanjavur,Groundnut,Rabi,655.99,1182.78
+2012,Thanjavur,Bengal Gram,Rabi,523.46,1276.01
+2012,Thanjavur,Bengal Gram,Rabi,638.53,854.1
+2013,Thanjavur,Groundnut,Rabi,388.86,1194.82
+2013,Thanjavur,Groundnut,Rabi,427.33,875.73
+2013,Thanjavur,Bengal Gram,Rabi,486.23,1195.44
+2013,Thanjavur,Bengal Gram,Rabi,669.66,840.25
+2014,Thanjavur,Groundnut,Rabi,635.36,1244.3
+2014,Thanjavur,Groundnut,Rabi,664.12,974.53
+2014,Thanjavur,Bengal Gram,Rabi,406.24,938.29
+2014,Thanjavur,Bengal Gram,Rabi,619.51,910.1
+2015,Thanjavur,Groundnut,Rabi,381.58,1079.87
+2015,Thanjavur,Groundnut,Rabi,450.18,1219.23
+2015,Thanjavur,Bengal Gram,Rabi,431.88,925.61
+2015,Thanjavur,Bengal Gram,Rabi,622.17,1248.15
+2016,Thanjavur,Groundnut,Rabi,607.17,1093.02
+2016,Thanjavur,Groundnut,Rabi,430.93,1001.76
+2016,Thanjavur,Bengal Gram,Rabi,382.35,781.1
+2016,Thanjavur,Bengal Gram,Rabi,596.67,854.59
+2017,Thanjavur,Groundnut,Rabi,476.75,932.56
+2017,Thanjavur,Groundnut,Rabi,429.07,1186.09
+2017,Thanjavur,Bengal Gram,Rabi,571.41,796.97
+2017,Thanjavur,Bengal Gram,Rabi,589.48,754
+2018,Thanjavur,Groundnut,Rabi,618.52,1022.21
+2018,Thanjavur,Groundnut,Rabi,422.93,990.77
+2018,Thanjavur,Bengal Gram,Rabi,541.56,1218.16
+2018,Thanjavur,Bengal Gram,Rabi,622.72,963.42
+2019,Thanjavur,Groundnut,Rabi,395.2,1248.01
+2019,Thanjavur,Groundnut,Rabi,384.69,1024.17
+2019,Thanjavur,Bengal Gram,Rabi,573.54,1057.1
+2019,Thanjavur,Bengal Gram,Rabi,618.8,1126.71
+2020,Thanjavur,Groundnut,Rabi,647.67,1171.84
+2020,Thanjavur,Groundnut,Rabi,436.37,1236.95
+2020,Thanjavur,Bengal Gram,Rabi,496.04,1238.32
+2020,Thanjavur,Bengal Gram,Rabi,545.64,1028.2
+2021,Thanjavur,Groundnut,Rabi,631.68,1272.81
+2021,Thanjavur,Groundnut,Rabi,632.8,1132.67
+2021,Thanjavur,Bengal Gram,Rabi,543.88,1222.2
+2021,Thanjavur,Bengal Gram,Rabi,419.2,1096.12
+2009,Thanjavur,Groundnut,Rabi,592.93,1237.98
+2009,Thanjavur,Groundnut,Rabi,486.29,772.85
+2009,Thanjavur,Bengal Gram,Rabi,520.48,920.84
+2009,Thanjavur,Bengal Gram,Rabi,428.27,929.3
+2010,Thanjavur,Groundnut,Rabi,398.61,772.38
+2010,Thanjavur,Groundnut,Rabi,668.3,921.61
+2010,Thanjavur,Bengal Gram,Rabi,471.3,888.56
+2010,Thanjavur,Bengal Gram,Rabi,652.16,931.85
+2011,Thanjavur,Groundnut,Rabi,615.12,1100.87
+2011,Thanjavur,Groundnut,Rabi,457.31,862.11
+2011,Thanjavur,Bengal Gram,Rabi,480.81,1207.61
+2011,Thanjavur,Bengal Gram,Rabi,467,993.38
+2012,Thanjavur,Groundnut,Rabi,481.95,1260.23
+2012,Thanjavur,Groundnut,Rabi,514.3,1028.7
+2012,Thanjavur,Bengal Gram,Rabi,412.06,940.17
+2012,Thanjavur,Bengal Gram,Rabi,565.62,1141.66
+2013,Thanjavur,Groundnut,Rabi,381.78,1031.6
+2013,Thanjavur,Groundnut,Rabi,470.91,1314.08
+2013,Thanjavur,Bengal Gram,Rabi,551.63,1227.97
+2013,Thanjavur,Bengal Gram,Rabi,498.72,1062.82
+2014,Thanjavur,Groundnut,Rabi,662.28,812.08
+2014,Thanjavur,Groundnut,Rabi,466.29,986.02
+2014,Thanjavur,Bengal Gram,Rabi,426.78,798.56
+2014,Thanjavur,Bengal Gram,Rabi,644.37,843.7
+2015,Thanjavur,Groundnut,Rabi,664.71,899.2
+2015,Thanjavur,Groundnut,Rabi,575.82,1016
+2015,Thanjavur,Bengal Gram,Rabi,560.4,1090.58
+2015,Thanjavur,Bengal Gram,Rabi,550.01,999.59
+2016,Thanjavur,Groundnut,Rabi,618.49,881.15
+2016,Thanjavur,Groundnut,Rabi,592.18,1054.96
+2016,Thanjavur,Bengal Gram,Rabi,401.34,901.65
+2016,Thanjavur,Bengal Gram,Rabi,409.39,1157.13
+2017,Thanjavur,Groundnut,Rabi,430.18,980.97
+2017,Thanjavur,Groundnut,Rabi,545.61,1306.79
+2017,Thanjavur,Bengal Gram,Rabi,574.44,849.99
+2017,Thanjavur,Bengal Gram,Rabi,587.19,1244.37
+2018,Thanjavur,Groundnut,Rabi,448.55,1231.44
+2018,Thanjavur,Groundnut,Rabi,507.56,1037.65
+2018,Thanjavur,Bengal Gram,Rabi,667.82,991.03
+2018,Thanjavur,Bengal Gram,Rabi,549.12,791.43
+2019,Thanjavur,Groundnut,Rabi,594.94,816.07
+2019,Thanjavur,Groundnut,Rabi,465.28,1085.08
+2019,Thanjavur,Bengal Gram,Rabi,622.49,1038.13
+2019,Thanjavur,Bengal Gram,Rabi,638.61,809.54
+2020,Thanjavur,Groundnut,Rabi,441.73,1207.87
+2020,Thanjavur,Groundnut,Rabi,668.56,786.28
+2020,Thanjavur,Bengal Gram,Rabi,499.79,1220.46
+2020,Thanjavur,Bengal Gram,Rabi,422.88,1104.32
+2021,Thanjavur,Groundnut,Rabi,488.54,717.71
+2021,Thanjavur,Groundnut,Rabi,622.45,811.08
+2021,Thanjavur,Bengal Gram,Rabi,437.63,1070.83
+2021,Thanjavur,Bengal Gram,Rabi,532.92,766.13
+2009,Thirunelveli,Groundnut,Rabi,121.19,523.95
+2009,Thirunelveli,Groundnut,Rabi,106.67,426.91
+2009,Thirunelveli,Bengal Gram,Rabi,69.36,575.45
+2009,Thirunelveli,Bengal Gram,Rabi,113.48,451.97
+2010,Thirunelveli,Groundnut,Rabi,132.96,583.56
+2010,Thirunelveli,Groundnut,Rabi,170.26,469.99
+2010,Thirunelveli,Bengal Gram,Rabi,124.01,489.31
+2010,Thirunelveli,Bengal Gram,Rabi,99.31,570.1
+2011,Thirunelveli,Groundnut,Rabi,97.43,592.42
+2011,Thirunelveli,Groundnut,Rabi,65.46,579.37
+2011,Thirunelveli,Bengal Gram,Rabi,82.5,598.76
+2011,Thirunelveli,Bengal Gram,Rabi,137.33,463.18
+2012,Thirunelveli,Groundnut,Rabi,148.3,421.83
+2012,Thirunelveli,Groundnut,Rabi,146.43,587.51
+2012,Thirunelveli,Bengal Gram,Rabi,90.51,595.31
+2012,Thirunelveli,Bengal Gram,Rabi,127.61,414.59
+2013,Thirunelveli,Groundnut,Rabi,135.85,590.2
+2013,Thirunelveli,Groundnut,Rabi,142.69,569.71
+2013,Thirunelveli,Bengal Gram,Rabi,149.62,543.89
+2013,Thirunelveli,Bengal Gram,Rabi,123.52,458.19
+2014,Thirunelveli,Groundnut,Rabi,136.09,553.01
+2014,Thirunelveli,Groundnut,Rabi,86.8,481.77
+2014,Thirunelveli,Bengal Gram,Rabi,59.51,505.34
+2014,Thirunelveli,Bengal Gram,Rabi,53.49,483.34
+2015,Thirunelveli,Groundnut,Rabi,115.99,572.13
+2015,Thirunelveli,Groundnut,Rabi,132.99,444.77
+2015,Thirunelveli,Bengal Gram,Rabi,107.93,479.37
+2015,Thirunelveli,Bengal Gram,Rabi,92.32,531.75
+2016,Thirunelveli,Groundnut,Rabi,59.47,479.35
+2016,Thirunelveli,Groundnut,Rabi,159.75,455.69
+2016,Thirunelveli,Bengal Gram,Rabi,80.54,412.03
+2016,Thirunelveli,Bengal Gram,Rabi,62.98,472.49
+2017,Thirunelveli,Groundnut,Rabi,73.31,544.15
+2017,Thirunelveli,Groundnut,Rabi,118.11,551.85
+2017,Thirunelveli,Bengal Gram,Rabi,83.59,529.76
+2017,Thirunelveli,Bengal Gram,Rabi,167.71,541.99
+2018,Thirunelveli,Groundnut,Rabi,140.43,589.79
+2018,Thirunelveli,Groundnut,Rabi,110.14,441.89
+2018,Thirunelveli,Bengal Gram,Rabi,166.76,409.37
+2018,Thirunelveli,Bengal Gram,Rabi,106.73,483.89
+2019,Thirunelveli,Groundnut,Rabi,49.83,478.07
+2019,Thirunelveli,Groundnut,Rabi,67.25,553.4
+2019,Thirunelveli,Bengal Gram,Rabi,50.66,453.01
+2019,Thirunelveli,Bengal Gram,Rabi,151.14,547.38
+2020,Thirunelveli,Groundnut,Rabi,167.35,465.34
+2020,Thirunelveli,Groundnut,Rabi,73.78,438.9
+2020,Thirunelveli,Bengal Gram,Rabi,111.77,565.21
+2020,Thirunelveli,Bengal Gram,Rabi,151.04,442.29
+2021,Thirunelveli,Groundnut,Rabi,59.21,556.38
+2021,Thirunelveli,Groundnut,Rabi,83.77,479.71
+2021,Thirunelveli,Bengal Gram,Rabi,153.51,524.05
+2021,Thirunelveli,Bengal Gram,Rabi,108.77,475.64
+2009,Thirunelveli,Groundnut,Rabi,113.56,460.29
+2009,Thirunelveli,Groundnut,Rabi,58.46,564.3
+2009,Thirunelveli,Bengal Gram,Rabi,135.86,610.4
+2009,Thirunelveli,Bengal Gram,Rabi,169.55,607.2
+2010,Thirunelveli,Groundnut,Rabi,150.13,425.82
+2010,Thirunelveli,Groundnut,Rabi,109.82,480.65
+2010,Thirunelveli,Bengal Gram,Rabi,114.34,556.69
+2010,Thirunelveli,Bengal Gram,Rabi,156.8,450.59
+2011,Thirunelveli,Groundnut,Rabi,96.29,532.55
+2011,Thirunelveli,Groundnut,Rabi,150.21,462.8
+2011,Thirunelveli,Bengal Gram,Rabi,115.16,479.02
+2011,Thirunelveli,Bengal Gram,Rabi,103.65,425.9
+2012,Thirunelveli,Groundnut,Rabi,142.79,586.5
+2012,Thirunelveli,Groundnut,Rabi,90.27,422.4
+2012,Thirunelveli,Bengal Gram,Rabi,106.03,411.26
+2012,Thirunelveli,Bengal Gram,Rabi,76.1,560.58
+2013,Thirunelveli,Groundnut,Rabi,104.21,435.44
+2013,Thirunelveli,Groundnut,Rabi,65.14,438.1
+2013,Thirunelveli,Bengal Gram,Rabi,119.85,555.12
+2013,Thirunelveli,Bengal Gram,Rabi,155.74,433.18
+2014,Thirunelveli,Groundnut,Rabi,64.04,569.51
+2014,Thirunelveli,Groundnut,Rabi,93.07,474.07
+2014,Thirunelveli,Bengal Gram,Rabi,120.79,571.39
+2014,Thirunelveli,Bengal Gram,Rabi,97.8,559.63
+2015,Thirunelveli,Groundnut,Rabi,112.73,555.53
+2015,Thirunelveli,Groundnut,Rabi,159.95,594.88
+2015,Thirunelveli,Bengal Gram,Rabi,59.98,608.54
+2015,Thirunelveli,Bengal Gram,Rabi,116.42,579.69
+2016,Thirunelveli,Groundnut,Rabi,170.55,456.3
+2016,Thirunelveli,Groundnut,Rabi,96.15,408.65
+2016,Thirunelveli,Bengal Gram,Rabi,135.34,518.88
+2016,Thirunelveli,Bengal Gram,Rabi,165.04,590.83
+2017,Thirunelveli,Groundnut,Rabi,91.95,553.61
+2017,Thirunelveli,Groundnut,Rabi,84.51,430.09
+2017,Thirunelveli,Bengal Gram,Rabi,70.01,586.19
+2017,Thirunelveli,Bengal Gram,Rabi,159.41,455.41
+2018,Thirunelveli,Groundnut,Rabi,83.37,420.89
+2018,Thirunelveli,Groundnut,Rabi,103.39,530.51
+2018,Thirunelveli,Bengal Gram,Rabi,73.56,493.07
+2018,Thirunelveli,Bengal Gram,Rabi,146.35,572.62
+2019,Thirunelveli,Groundnut,Rabi,145.19,569.13
+2019,Thirunelveli,Groundnut,Rabi,85.11,559.5
+2019,Thirunelveli,Bengal Gram,Rabi,120.53,565.42
+2019,Thirunelveli,Bengal Gram,Rabi,68.95,539.49
+2020,Thirunelveli,Groundnut,Rabi,124.12,440.51
+2020,Thirunelveli,Groundnut,Rabi,70.03,527.44
+2020,Thirunelveli,Bengal Gram,Rabi,110.63,488.99
+2020,Thirunelveli,Bengal Gram,Rabi,69.73,426.95
+2021,Thirunelveli,Groundnut,Rabi,130.35,446.49
+2021,Thirunelveli,Groundnut,Rabi,48.76,434.76
+2021,Thirunelveli,Bengal Gram,Rabi,60.44,440.54
+2021,Thirunelveli,Bengal Gram,Rabi,55.75,415.03
+2009,Thanjavur,Groundnut,Kharif,357.49,179.22
+2009,Thanjavur,Groundnut,Kharif,300.1,359.9
+2009,Thanjavur,Bengal Gram,Kharif,226.85,386.42
+2009,Thanjavur,Bengal Gram,Kharif,266.14,266.49
+2010,Thanjavur,Groundnut,Kharif,261.39,176.09
+2010,Thanjavur,Groundnut,Kharif,290.85,173.56
+2010,Thanjavur,Bengal Gram,Kharif,230.11,361
+2010,Thanjavur,Bengal Gram,Kharif,212.07,333.5
+2011,Thanjavur,Groundnut,Kharif,192.46,353.97
+2011,Thanjavur,Groundnut,Kharif,319.28,219.41
+2011,Thanjavur,Bengal Gram,Kharif,253.07,159.18
+2011,Thanjavur,Bengal Gram,Kharif,341.72,348.01
+2012,Thanjavur,Groundnut,Kharif,344.1,124.04
+2012,Thanjavur,Groundnut,Kharif,173.29,143.48
+2012,Thanjavur,Bengal Gram,Kharif,268.58,355
+2012,Thanjavur,Bengal Gram,Kharif,190.91,359.08
+2013,Thanjavur,Groundnut,Kharif,286.37,274.74
+2013,Thanjavur,Groundnut,Kharif,187.13,260.65
+2013,Thanjavur,Bengal Gram,Kharif,302.08,326.32
+2013,Thanjavur,Bengal Gram,Kharif,348.18,202.83
+2014,Thanjavur,Groundnut,Kharif,235.15,197.54
+2014,Thanjavur,Groundnut,Kharif,323.25,157.93
+2014,Thanjavur,Bengal Gram,Kharif,293.43,143.44
+2014,Thanjavur,Bengal Gram,Kharif,330.44,174.09
+2015,Thanjavur,Groundnut,Kharif,177.92,290.73
+2015,Thanjavur,Groundnut,Kharif,236.34,172.67
+2015,Thanjavur,Bengal Gram,Kharif,214.67,391.7
+2015,Thanjavur,Bengal Gram,Kharif,348.24,230.36
+2016,Thanjavur,Groundnut,Kharif,346.9,367.25
+2016,Thanjavur,Groundnut,Kharif,332.01,390.03
+2016,Thanjavur,Bengal Gram,Kharif,363.6,161.71
+2016,Thanjavur,Bengal Gram,Kharif,267.58,216.15
+2017,Thanjavur,Groundnut,Kharif,208.07,204.19
+2017,Thanjavur,Groundnut,Kharif,358.74,218.9
+2017,Thanjavur,Bengal Gram,Kharif,359.19,153.83
+2017,Thanjavur,Bengal Gram,Kharif,196.43,133.63
+2018,Thanjavur,Groundnut,Kharif,300.95,246.27
+2018,Thanjavur,Groundnut,Kharif,182.87,348.74
+2018,Thanjavur,Bengal Gram,Kharif,306.85,340.5
+2018,Thanjavur,Bengal Gram,Kharif,356.18,218.16
+2019,Thanjavur,Groundnut,Kharif,344.13,263.82
+2019,Thanjavur,Groundnut,Kharif,260.01,276.56
+2019,Thanjavur,Bengal Gram,Kharif,182.44,240.64
+2019,Thanjavur,Bengal Gram,Kharif,218.89,170.29
+2020,Thanjavur,Groundnut,Kharif,242.45,197.36
+2020,Thanjavur,Groundnut,Kharif,290.06,179.11
+2020,Thanjavur,Bengal Gram,Kharif,256.28,254.7
+2020,Thanjavur,Bengal Gram,Kharif,348.06,255.48
+2021,Thanjavur,Groundnut,Kharif,362.95,119.51
+2021,Thanjavur,Groundnut,Kharif,280.09,290.77
+2021,Thanjavur,Bengal Gram,Kharif,342.48,357.23
+2021,Thanjavur,Bengal Gram,Kharif,279.32,249.58
+2009,Thanjavur,Groundnut,Kharif,189.54,120.8
+2009,Thanjavur,Groundnut,Kharif,183.33,366.23
+2009,Thanjavur,Bengal Gram,Kharif,329.17,385.1
+2009,Thanjavur,Bengal Gram,Kharif,244.58,199.28
+2010,Thanjavur,Groundnut,Kharif,226.94,272.57
+2010,Thanjavur,Groundnut,Kharif,336.31,319.27
+2010,Thanjavur,Bengal Gram,Kharif,193.8,357
+2010,Thanjavur,Bengal Gram,Kharif,223.93,269.85
+2011,Thanjavur,Groundnut,Kharif,189.65,362.21
+2011,Thanjavur,Groundnut,Kharif,201.31,314.36
+2011,Thanjavur,Bengal Gram,Kharif,209.13,132.34
+2011,Thanjavur,Bengal Gram,Kharif,338.16,157.75
+2012,Thanjavur,Groundnut,Kharif,216,132.82
+2012,Thanjavur,Groundnut,Kharif,198.8,224.3
+2012,Thanjavur,Bengal Gram,Kharif,348.71,198.7
+2012,Thanjavur,Bengal Gram,Kharif,168.41,126.58
+2013,Thanjavur,Groundnut,Kharif,177.72,122.34
+2013,Thanjavur,Groundnut,Kharif,310.52,351.25
+2013,Thanjavur,Bengal Gram,Kharif,365.02,342.52
+2013,Thanjavur,Bengal Gram,Kharif,199.85,342.34
+2014,Thanjavur,Groundnut,Kharif,343.96,118.78
+2014,Thanjavur,Groundnut,Kharif,272.24,179
+2014,Thanjavur,Bengal Gram,Kharif,213.97,386.63
+2014,Thanjavur,Bengal Gram,Kharif,171.3,167.35
+2015,Thanjavur,Groundnut,Kharif,331.2,186.65
+2015,Thanjavur,Groundnut,Kharif,339.78,300.05
+2015,Thanjavur,Bengal Gram,Kharif,245.77,184.5
+2015,Thanjavur,Bengal Gram,Kharif,199.51,298.2
+2016,Thanjavur,Groundnut,Kharif,270.8,371.18
+2016,Thanjavur,Groundnut,Kharif,327.55,299.48
+2016,Thanjavur,Bengal Gram,Kharif,347.13,222.77
+2016,Thanjavur,Bengal Gram,Kharif,273.66,256.65
+2017,Thanjavur,Groundnut,Kharif,303.41,315.81
+2017,Thanjavur,Groundnut,Kharif,176.74,180.75
+2017,Thanjavur,Bengal Gram,Kharif,160.86,126.3
+2017,Thanjavur,Bengal Gram,Kharif,309.98,169.29
+2018,Thanjavur,Groundnut,Kharif,350.67,187.74
+2018,Thanjavur,Groundnut,Kharif,363.7,182.21
+2018,Thanjavur,Bengal Gram,Kharif,303.81,206.32
+2018,Thanjavur,Bengal Gram,Kharif,207.49,271.57
+2019,Thanjavur,Groundnut,Kharif,316.06,127.47
+2019,Thanjavur,Groundnut,Kharif,221.73,248.48
+2019,Thanjavur,Bengal Gram,Kharif,201.26,259.06
+2019,Thanjavur,Bengal Gram,Kharif,336.39,274.59
+2020,Thanjavur,Groundnut,Kharif,245.6,148.22
+2020,Thanjavur,Groundnut,Kharif,288.77,238.81
+2020,Thanjavur,Bengal Gram,Kharif,245.37,311.32
+2020,Thanjavur,Bengal Gram,Kharif,357.85,394.09
+2021,Thanjavur,Groundnut,Kharif,219.76,346.32
+2021,Thanjavur,Groundnut,Kharif,352.22,310.6
+2021,Thanjavur,Bengal Gram,Kharif,333.39,263.24
+2021,Thanjavur,Bengal Gram,Kharif,186.47,360.42
+2009,Kanchipuram,Groundnut,Rabi,316.9,562.78
+2009,Kanchipuram,Groundnut,Rabi,261.37,549.63
+2009,Kanchipuram,Bengal Gram,Rabi,359.54,855.87
+2009,Kanchipuram,Bengal Gram,Rabi,337.87,701.32
+2010,Kanchipuram,Groundnut,Rabi,251.04,638.25
+2010,Kanchipuram,Groundnut,Rabi,267.69,788.77
+2010,Kanchipuram,Bengal Gram,Rabi,246.16,556.41
+2010,Kanchipuram,Bengal Gram,Rabi,156.48,707.99
+2011,Kanchipuram,Groundnut,Rabi,258.58,989.7
+2011,Kanchipuram,Groundnut,Rabi,304.55,816.61
+2011,Kanchipuram,Bengal Gram,Rabi,273.27,522.15
+2011,Kanchipuram,Bengal Gram,Rabi,364.04,752.84
+2012,Kanchipuram,Groundnut,Rabi,171.41,792.87
+2012,Kanchipuram,Groundnut,Rabi,358.04,566.58
+2012,Kanchipuram,Bengal Gram,Rabi,296.89,794.51
+2012,Kanchipuram,Bengal Gram,Rabi,348.52,729.6
+2013,Kanchipuram,Groundnut,Rabi,367.22,962.36
+2013,Kanchipuram,Groundnut,Rabi,299.39,813.32
+2013,Kanchipuram,Bengal Gram,Rabi,293.21,871.2
+2013,Kanchipuram,Bengal Gram,Rabi,170.09,548.75
+2014,Kanchipuram,Groundnut,Rabi,269.61,955.55
+2014,Kanchipuram,Groundnut,Rabi,191.08,837.59
+2014,Kanchipuram,Bengal Gram,Rabi,174.9,782.32
+2014,Kanchipuram,Bengal Gram,Rabi,193.52,804.62
+2015,Kanchipuram,Groundnut,Rabi,318.99,721.57
+2015,Kanchipuram,Groundnut,Rabi,178.13,712.56
+2015,Kanchipuram,Bengal Gram,Rabi,213.13,677.54
+2015,Kanchipuram,Bengal Gram,Rabi,182.14,728.92
+2016,Kanchipuram,Groundnut,Rabi,324.56,837.98
+2016,Kanchipuram,Groundnut,Rabi,258.67,615.26
+2016,Kanchipuram,Bengal Gram,Rabi,306.2,970.13
+2016,Kanchipuram,Bengal Gram,Rabi,170.12,918.84
+2017,Kanchipuram,Groundnut,Rabi,356.26,699.26
+2017,Kanchipuram,Groundnut,Rabi,257.55,879.34
+2017,Kanchipuram,Bengal Gram,Rabi,185.55,711.66
+2017,Kanchipuram,Bengal Gram,Rabi,298.81,520.76
+2018,Kanchipuram,Groundnut,Rabi,246.79,946.36
+2018,Kanchipuram,Groundnut,Rabi,339.27,792.8
+2018,Kanchipuram,Bengal Gram,Rabi,271.21,559.88
+2018,Kanchipuram,Bengal Gram,Rabi,354.24,703.87
+2019,Kanchipuram,Groundnut,Rabi,230.92,777.52
+2019,Kanchipuram,Groundnut,Rabi,193.51,691.23
+2019,Kanchipuram,Bengal Gram,Rabi,190.97,824.84
+2019,Kanchipuram,Bengal Gram,Rabi,323.6,779
+2020,Kanchipuram,Groundnut,Rabi,291.71,906.01
+2020,Kanchipuram,Groundnut,Rabi,361.81,773.16
+2020,Kanchipuram,Bengal Gram,Rabi,296.81,544.81
+2020,Kanchipuram,Bengal Gram,Rabi,315.01,807.19
+2021,Kanchipuram,Groundnut,Rabi,322.11,863.6
+2021,Kanchipuram,Groundnut,Rabi,188.75,532.99
+2021,Kanchipuram,Bengal Gram,Rabi,286.39,961.97
+2021,Kanchipuram,Bengal Gram,Rabi,198.84,690.95
+2009,Kanchipuram,Groundnut,Rabi,269.62,796.59
+2009,Kanchipuram,Groundnut,Rabi,283.2,622.84
+2009,Kanchipuram,Bengal Gram,Rabi,238.03,933.95
+2009,Kanchipuram,Bengal Gram,Rabi,175.43,897.26
+2010,Kanchipuram,Groundnut,Rabi,327.52,649.97
+2010,Kanchipuram,Groundnut,Rabi,319.34,519.41
+2010,Kanchipuram,Bengal Gram,Rabi,160.27,955.13
+2010,Kanchipuram,Bengal Gram,Rabi,301.76,887.22
+2011,Kanchipuram,Groundnut,Rabi,325.97,519.41
+2011,Kanchipuram,Groundnut,Rabi,332.67,944.69
+2011,Kanchipuram,Bengal Gram,Rabi,286.7,723.09
+2011,Kanchipuram,Bengal Gram,Rabi,165.47,961.59
+2012,Kanchipuram,Groundnut,Rabi,257.1,744.75
+2012,Kanchipuram,Groundnut,Rabi,207.91,695.82
+2012,Kanchipuram,Bengal Gram,Rabi,361.36,656.42
+2012,Kanchipuram,Bengal Gram,Rabi,338.01,911.46
+2013,Kanchipuram,Groundnut,Rabi,339.59,705.02
+2013,Kanchipuram,Groundnut,Rabi,199.87,678.26
+2013,Kanchipuram,Bengal Gram,Rabi,208.12,766.25
+2013,Kanchipuram,Bengal Gram,Rabi,278.27,635.04
+2014,Kanchipuram,Groundnut,Rabi,357.61,688.61
+2014,Kanchipuram,Groundnut,Rabi,358.21,755.13
+2014,Kanchipuram,Bengal Gram,Rabi,237.26,629.2
+2014,Kanchipuram,Bengal Gram,Rabi,188.45,812.48
+2015,Kanchipuram,Groundnut,Rabi,184.87,737.15
+2015,Kanchipuram,Groundnut,Rabi,294.93,695.63
+2015,Kanchipuram,Bengal Gram,Rabi,286.42,603.88
+2015,Kanchipuram,Bengal Gram,Rabi,247.22,603.53
+2016,Kanchipuram,Groundnut,Rabi,156.46,823.9
+2016,Kanchipuram,Groundnut,Rabi,234.28,941.82
+2016,Kanchipuram,Bengal Gram,Rabi,303.84,680.02
+2016,Kanchipuram,Bengal Gram,Rabi,243.11,552.92
+2017,Kanchipuram,Groundnut,Rabi,158.33,627.95
+2017,Kanchipuram,Groundnut,Rabi,266.85,926.17
+2017,Kanchipuram,Bengal Gram,Rabi,344.85,897.35
+2017,Kanchipuram,Bengal Gram,Rabi,209.1,915.38
+2018,Kanchipuram,Groundnut,Rabi,322.58,919.13
+2018,Kanchipuram,Groundnut,Rabi,348.78,605.76
+2018,Kanchipuram,Bengal Gram,Rabi,343.04,738.99
+2018,Kanchipuram,Bengal Gram,Rabi,190.43,606.36
+2019,Kanchipuram,Groundnut,Rabi,274.66,563.26
+2019,Kanchipuram,Groundnut,Rabi,324.87,875.7
+2019,Kanchipuram,Bengal Gram,Rabi,349.64,595.06
+2019,Kanchipuram,Bengal Gram,Rabi,249.69,536.9
+2020,Kanchipuram,Groundnut,Rabi,270.64,922
+2020,Kanchipuram,Groundnut,Rabi,311.13,726.63
+2020,Kanchipuram,Bengal Gram,Rabi,351.88,720.23
+2020,Kanchipuram,Bengal Gram,Rabi,355.23,582.51
+2021,Kanchipuram,Groundnut,Rabi,211.15,695.76
+2021,Kanchipuram,Groundnut,Rabi,318.32,985.16
+2021,Kanchipuram,Bengal Gram,Rabi,171.14,893.08
+2021,Kanchipuram,Bengal Gram,Rabi,199.73,810.94
+2009,Coimbatore,Rice,Rabi,129.23,133.83
+2009,Coimbatore,Rice,Rabi,98.12,202.66
+2009,Coimbatore,Black Gram,Rabi,80.52,211.22
+2009,Coimbatore,Black Gram,Rabi,72.86,123.56
+2010,Coimbatore,Rice,Rabi,132.45,219.95
+2010,Coimbatore,Rice,Rabi,64.34,222.27
+2010,Coimbatore,Black Gram,Rabi,123.32,153.02
+2010,Coimbatore,Black Gram,Rabi,53.34,174.79
+2011,Coimbatore,Rice,Rabi,103.16,198.45
+2011,Coimbatore,Rice,Rabi,89.24,224.38
+2011,Coimbatore,Black Gram,Rabi,87.41,180.56
+2011,Coimbatore,Black Gram,Rabi,97.25,180.02
+2012,Coimbatore,Rice,Rabi,72.71,165.77
+2012,Coimbatore,Rice,Rabi,88.19,179.43
+2012,Coimbatore,Black Gram,Rabi,48.69,140.97
+2012,Coimbatore,Black Gram,Rabi,86.78,207.72
+2013,Coimbatore,Rice,Rabi,86.67,211.2
+2013,Coimbatore,Rice,Rabi,100.5,265.89
+2013,Coimbatore,Black Gram,Rabi,56.11,210.33
+2013,Coimbatore,Black Gram,Rabi,117.24,133.75
+2014,Coimbatore,Rice,Rabi,49.2,174.87
+2014,Coimbatore,Rice,Rabi,86.26,149.81
+2014,Coimbatore,Black Gram,Rabi,87.74,131.02
+2014,Coimbatore,Black Gram,Rabi,84.67,170.11
+2015,Coimbatore,Rice,Rabi,49.77,160.91
+2015,Coimbatore,Rice,Rabi,53.41,196.92
+2015,Coimbatore,Black Gram,Rabi,66.02,151.03
+2015,Coimbatore,Black Gram,Rabi,112.1,164.52
+2016,Coimbatore,Rice,Rabi,54.28,152.89
+2016,Coimbatore,Rice,Rabi,99.55,123.27
+2016,Coimbatore,Black Gram,Rabi,104,159.14
+2016,Coimbatore,Black Gram,Rabi,99,159.31
+2017,Coimbatore,Rice,Rabi,97.83,211.84
+2017,Coimbatore,Rice,Rabi,52.74,126.9
+2017,Coimbatore,Black Gram,Rabi,127.58,200.34
+2017,Coimbatore,Black Gram,Rabi,133.46,127.06
+2018,Coimbatore,Rice,Rabi,58.77,169.28
+2018,Coimbatore,Rice,Rabi,118.63,182.7
+2018,Coimbatore,Black Gram,Rabi,56.99,179.63
+2018,Coimbatore,Black Gram,Rabi,77.67,163.79
+2019,Coimbatore,Rice,Rabi,92.93,144.68
+2019,Coimbatore,Rice,Rabi,130.85,193.87
+2019,Coimbatore,Black Gram,Rabi,63.74,180.3
+2019,Coimbatore,Black Gram,Rabi,73.74,135.79
+2020,Coimbatore,Rice,Rabi,77.9,182.81
+2020,Coimbatore,Rice,Rabi,92.57,173.55
+2020,Coimbatore,Black Gram,Rabi,125.44,138.42
+2020,Coimbatore,Black Gram,Rabi,116.35,123.06
+2021,Coimbatore,Rice,Rabi,84.91,186.29
+2021,Coimbatore,Rice,Rabi,53.26,216.43
+2021,Coimbatore,Black Gram,Rabi,105.51,144.95
+2021,Coimbatore,Black Gram,Rabi,64.55,196.6
+2009,Coimbatore,Rice,Rabi,71.36,177.21
+2009,Coimbatore,Rice,Rabi,90.87,213.42
+2009,Coimbatore,Black Gram,Rabi,126.92,166.56
+2009,Coimbatore,Black Gram,Rabi,75.23,128.88
+2010,Coimbatore,Rice,Rabi,102.42,146.96
+2010,Coimbatore,Rice,Rabi,123.94,161.27
+2010,Coimbatore,Black Gram,Rabi,76.14,146.75
+2010,Coimbatore,Black Gram,Rabi,53.42,144.78
+2011,Coimbatore,Rice,Rabi,65.03,200.2
+2011,Coimbatore,Rice,Rabi,90.26,213.6
+2011,Coimbatore,Black Gram,Rabi,55.55,201.42
+2011,Coimbatore,Black Gram,Rabi,114.45,214.11
+2012,Coimbatore,Rice,Rabi,54.5,137.32
+2012,Coimbatore,Rice,Rabi,100.26,167.87
+2012,Coimbatore,Black Gram,Rabi,119.01,224.59
+2012,Coimbatore,Black Gram,Rabi,71.64,180.17
+2013,Coimbatore,Rice,Rabi,63.96,276.2
+2013,Coimbatore,Rice,Rabi,77.16,267.03
+2013,Coimbatore,Black Gram,Rabi,91.19,200.97
+2013,Coimbatore,Black Gram,Rabi,103.57,184.43
+2014,Coimbatore,Rice,Rabi,124.06,224.32
+2014,Coimbatore,Rice,Rabi,96.87,193.41
+2014,Coimbatore,Black Gram,Rabi,54.36,163.56
+2014,Coimbatore,Black Gram,Rabi,61.14,189.1
+2015,Coimbatore,Rice,Rabi,78.34,130.29
+2015,Coimbatore,Rice,Rabi,70.31,214.89
+2015,Coimbatore,Black Gram,Rabi,90.23,203.2
+2015,Coimbatore,Black Gram,Rabi,67.6,223.84
+2016,Coimbatore,Rice,Rabi,107.57,170.98
+2016,Coimbatore,Rice,Rabi,59.1,162.15
+2016,Coimbatore,Black Gram,Rabi,48.33,142.84
+2016,Coimbatore,Black Gram,Rabi,89.05,168.46
+2017,Coimbatore,Rice,Rabi,122.54,193.89
+2017,Coimbatore,Rice,Rabi,98.83,180.23
+2017,Coimbatore,Black Gram,Rabi,51.52,139.43
+2017,Coimbatore,Black Gram,Rabi,62.13,181.41
+2018,Coimbatore,Rice,Rabi,89.22,196.36
+2018,Coimbatore,Rice,Rabi,80.43,173.94
+2018,Coimbatore,Black Gram,Rabi,119.92,180.24
+2018,Coimbatore,Black Gram,Rabi,120.78,206.67
+2019,Coimbatore,Rice,Rabi,83.47,156.71
+2019,Coimbatore,Rice,Rabi,128.15,135.5
+2019,Coimbatore,Black Gram,Rabi,128.3,123.52
+2019,Coimbatore,Black Gram,Rabi,59.88,222.42
+2020,Coimbatore,Rice,Rabi,78.68,167.74
+2020,Coimbatore,Rice,Rabi,70.67,143.61
+2020,Coimbatore,Black Gram,Rabi,81.71,180.51
+2020,Coimbatore,Black Gram,Rabi,105.06,213.04
+2021,Coimbatore,Rice,Rabi,124.15,220.25
+2021,Coimbatore,Rice,Rabi,105.54,158.42
+2021,Coimbatore,Black Gram,Rabi,56.22,159.13
+2021,Coimbatore,Black Gram,Rabi,88.11,123.88
+2009,Thirunelveli,Rice,Rabi,141.29,323.09
+2009,Thirunelveli,Rice,Rabi,129.26,318.04
+2009,Thirunelveli,Black Gram,Rabi,71.62,342.18
+2009,Thirunelveli,Black Gram,Rabi,124.85,309.19
+2010,Thirunelveli,Rice,Rabi,65.56,381.61
+2010,Thirunelveli,Rice,Rabi,98.27,349.93
+2010,Thirunelveli,Black Gram,Rabi,69,398.53
+2010,Thirunelveli,Black Gram,Rabi,91.07,362.62
+2011,Thirunelveli,Rice,Rabi,102.53,331.61
+2011,Thirunelveli,Rice,Rabi,136.27,348.3
+2011,Thirunelveli,Black Gram,Rabi,110.03,329.18
+2011,Thirunelveli,Black Gram,Rabi,89.66,376.38
+2012,Thirunelveli,Rice,Rabi,158.67,336.01
+2012,Thirunelveli,Rice,Rabi,147.11,334.21
+2012,Thirunelveli,Black Gram,Rabi,150.81,304.92
+2012,Thirunelveli,Black Gram,Rabi,72.98,408.26
+2013,Thirunelveli,Rice,Rabi,53.54,337.63
+2013,Thirunelveli,Rice,Rabi,66.61,385.63
+2013,Thirunelveli,Black Gram,Rabi,67,380.76
+2013,Thirunelveli,Black Gram,Rabi,150.6,289.65
+2014,Thirunelveli,Rice,Rabi,49.09,411.15
+2014,Thirunelveli,Rice,Rabi,132.29,363.71
+2014,Thirunelveli,Black Gram,Rabi,140.51,361.37
+2014,Thirunelveli,Black Gram,Rabi,70.25,407.6
+2015,Thirunelveli,Rice,Rabi,155.65,345.72
+2015,Thirunelveli,Rice,Rabi,77.91,338.97
+2015,Thirunelveli,Black Gram,Rabi,123.17,353.87
+2015,Thirunelveli,Black Gram,Rabi,95.42,379.49
+2016,Thirunelveli,Rice,Rabi,74.06,346.06
+2016,Thirunelveli,Rice,Rabi,148.27,395.6
+2016,Thirunelveli,Black Gram,Rabi,135.21,301.1
+2016,Thirunelveli,Black Gram,Rabi,171.07,343.82
+2017,Thirunelveli,Rice,Rabi,165.53,391.53
+2017,Thirunelveli,Rice,Rabi,124.44,319.86
+2017,Thirunelveli,Black Gram,Rabi,148.14,307.64
+2017,Thirunelveli,Black Gram,Rabi,66.44,350.68
+2018,Thirunelveli,Rice,Rabi,168.42,382.07
+2018,Thirunelveli,Rice,Rabi,95.41,367.26
+2018,Thirunelveli,Black Gram,Rabi,129.98,344.35
+2018,Thirunelveli,Black Gram,Rabi,75.25,387.46
+2019,Thirunelveli,Rice,Rabi,51.77,347.86
+2019,Thirunelveli,Rice,Rabi,145.15,362.46
+2019,Thirunelveli,Black Gram,Rabi,165.96,401.06
+2019,Thirunelveli,Black Gram,Rabi,98.06,327.93
+2020,Thirunelveli,Rice,Rabi,73.36,341.31
+2020,Thirunelveli,Rice,Rabi,98.56,330.29
+2020,Thirunelveli,Black Gram,Rabi,68.91,366.36
+2020,Thirunelveli,Black Gram,Rabi,167.21,349.8
+2021,Thirunelveli,Rice,Rabi,96.57,285.93
+2021,Thirunelveli,Rice,Rabi,114.94,324.12
+2021,Thirunelveli,Black Gram,Rabi,121.94,367.24
+2021,Thirunelveli,Black Gram,Rabi,98.35,292.25
+2009,Thirunelveli,Rice,Rabi,78.32,383.28
+2009,Thirunelveli,Rice,Rabi,63.59,307.39
+2009,Thirunelveli,Black Gram,Rabi,162.03,341.19
+2009,Thirunelveli,Black Gram,Rabi,154.09,327.53
+2010,Thirunelveli,Rice,Rabi,72.94,282.78
+2010,Thirunelveli,Rice,Rabi,87.47,374.75
+2010,Thirunelveli,Black Gram,Rabi,110.73,332.02
+2010,Thirunelveli,Black Gram,Rabi,48.86,304.63
+2011,Thirunelveli,Rice,Rabi,123.96,346.94
+2011,Thirunelveli,Rice,Rabi,93.82,391.9
+2011,Thirunelveli,Black Gram,Rabi,55.09,371.41
+2011,Thirunelveli,Black Gram,Rabi,106.58,285.76
+2012,Thirunelveli,Rice,Rabi,151.82,300.54
+2012,Thirunelveli,Rice,Rabi,123.72,331.92
+2012,Thirunelveli,Black Gram,Rabi,147.42,317.37
+2012,Thirunelveli,Black Gram,Rabi,138.54,391.58
+2013,Thirunelveli,Rice,Rabi,124.21,336.05
+2013,Thirunelveli,Rice,Rabi,72.32,317.98
+2013,Thirunelveli,Black Gram,Rabi,161.85,338.24
+2013,Thirunelveli,Black Gram,Rabi,138.14,337.76
+2014,Thirunelveli,Rice,Rabi,166.05,299.74
+2014,Thirunelveli,Rice,Rabi,169.64,320.75
+2014,Thirunelveli,Black Gram,Rabi,60.79,290.01
+2014,Thirunelveli,Black Gram,Rabi,75.29,375
+2015,Thirunelveli,Rice,Rabi,143.82,330.54
+2015,Thirunelveli,Rice,Rabi,117.12,341.33
+2015,Thirunelveli,Black Gram,Rabi,67.29,290.9
+2015,Thirunelveli,Black Gram,Rabi,48.86,362.06
+2016,Thirunelveli,Rice,Rabi,49.91,409.95
+2016,Thirunelveli,Rice,Rabi,86.02,302.07
+2016,Thirunelveli,Black Gram,Rabi,73.15,408.37
+2016,Thirunelveli,Black Gram,Rabi,166.58,352.95
+2017,Thirunelveli,Rice,Rabi,137.42,296.43
+2017,Thirunelveli,Rice,Rabi,152.34,402.73
+2017,Thirunelveli,Black Gram,Rabi,67.12,355.29
+2017,Thirunelveli,Black Gram,Rabi,158.44,394.98
+2018,Thirunelveli,Rice,Rabi,164.82,319.96
+2018,Thirunelveli,Rice,Rabi,68.01,299.49
+2018,Thirunelveli,Black Gram,Rabi,127.2,382.46
+2018,Thirunelveli,Black Gram,Rabi,51.04,296.5
+2019,Thirunelveli,Rice,Rabi,125.6,347.54
+2019,Thirunelveli,Rice,Rabi,69.98,371.88
+2019,Thirunelveli,Black Gram,Rabi,91.15,397.12
+2019,Thirunelveli,Black Gram,Rabi,71.6,353
+2020,Thirunelveli,Rice,Rabi,100.08,309.41
+2020,Thirunelveli,Rice,Rabi,88.12,317.95
+2020,Thirunelveli,Black Gram,Rabi,52.63,404.79
+2020,Thirunelveli,Black Gram,Rabi,132.34,409.66
+2021,Thirunelveli,Rice,Rabi,137.25,322.22
+2021,Thirunelveli,Rice,Rabi,108.29,346.63
+2021,Thirunelveli,Black Gram,Rabi,81.44,332.04
+2021,Thirunelveli,Black Gram,Rabi,129.95,376.11
+2009,Thanjavur,Rice,Rabi,502.91,738.34
+2009,Thanjavur,Rice,Rabi,624.22,521
+2009,Thanjavur,Black Gram,Rabi,618.62,657.2
+2009,Thanjavur,Black Gram,Rabi,443.12,538.68
+2010,Thanjavur,Rice,Rabi,602.8,628.35
+2010,Thanjavur,Rice,Rabi,666.35,656.19
+2010,Thanjavur,Black Gram,Rabi,648.91,811.21
+2010,Thanjavur,Black Gram,Rabi,583.51,608.75
+2011,Thanjavur,Rice,Rabi,401.22,562.32
+2011,Thanjavur,Rice,Rabi,507.83,702.53
+2011,Thanjavur,Black Gram,Rabi,437.65,789.24
+2011,Thanjavur,Black Gram,Rabi,426.42,768.56
+2012,Thanjavur,Rice,Rabi,520.63,703.28
+2012,Thanjavur,Rice,Rabi,545.93,549.29
+2012,Thanjavur,Black Gram,Rabi,609.58,751.23
+2012,Thanjavur,Black Gram,Rabi,626.26,789.63
+2013,Thanjavur,Rice,Rabi,440.47,553.9
+2013,Thanjavur,Rice,Rabi,590.1,693.59
+2013,Thanjavur,Black Gram,Rabi,407.36,809.05
+2013,Thanjavur,Black Gram,Rabi,521.85,619.33
+2014,Thanjavur,Rice,Rabi,411.36,767.71
+2014,Thanjavur,Rice,Rabi,628.95,598.94
+2014,Thanjavur,Black Gram,Rabi,617.79,628.76
+2014,Thanjavur,Black Gram,Rabi,393.09,754.67
+2015,Thanjavur,Rice,Rabi,588.67,778.21
+2015,Thanjavur,Rice,Rabi,432.26,801.9
+2015,Thanjavur,Black Gram,Rabi,545.45,586.38
+2015,Thanjavur,Black Gram,Rabi,668.52,694.81
+2016,Thanjavur,Rice,Rabi,458.4,696.99
+2016,Thanjavur,Rice,Rabi,471.64,652.91
+2016,Thanjavur,Black Gram,Rabi,584.69,746.56
+2016,Thanjavur,Black Gram,Rabi,543.93,638.62
+2017,Thanjavur,Rice,Rabi,382.68,715.94
+2017,Thanjavur,Rice,Rabi,491.23,764.56
+2017,Thanjavur,Black Gram,Rabi,583.24,770
+2017,Thanjavur,Black Gram,Rabi,480.87,554.96
+2018,Thanjavur,Rice,Rabi,567.74,660.82
+2018,Thanjavur,Rice,Rabi,554.71,780.43
+2018,Thanjavur,Black Gram,Rabi,496.87,769.54
+2018,Thanjavur,Black Gram,Rabi,647.56,810.09
+2019,Thanjavur,Rice,Rabi,593.66,534.17
+2019,Thanjavur,Rice,Rabi,385.64,769.17
+2019,Thanjavur,Black Gram,Rabi,444.1,626.81
+2019,Thanjavur,Black Gram,Rabi,603.96,649.67
+2020,Thanjavur,Rice,Rabi,540.22,762.99
+2020,Thanjavur,Rice,Rabi,594.47,743.68
+2020,Thanjavur,Black Gram,Rabi,388.75,517.35
+2020,Thanjavur,Black Gram,Rabi,555.66,780.99
+2021,Thanjavur,Rice,Rabi,423.99,577.83
+2021,Thanjavur,Rice,Rabi,564,663.82
+2021,Thanjavur,Black Gram,Rabi,450.41,649.68
+2021,Thanjavur,Black Gram,Rabi,656.95,746.04
+2009,Thanjavur,Rice,Rabi,597.88,603.61
+2009,Thanjavur,Rice,Rabi,551.36,721.27
+2009,Thanjavur,Black Gram,Rabi,654.59,566.69
+2009,Thanjavur,Black Gram,Rabi,445.42,514.03
+2010,Thanjavur,Rice,Rabi,607.86,665.82
+2010,Thanjavur,Rice,Rabi,600.84,688.28
+2010,Thanjavur,Black Gram,Rabi,509.42,683.83
+2010,Thanjavur,Black Gram,Rabi,419,595.93
+2011,Thanjavur,Rice,Rabi,417.37,711.31
+2011,Thanjavur,Rice,Rabi,589.11,713.33
+2011,Thanjavur,Black Gram,Rabi,610.96,759.54
+2011,Thanjavur,Black Gram,Rabi,422.42,589.07
+2012,Thanjavur,Rice,Rabi,420.87,683.37
+2012,Thanjavur,Rice,Rabi,489.62,514.92
+2012,Thanjavur,Black Gram,Rabi,663.86,559.34
+2012,Thanjavur,Black Gram,Rabi,598.38,567.74
+2013,Thanjavur,Rice,Rabi,518.13,769.27
+2013,Thanjavur,Rice,Rabi,634.24,723.97
+2013,Thanjavur,Black Gram,Rabi,574.41,612.51
+2013,Thanjavur,Black Gram,Rabi,572.1,573.4
+2014,Thanjavur,Rice,Rabi,653.97,602.11
+2014,Thanjavur,Rice,Rabi,629.96,661.92
+2014,Thanjavur,Black Gram,Rabi,568.34,585.97
+2014,Thanjavur,Black Gram,Rabi,578.68,522.76
+2015,Thanjavur,Rice,Rabi,660.8,594.68
+2015,Thanjavur,Rice,Rabi,397.72,644.58
+2015,Thanjavur,Black Gram,Rabi,639.61,641.58
+2015,Thanjavur,Black Gram,Rabi,477.86,550.67
+2016,Thanjavur,Rice,Rabi,414.62,676.41
+2016,Thanjavur,Rice,Rabi,515.89,732.68
+2016,Thanjavur,Black Gram,Rabi,643.16,541.79
+2016,Thanjavur,Black Gram,Rabi,440.38,763.06
+2017,Thanjavur,Rice,Rabi,462.07,792.88
+2017,Thanjavur,Rice,Rabi,600.45,567.14
+2017,Thanjavur,Black Gram,Rabi,445.96,555.16
+2017,Thanjavur,Black Gram,Rabi,524.06,759.84
+2018,Thanjavur,Rice,Rabi,426.58,520.09
+2018,Thanjavur,Rice,Rabi,589.69,608.04
+2018,Thanjavur,Black Gram,Rabi,530.71,576.76
+2018,Thanjavur,Black Gram,Rabi,432.6,621.72
+2019,Thanjavur,Rice,Rabi,617.28,658.98
+2019,Thanjavur,Rice,Rabi,661.68,581.5
+2019,Thanjavur,Black Gram,Rabi,446.41,753.02
+2019,Thanjavur,Black Gram,Rabi,609.79,695.55
+2020,Thanjavur,Rice,Rabi,508.33,733.32
+2020,Thanjavur,Rice,Rabi,548.84,669.17
+2020,Thanjavur,Black Gram,Rabi,527.39,767.4
+2020,Thanjavur,Black Gram,Rabi,667.96,552.17
+2021,Thanjavur,Rice,Rabi,510.57,554.85
+2021,Thanjavur,Rice,Rabi,581.94,790.69
+2021,Thanjavur,Black Gram,Rabi,557.15,586.42
+2021,Thanjavur,Black Gram,Rabi,522.03,529.95
+2009,Trichy,Rice,Kharif,229.06,329.62
+2009,Trichy,Rice,Kharif,251,318.92
+2009,Trichy,Black Gram,Kharif,194.56,367.79
+2009,Trichy,Black Gram,Kharif,217.13,673.02
+2010,Trichy,Rice,Kharif,214.85,420.9
+2010,Trichy,Rice,Kharif,150.47,398.43
+2010,Trichy,Black Gram,Kharif,236.85,376.88
+2010,Trichy,Black Gram,Kharif,138.05,518.5
+2011,Trichy,Rice,Kharif,160.47,696.82
+2011,Trichy,Rice,Kharif,154.81,768
+2011,Trichy,Black Gram,Kharif,173.38,488.59
+2011,Trichy,Black Gram,Kharif,104.53,379.1
+2012,Trichy,Rice,Kharif,88,746.1
+2012,Trichy,Rice,Kharif,173.75,570.39
+2012,Trichy,Black Gram,Kharif,127.26,443.6
+2012,Trichy,Black Gram,Kharif,264.3,306.69
+2013,Trichy,Rice,Kharif,246.04,457.86
+2013,Trichy,Rice,Kharif,193.28,300.58
+2013,Trichy,Black Gram,Kharif,206.05,676.13
+2013,Trichy,Black Gram,Kharif,208.92,683.89
+2014,Trichy,Rice,Kharif,209.67,680
+2014,Trichy,Rice,Kharif,222.39,250.72
+2014,Trichy,Black Gram,Kharif,240.44,708.62
+2014,Trichy,Black Gram,Kharif,212.48,326.5
+2015,Trichy,Rice,Kharif,249.57,474.53
+2015,Trichy,Rice,Kharif,162.64,299.56
+2015,Trichy,Black Gram,Kharif,195.94,321.76
+2015,Trichy,Black Gram,Kharif,253.5,402.73
+2016,Trichy,Rice,Kharif,168.28,764.77
+2016,Trichy,Rice,Kharif,91.26,636.17
+2016,Trichy,Black Gram,Kharif,266.49,544.67
+2016,Trichy,Black Gram,Kharif,172.87,467.32
+2017,Trichy,Rice,Kharif,86.82,645
+2017,Trichy,Rice,Kharif,169.25,337.91
+2017,Trichy,Black Gram,Kharif,206.65,746.28
+2017,Trichy,Black Gram,Kharif,127.62,346.55
+2018,Trichy,Rice,Kharif,249.14,393.68
+2018,Trichy,Rice,Kharif,85.65,309.23
+2018,Trichy,Black Gram,Kharif,158.3,309.21
+2018,Trichy,Black Gram,Kharif,158.33,711.39
+2019,Trichy,Rice,Kharif,197.74,308.39
+2019,Trichy,Rice,Kharif,185.57,515.61
+2019,Trichy,Black Gram,Kharif,224.7,394.42
+2019,Trichy,Black Gram,Kharif,268.78,638.12
+2020,Trichy,Rice,Kharif,230.7,486.91
+2020,Trichy,Rice,Kharif,258.79,311.52
+2020,Trichy,Black Gram,Kharif,173.27,338.03
+2020,Trichy,Black Gram,Kharif,168.9,287.42
+2021,Trichy,Rice,Kharif,139.42,572.75
+2021,Trichy,Rice,Kharif,253.16,576.84
+2021,Trichy,Black Gram,Kharif,165.93,236.05
+2021,Trichy,Black Gram,Kharif,265.46,564.05
+2009,Trichy,Rice,Kharif,269.69,620.47
+2009,Trichy,Rice,Kharif,121.03,698.56
+2009,Trichy,Black Gram,Kharif,192.55,412.51
+2009,Trichy,Black Gram,Kharif,158.27,330.08
+2010,Trichy,Rice,Kharif,191.12,367.93
+2010,Trichy,Rice,Kharif,176.92,328.26
+2010,Trichy,Black Gram,Kharif,256.55,690.31
+2010,Trichy,Black Gram,Kharif,200.85,512.89
+2011,Trichy,Rice,Kharif,235.85,343.1
+2011,Trichy,Rice,Kharif,103.09,300.91
+2011,Trichy,Black Gram,Kharif,210.19,258.51
+2011,Trichy,Black Gram,Kharif,246.73,226.32
+2012,Trichy,Rice,Kharif,257.49,393.12
+2012,Trichy,Rice,Kharif,167.25,411.24
+2012,Trichy,Black Gram,Kharif,200.19,352.46
+2012,Trichy,Black Gram,Kharif,127.85,752.41
+2013,Trichy,Rice,Kharif,152.55,689.52
+2013,Trichy,Rice,Kharif,246.64,231.08
+2013,Trichy,Black Gram,Kharif,126.46,688.82
+2013,Trichy,Black Gram,Kharif,183.49,505.47
+2014,Trichy,Rice,Kharif,122.98,541.67
+2014,Trichy,Rice,Kharif,193.42,590.8
+2014,Trichy,Black Gram,Kharif,195.09,225.87
+2014,Trichy,Black Gram,Kharif,222.04,742.45
+2015,Trichy,Rice,Kharif,144.65,349.14
+2015,Trichy,Rice,Kharif,188.9,722.18
+2015,Trichy,Black Gram,Kharif,164.93,772.48
+2015,Trichy,Black Gram,Kharif,201.12,490.04
+2016,Trichy,Rice,Kharif,228.6,532.93
+2016,Trichy,Rice,Kharif,150.73,483.6
+2016,Trichy,Black Gram,Kharif,208.2,723.88
+2016,Trichy,Black Gram,Kharif,264.57,422.1
+2017,Trichy,Rice,Kharif,146.26,740.49
+2017,Trichy,Rice,Kharif,159.68,545.58
+2017,Trichy,Black Gram,Kharif,191.14,752.18
+2017,Trichy,Black Gram,Kharif,136.14,459.78
+2018,Trichy,Rice,Kharif,146.49,538.1
+2018,Trichy,Rice,Kharif,236.65,362.83
+2018,Trichy,Black Gram,Kharif,158.9,757.07
+2018,Trichy,Black Gram,Kharif,161.82,600.99
+2019,Trichy,Rice,Kharif,170.95,757.54
+2019,Trichy,Rice,Kharif,100.34,680.99
+2019,Trichy,Black Gram,Kharif,101.76,465.75
+2019,Trichy,Black Gram,Kharif,100.27,476.11
+2020,Trichy,Rice,Kharif,85.55,534.1
+2020,Trichy,Rice,Kharif,214.2,299.86
+2020,Trichy,Black Gram,Kharif,100.56,524.28
+2020,Trichy,Black Gram,Kharif,227.32,502.94
+2021,Trichy,Rice,Kharif,219,271.34
+2021,Trichy,Rice,Kharif,218.9,337.98
+2021,Trichy,Black Gram,Kharif,163.52,542.98
+2021,Trichy,Black Gram,Kharif,108.17,466.62
+2009,Kanchipuram,Rice,Rabi,300.89,585.94
+2009,Kanchipuram,Rice,Rabi,323.12,540.76
+2009,Kanchipuram,Black Gram,Rabi,168.86,596.87
+2009,Kanchipuram,Black Gram,Rabi,281.87,612.19
+2010,Kanchipuram,Rice,Rabi,315.77,600.34
+2010,Kanchipuram,Rice,Rabi,232.24,612.73
+2010,Kanchipuram,Black Gram,Rabi,249.74,593.39
+2010,Kanchipuram,Black Gram,Rabi,239.86,675.91
+2011,Kanchipuram,Rice,Rabi,204.51,546.37
+2011,Kanchipuram,Rice,Rabi,217.21,617.68
+2011,Kanchipuram,Black Gram,Rabi,294.68,602.02
+2011,Kanchipuram,Black Gram,Rabi,207.01,534.39
+2012,Kanchipuram,Rice,Rabi,173.74,682.24
+2012,Kanchipuram,Rice,Rabi,232.31,600.63
+2012,Kanchipuram,Black Gram,Rabi,289.6,648.86
+2012,Kanchipuram,Black Gram,Rabi,166.59,606.91
+2013,Kanchipuram,Rice,Rabi,278.3,578.53
+2013,Kanchipuram,Rice,Rabi,274.83,560.4
+2013,Kanchipuram,Black Gram,Rabi,331.12,682.56
+2013,Kanchipuram,Black Gram,Rabi,276.51,583.24
+2014,Kanchipuram,Rice,Rabi,161.49,534.14
+2014,Kanchipuram,Rice,Rabi,167.99,665.62
+2014,Kanchipuram,Black Gram,Rabi,213.81,663.84
+2014,Kanchipuram,Black Gram,Rabi,163.55,588.74
+2015,Kanchipuram,Rice,Rabi,365.04,563.7
+2015,Kanchipuram,Rice,Rabi,178.63,613.69
+2015,Kanchipuram,Black Gram,Rabi,312.98,562.47
+2015,Kanchipuram,Black Gram,Rabi,359.61,684.08
+2016,Kanchipuram,Rice,Rabi,294.23,568.23
+2016,Kanchipuram,Rice,Rabi,232.68,636.04
+2016,Kanchipuram,Black Gram,Rabi,227.37,625.53
+2016,Kanchipuram,Black Gram,Rabi,313.16,672.36
+2017,Kanchipuram,Rice,Rabi,186.59,644.82
+2017,Kanchipuram,Rice,Rabi,245.24,608.66
+2017,Kanchipuram,Black Gram,Rabi,191.56,667.04
+2017,Kanchipuram,Black Gram,Rabi,320.97,570.96
+2018,Kanchipuram,Rice,Rabi,170.82,636.16
+2018,Kanchipuram,Rice,Rabi,308.43,606.91
+2018,Kanchipuram,Black Gram,Rabi,263.93,537.94
+2018,Kanchipuram,Black Gram,Rabi,317.76,682.5
+2019,Kanchipuram,Rice,Rabi,302.99,600.39
+2019,Kanchipuram,Rice,Rabi,346.33,680.51
+2019,Kanchipuram,Black Gram,Rabi,243.25,589.81
+2019,Kanchipuram,Black Gram,Rabi,166.3,666.25
+2020,Kanchipuram,Rice,Rabi,357.96,552.41
+2020,Kanchipuram,Rice,Rabi,367.58,681.71
+2020,Kanchipuram,Black Gram,Rabi,262.61,537.43
+2020,Kanchipuram,Black Gram,Rabi,288.92,644.63
+2021,Kanchipuram,Rice,Rabi,343.09,593.44
+2021,Kanchipuram,Rice,Rabi,293.75,652.02
+2021,Kanchipuram,Black Gram,Rabi,198.26,540.24
+2021,Kanchipuram,Black Gram,Rabi,176.89,633.19
+2009,Kanchipuram,Rice,Rabi,221.57,691.07
+2009,Kanchipuram,Rice,Rabi,195.6,648.82
+2009,Kanchipuram,Black Gram,Rabi,300.64,620.6
+2009,Kanchipuram,Black Gram,Rabi,253.13,549.81
+2010,Kanchipuram,Rice,Rabi,193.6,611.21
+2010,Kanchipuram,Rice,Rabi,225.9,568.51
+2010,Kanchipuram,Black Gram,Rabi,368,569.24
+2010,Kanchipuram,Black Gram,Rabi,298.94,586.61
+2011,Kanchipuram,Rice,Rabi,247.82,680.68
+2011,Kanchipuram,Rice,Rabi,173.28,656
+2011,Kanchipuram,Black Gram,Rabi,243.08,569.99
+2011,Kanchipuram,Black Gram,Rabi,203.04,622.13
+2012,Kanchipuram,Rice,Rabi,235.6,577.2
+2012,Kanchipuram,Rice,Rabi,223.19,532.8
+2012,Kanchipuram,Black Gram,Rabi,281.3,606.77
+2012,Kanchipuram,Black Gram,Rabi,180.47,588.77
+2013,Kanchipuram,Rice,Rabi,229.43,644.96
+2013,Kanchipuram,Rice,Rabi,341.55,631.21
+2013,Kanchipuram,Black Gram,Rabi,341.87,535.99
+2013,Kanchipuram,Black Gram,Rabi,312.33,619.12
+2014,Kanchipuram,Rice,Rabi,266.84,686.59
+2014,Kanchipuram,Rice,Rabi,279.96,638.97
+2014,Kanchipuram,Black Gram,Rabi,297.67,631.96
+2014,Kanchipuram,Black Gram,Rabi,340.59,692.81
+2015,Kanchipuram,Rice,Rabi,243.43,536.33
+2015,Kanchipuram,Rice,Rabi,309.23,626.63
+2015,Kanchipuram,Black Gram,Rabi,367.14,673.92
+2015,Kanchipuram,Black Gram,Rabi,348.44,606.63
+2016,Kanchipuram,Rice,Rabi,250.23,548.11
+2016,Kanchipuram,Rice,Rabi,253.17,582.39
+2016,Kanchipuram,Black Gram,Rabi,216.99,677.53
+2016,Kanchipuram,Black Gram,Rabi,339.97,588.84
+2017,Kanchipuram,Rice,Rabi,199.25,539.05
+2017,Kanchipuram,Rice,Rabi,191,684.45
+2017,Kanchipuram,Black Gram,Rabi,215.58,609.41
+2017,Kanchipuram,Black Gram,Rabi,294.38,622.08
+2018,Kanchipuram,Rice,Rabi,217.04,604.27
+2018,Kanchipuram,Rice,Rabi,207.57,644.72
+2018,Kanchipuram,Black Gram,Rabi,292,688.85
+2018,Kanchipuram,Black Gram,Rabi,208.66,587.55
+2019,Kanchipuram,Rice,Rabi,187.64,579.44
+2019,Kanchipuram,Rice,Rabi,177.18,673.05
+2019,Kanchipuram,Black Gram,Rabi,287.57,545.49
+2019,Kanchipuram,Black Gram,Rabi,263.87,680.81
+2020,Kanchipuram,Rice,Rabi,171.57,597.96
+2020,Kanchipuram,Rice,Rabi,293.99,585.21
+2020,Kanchipuram,Black Gram,Rabi,279.42,533.36
+2020,Kanchipuram,Black Gram,Rabi,165.31,658.07
+2021,Kanchipuram,Rice,Rabi,269.09,674.92
+2021,Kanchipuram,Rice,Rabi,294.29,536.93
+2021,Kanchipuram,Black Gram,Rabi,182.79,583.33
+2021,Kanchipuram,Black Gram,Rabi,320.66,596.44
+2009,Kanchipuram,Rice,Kharif,208.62,832.71
+2009,Kanchipuram,Rice,Kharif,217.82,929.53
+2009,Kanchipuram,Black Gram,Kharif,180.5,843.25
+2009,Kanchipuram,Black Gram,Kharif,304.91,674.85
+2010,Kanchipuram,Rice,Kharif,187.99,988.98
+2010,Kanchipuram,Rice,Kharif,253.61,522.02
+2010,Kanchipuram,Black Gram,Kharif,340.65,711.3
+2010,Kanchipuram,Black Gram,Kharif,303.02,959.9
+2011,Kanchipuram,Rice,Kharif,299.24,513.68
+2011,Kanchipuram,Rice,Kharif,254.13,678.89
+2011,Kanchipuram,Black Gram,Kharif,332.23,468.48
+2011,Kanchipuram,Black Gram,Kharif,164.46,840.53
+2012,Kanchipuram,Rice,Kharif,183.24,977.94
+2012,Kanchipuram,Rice,Kharif,301.27,435.19
+2012,Kanchipuram,Black Gram,Kharif,223.33,435.14
+2012,Kanchipuram,Black Gram,Kharif,261.16,715.85
+2013,Kanchipuram,Rice,Kharif,343.36,616.51
+2013,Kanchipuram,Rice,Kharif,347.78,572.82
+2013,Kanchipuram,Black Gram,Kharif,347.75,876.81
+2013,Kanchipuram,Black Gram,Kharif,344.53,992.98
+2014,Kanchipuram,Rice,Kharif,273.24,676.12
+2014,Kanchipuram,Rice,Kharif,209.62,945.04
+2014,Kanchipuram,Black Gram,Kharif,365.27,903.49
+2014,Kanchipuram,Black Gram,Kharif,189.47,737.82
+2015,Kanchipuram,Rice,Kharif,296.44,582.39
+2015,Kanchipuram,Rice,Kharif,277.28,616.74
+2015,Kanchipuram,Black Gram,Kharif,241.32,981.27
+2015,Kanchipuram,Black Gram,Kharif,269.85,949.77
+2016,Kanchipuram,Rice,Kharif,186.46,543.39
+2016,Kanchipuram,Rice,Kharif,231.94,693.82
+2016,Kanchipuram,Black Gram,Kharif,340.01,739.42
+2016,Kanchipuram,Black Gram,Kharif,190.73,637.1
+2017,Kanchipuram,Rice,Kharif,350.12,819.05
+2017,Kanchipuram,Rice,Kharif,166.36,647.35
+2017,Kanchipuram,Black Gram,Kharif,300.17,755.26
+2017,Kanchipuram,Black Gram,Kharif,167.8,830.5
+2018,Kanchipuram,Rice,Kharif,302.07,922.92
+2018,Kanchipuram,Rice,Kharif,254.13,457.79
+2018,Kanchipuram,Black Gram,Kharif,176.61,476.87
+2018,Kanchipuram,Black Gram,Kharif,316.53,852.12
+2019,Kanchipuram,Rice,Kharif,288.67,637.41
+2019,Kanchipuram,Rice,Kharif,175.91,743.63
+2019,Kanchipuram,Black Gram,Kharif,280.01,558.07
+2019,Kanchipuram,Black Gram,Kharif,245.85,858.36
+2020,Kanchipuram,Rice,Kharif,309.43,744.28
+2020,Kanchipuram,Rice,Kharif,233.14,723.32
+2020,Kanchipuram,Black Gram,Kharif,346.5,596.29
+2020,Kanchipuram,Black Gram,Kharif,290.54,496.37
+2021,Kanchipuram,Rice,Kharif,252.63,905.46
+2021,Kanchipuram,Rice,Kharif,260.51,984.69
+2021,Kanchipuram,Black Gram,Kharif,246.58,916.65
+2021,Kanchipuram,Black Gram,Kharif,173.85,549.67
+2009,Kanchipuram,Rice,Kharif,290.15,695.97
+2009,Kanchipuram,Rice,Kharif,231.52,502.46
+2009,Kanchipuram,Black Gram,Kharif,207.16,941.92
+2009,Kanchipuram,Black Gram,Kharif,253.45,630.06
+2010,Kanchipuram,Rice,Kharif,287.59,567.83
+2010,Kanchipuram,Rice,Kharif,301.63,818.05
+2010,Kanchipuram,Black Gram,Kharif,354.72,900.54
+2010,Kanchipuram,Black Gram,Kharif,342.86,661.1
+2011,Kanchipuram,Rice,Kharif,271.14,550.68
+2011,Kanchipuram,Rice,Kharif,322.44,904.33
+2011,Kanchipuram,Black Gram,Kharif,289.62,793.15
+2011,Kanchipuram,Black Gram,Kharif,251.59,857.02
+2012,Kanchipuram,Rice,Kharif,275.36,535
+2012,Kanchipuram,Rice,Kharif,366.17,903.06
+2012,Kanchipuram,Black Gram,Kharif,324.66,441.54
+2012,Kanchipuram,Black Gram,Kharif,277.29,720.82
+2013,Kanchipuram,Rice,Kharif,182.88,723.07
+2013,Kanchipuram,Rice,Kharif,201.69,538.41
+2013,Kanchipuram,Black Gram,Kharif,253.52,515.17
+2013,Kanchipuram,Black Gram,Kharif,276.73,713.19
+2014,Kanchipuram,Rice,Kharif,295.94,631.7
+2014,Kanchipuram,Rice,Kharif,342.94,884.22
+2014,Kanchipuram,Black Gram,Kharif,265.93,984.13
+2014,Kanchipuram,Black Gram,Kharif,349.73,828.89
+2015,Kanchipuram,Rice,Kharif,367.32,609.66
+2015,Kanchipuram,Rice,Kharif,298.94,958.93
+2015,Kanchipuram,Black Gram,Kharif,329.28,828.92
+2015,Kanchipuram,Black Gram,Kharif,254.3,769.59
+2016,Kanchipuram,Rice,Kharif,314.04,942.26
+2016,Kanchipuram,Rice,Kharif,315.23,909.77
+2016,Kanchipuram,Black Gram,Kharif,325.08,642.01
+2016,Kanchipuram,Black Gram,Kharif,272.68,550.97
+2017,Kanchipuram,Rice,Kharif,240.52,563.18
+2017,Kanchipuram,Rice,Kharif,360.38,703.25
+2017,Kanchipuram,Black Gram,Kharif,186.25,589.37
+2017,Kanchipuram,Black Gram,Kharif,253.57,927.31
+2018,Kanchipuram,Rice,Kharif,264.66,492.54
+2018,Kanchipuram,Rice,Kharif,274.46,942.36
+2018,Kanchipuram,Black Gram,Kharif,163.88,908.41
+2018,Kanchipuram,Black Gram,Kharif,164.08,806.77
+2019,Kanchipuram,Rice,Kharif,350.58,743.09
+2019,Kanchipuram,Rice,Kharif,245.1,437.8
+2019,Kanchipuram,Black Gram,Kharif,304.48,948.58
+2019,Kanchipuram,Black Gram,Kharif,189.27,909.41
+2020,Kanchipuram,Rice,Kharif,324.42,518.65
+2020,Kanchipuram,Rice,Kharif,230.62,969.82
+2020,Kanchipuram,Black Gram,Kharif,271.99,954.79
+2020,Kanchipuram,Black Gram,Kharif,174.91,686.06
+2021,Kanchipuram,Rice,Kharif,309.33,509.4
+2021,Kanchipuram,Rice,Kharif,184.81,835.13
+2021,Kanchipuram,Black Gram,Kharif,352.99,732.42
+2021,Kanchipuram,Black Gram,Kharif,344.86,654.51
+2009,Coimbatore,Rice,Kharif,128.7,298.71
+2009,Coimbatore,Rice,Kharif,57.02,272.18
+2009,Coimbatore,Black Gram,Kharif,77.64,368.85
+2009,Coimbatore,Black Gram,Kharif,111.51,284.84
+2010,Coimbatore,Rice,Kharif,90,400.27
+2010,Coimbatore,Rice,Kharif,100.88,318.46
+2010,Coimbatore,Black Gram,Kharif,100.93,385.54
+2010,Coimbatore,Black Gram,Kharif,80.47,292.25
+2011,Coimbatore,Rice,Kharif,115.07,223.52
+2011,Coimbatore,Rice,Kharif,65.22,390.2
+2011,Coimbatore,Black Gram,Kharif,57.67,347.5
+2011,Coimbatore,Black Gram,Kharif,92.31,232.94
+2012,Coimbatore,Rice,Kharif,73.3,267.83
+2012,Coimbatore,Rice,Kharif,120.5,380.41
+2012,Coimbatore,Black Gram,Kharif,78.98,386.94
+2012,Coimbatore,Black Gram,Kharif,88.34,273.68
+2013,Coimbatore,Rice,Kharif,75.36,225.66
+2013,Coimbatore,Rice,Kharif,79.84,253.01
+2013,Coimbatore,Black Gram,Kharif,56.57,247.27
+2013,Coimbatore,Black Gram,Kharif,110.75,414.84
+2014,Coimbatore,Rice,Kharif,119.9,229.19
+2014,Coimbatore,Rice,Kharif,63.13,331.38
+2014,Coimbatore,Black Gram,Kharif,94.53,225.29
+2014,Coimbatore,Black Gram,Kharif,63.21,268.39
+2015,Coimbatore,Rice,Kharif,132.42,322.31
+2015,Coimbatore,Rice,Kharif,99.94,338.01
+2015,Coimbatore,Black Gram,Kharif,89.24,386.07
+2015,Coimbatore,Black Gram,Kharif,71.26,284.84
+2016,Coimbatore,Rice,Kharif,110.51,315.78
+2016,Coimbatore,Rice,Kharif,118.82,297.36
+2016,Coimbatore,Black Gram,Kharif,68.35,338.83
+2016,Coimbatore,Black Gram,Kharif,118.72,290.07
+2017,Coimbatore,Rice,Kharif,47.71,326.32
+2017,Coimbatore,Rice,Kharif,86.31,365.11
+2017,Coimbatore,Black Gram,Kharif,62.97,240.28
+2017,Coimbatore,Black Gram,Kharif,65.86,297.37
+2018,Coimbatore,Rice,Kharif,123.17,410.6
+2018,Coimbatore,Rice,Kharif,78.07,272.75
+2018,Coimbatore,Black Gram,Kharif,62.42,246.42
+2018,Coimbatore,Black Gram,Kharif,121.81,276.67
+2019,Coimbatore,Rice,Kharif,97.61,328.68
+2019,Coimbatore,Rice,Kharif,133.48,303.08
+2019,Coimbatore,Black Gram,Kharif,123.01,256.42
+2019,Coimbatore,Black Gram,Kharif,51.37,246.12
+2020,Coimbatore,Rice,Kharif,127.34,302.04
+2020,Coimbatore,Rice,Kharif,70.46,312.65
+2020,Coimbatore,Black Gram,Kharif,71.23,233.36
+2020,Coimbatore,Black Gram,Kharif,95.26,394.99
+2021,Coimbatore,Rice,Kharif,75.36,391.17
+2021,Coimbatore,Rice,Kharif,97.45,346.89
+2021,Coimbatore,Black Gram,Kharif,63.94,244.12
+2021,Coimbatore,Black Gram,Kharif,116.62,320.9
+2009,Coimbatore,Rice,Kharif,130.5,250.13
+2009,Coimbatore,Rice,Kharif,56.56,337.44
+2009,Coimbatore,Black Gram,Kharif,120.15,348.87
+2009,Coimbatore,Black Gram,Kharif,89.26,410.41
+2010,Coimbatore,Rice,Kharif,98.73,289.99
+2010,Coimbatore,Rice,Kharif,103.89,395.69
+2010,Coimbatore,Black Gram,Kharif,98.83,342.92
+2010,Coimbatore,Black Gram,Kharif,63.85,421.64
+2011,Coimbatore,Rice,Kharif,64.4,259.27
+2011,Coimbatore,Rice,Kharif,74.62,264.44
+2011,Coimbatore,Black Gram,Kharif,107.28,256.34
+2011,Coimbatore,Black Gram,Kharif,50.72,342.71
+2012,Coimbatore,Rice,Kharif,84.97,416.14
+2012,Coimbatore,Rice,Kharif,56.26,329.19
+2012,Coimbatore,Black Gram,Kharif,49.49,363.25
+2012,Coimbatore,Black Gram,Kharif,71.56,276.53
+2013,Coimbatore,Rice,Kharif,74.33,405.52
+2013,Coimbatore,Rice,Kharif,72.31,249.39
+2013,Coimbatore,Black Gram,Kharif,92.86,383.11
+2013,Coimbatore,Black Gram,Kharif,121.23,366.29
+2014,Coimbatore,Rice,Kharif,55.96,278.26
+2014,Coimbatore,Rice,Kharif,60.97,324.5
+2014,Coimbatore,Black Gram,Kharif,85.97,331.21
+2014,Coimbatore,Black Gram,Kharif,105.3,299.71
+2015,Coimbatore,Rice,Kharif,107.8,360.96
+2015,Coimbatore,Rice,Kharif,125.94,364.23
+2015,Coimbatore,Black Gram,Kharif,118.35,252.19
+2015,Coimbatore,Black Gram,Kharif,127.55,339.21
+2016,Coimbatore,Rice,Kharif,125.14,355.05
+2016,Coimbatore,Rice,Kharif,101.92,386.72
+2016,Coimbatore,Black Gram,Kharif,73.98,299.17
+2016,Coimbatore,Black Gram,Kharif,55.55,294.78
+2017,Coimbatore,Rice,Kharif,101.74,411.06
+2017,Coimbatore,Rice,Kharif,54.75,250.82
+2017,Coimbatore,Black Gram,Kharif,80.01,305.53
+2017,Coimbatore,Black Gram,Kharif,84.83,424.64
+2018,Coimbatore,Rice,Kharif,105.12,331.78
+2018,Coimbatore,Rice,Kharif,70.31,251.76
+2018,Coimbatore,Black Gram,Kharif,105.44,340.96
+2018,Coimbatore,Black Gram,Kharif,118.68,275.71
+2019,Coimbatore,Rice,Kharif,53.92,365.65
+2019,Coimbatore,Rice,Kharif,54.58,409.34
+2019,Coimbatore,Black Gram,Kharif,55.09,295.34
+2019,Coimbatore,Black Gram,Kharif,86.12,394.2
+2020,Coimbatore,Rice,Kharif,96.74,240.55
+2020,Coimbatore,Rice,Kharif,75.81,299.91
+2020,Coimbatore,Black Gram,Kharif,119.94,355.77
+2020,Coimbatore,Black Gram,Kharif,61.57,386.46
+2021,Coimbatore,Rice,Kharif,99.17,319.17
+2021,Coimbatore,Rice,Kharif,111.82,402.01
+2021,Coimbatore,Black Gram,Kharif,61.16,374.92
+2021,Coimbatore,Black Gram,Kharif,113.38,269.15
+2009,Salem,Rice,Rabi,93.44,480.77
+2009,Salem,Rice,Kharif,130.17,776.8
+2009,Salem,Rice,Rabi,93.41,734.13
+2009,Salem,Rice,Kharif,68.74,690.33
+2009,Salem,Black Gram,Rabi,118.76,442.35
+2009,Salem,Black Gram,Kharif,70.4,280.82
+2009,Salem,Black Gram,Rabi,94.22,586.09
+2009,Salem,Black Gram,Kharif,131.35,651.1
+2010,Salem,Rice,Rabi,131.98,389.5
+2010,Salem,Rice,Kharif,52.89,225.47
+2010,Salem,Rice,Rabi,44.54,720.51
+2010,Salem,Rice,Kharif,44.22,320.81
+2010,Salem,Black Gram,Rabi,70.3,757.1
+2010,Salem,Black Gram,Kharif,83.96,286.75
+2010,Salem,Black Gram,Rabi,127.3,394.92
+2010,Salem,Black Gram,Kharif,128.1,680.05
+2011,Salem,Rice,Rabi,80.64,275.74
+2011,Salem,Rice,Kharif,139.98,717.19
+2011,Salem,Rice,Rabi,146.54,729.57
+2011,Salem,Rice,Kharif,47.13,769.35
+2011,Salem,Black Gram,Rabi,73.97,646.2
+2011,Salem,Black Gram,Kharif,59.75,320.28
+2011,Salem,Black Gram,Rabi,84.84,786.97
+2011,Salem,Black Gram,Kharif,52.17,258.09
+2012,Salem,Rice,Rabi,96.59,592.55
+2012,Salem,Rice,Kharif,61.94,656.28
+2012,Salem,Rice,Rabi,128.5,744
+2012,Salem,Rice,Kharif,53.65,353.39
+2012,Salem,Black Gram,Rabi,98.6,660.88
+2012,Salem,Black Gram,Kharif,108.92,644.8
+2012,Salem,Black Gram,Rabi,65.03,760.38
+2012,Salem,Black Gram,Kharif,54.49,324.41
+2013,Salem,Rice,Rabi,70.9,313.56
+2013,Salem,Rice,Kharif,61.76,428.33
+2013,Salem,Rice,Rabi,102.99,285.61
+2013,Salem,Rice,Kharif,99.66,411.54
+2013,Salem,Black Gram,Rabi,130.02,354.01
+2013,Salem,Black Gram,Kharif,49.59,788.54
+2013,Salem,Black Gram,Rabi,100.28,381.75
+2013,Salem,Black Gram,Kharif,146.36,322.87
+2014,Salem,Rice,Rabi,107.6,352.46
+2014,Salem,Rice,Kharif,41.19,594.9
+2014,Salem,Rice,Rabi,115.06,565.01
+2014,Salem,Rice,Kharif,125.6,599.88
+2014,Salem,Black Gram,Rabi,110.24,691.35
+2014,Salem,Black Gram,Kharif,61.1,766.29
+2014,Salem,Black Gram,Rabi,102.51,424.39
+2014,Salem,Black Gram,Kharif,59.01,540.3
+2015,Salem,Rice,Rabi,88.85,267.99
+2015,Salem,Rice,Kharif,50.44,246.08
+2015,Salem,Rice,Rabi,134.7,331.82
+2015,Salem,Rice,Kharif,78.16,735.6
+2015,Salem,Black Gram,Rabi,64.7,368.06
+2015,Salem,Black Gram,Kharif,56.27,733.16
+2015,Salem,Black Gram,Rabi,67.66,689.75
+2015,Salem,Black Gram,Kharif,83.22,305.91
+2016,Salem,Rice,Rabi,93.42,407.88
+2016,Salem,Rice,Kharif,116.29,527.96
+2016,Salem,Rice,Rabi,68.44,325.21
+2016,Salem,Rice,Kharif,40.28,507.9
+2016,Salem,Black Gram,Rabi,146.67,312.61
+2016,Salem,Black Gram,Kharif,60.06,472.11
+2016,Salem,Black Gram,Rabi,51.33,753.14
+2016,Salem,Black Gram,Kharif,39.92,234.2
+2017,Salem,Rice,Rabi,105.04,526.8
+2017,Salem,Rice,Kharif,110.22,457.51
+2017,Salem,Rice,Rabi,146.06,655.49
+2017,Salem,Rice,Kharif,44.35,577.09
+2017,Salem,Black Gram,Rabi,113.99,624.97
+2017,Salem,Black Gram,Kharif,80.82,399.37
+2017,Salem,Black Gram,Rabi,61.91,275.33
+2017,Salem,Black Gram,Kharif,144.67,696.43
+2018,Salem,Rice,Rabi,86.58,271.26
+2018,Salem,Rice,Kharif,136.99,429.9
+2018,Salem,Rice,Rabi,129.28,250.57
+2018,Salem,Rice,Kharif,93.61,254.33
+2018,Salem,Black Gram,Rabi,56.13,360.26
+2018,Salem,Black Gram,Kharif,78.49,535.56
+2018,Salem,Black Gram,Rabi,125.64,264.89
+2018,Salem,Black Gram,Kharif,49.92,554.06
+2019,Salem,Rice,Rabi,143.04,747.42
+2019,Salem,Rice,Kharif,142.17,758.29
+2019,Salem,Rice,Rabi,57.78,270.89
+2019,Salem,Rice,Kharif,60.41,571.98
+2019,Salem,Black Gram,Rabi,53.6,264.69
+2019,Salem,Black Gram,Kharif,105.58,439.94
+2019,Salem,Black Gram,Rabi,127.79,552.62
+2019,Salem,Black Gram,Kharif,133.97,350.77
+2020,Salem,Rice,Rabi,97.89,273.05
+2020,Salem,Rice,Kharif,83.34,658.84
+2020,Salem,Rice,Rabi,70.16,259.62
+2020,Salem,Rice,Kharif,57.81,572.83
+2020,Salem,Black Gram,Rabi,124.83,607.57
+2020,Salem,Black Gram,Kharif,107.85,235.58
+2020,Salem,Black Gram,Rabi,84.46,286.4
+2020,Salem,Black Gram,Kharif,95.19,666.71
+2021,Salem,Rice,Rabi,103.65,687.18
+2021,Salem,Rice,Kharif,46.78,633.08
+2021,Salem,Rice,Rabi,62.3,437.23
+2021,Salem,Rice,Kharif,107.39,671.49
+2021,Salem,Black Gram,Rabi,79.42,454.67
+2021,Salem,Black Gram,Kharif,146.05,645.7
+2021,Salem,Black Gram,Rabi,108.78,320.99
+2021,Salem,Black Gram,Kharif,61.39,469.53
+2009,Salem,Rice,Rabi,55.28,644.56
+2009,Salem,Rice,Kharif,131.75,544.15
+2009,Salem,Rice,Rabi,128.37,477.18
+2009,Salem,Rice,Kharif,76.05,383.97
+2009,Salem,Black Gram,Rabi,68.07,309.18
+2009,Salem,Black Gram,Kharif,128.09,469.98
+2009,Salem,Black Gram,Rabi,120.25,458.39
+2009,Salem,Black Gram,Kharif,140.31,627.63
+2010,Salem,Rice,Rabi,69.55,296.89
+2010,Salem,Rice,Kharif,43.1,586.24
+2010,Salem,Rice,Rabi,130.99,501.08
+2010,Salem,Rice,Kharif,128.52,406.81
+2010,Salem,Black Gram,Rabi,67.12,356.32
+2010,Salem,Black Gram,Kharif,97.95,462.15
+2010,Salem,Black Gram,Rabi,56.4,487.31
+2010,Salem,Black Gram,Kharif,72.27,561.65
+2011,Salem,Rice,Rabi,110.94,643.36
+2011,Salem,Rice,Kharif,43.12,506.06
+2011,Salem,Rice,Rabi,61.77,713.43
+2011,Salem,Rice,Kharif,146.52,714.86
+2011,Salem,Black Gram,Rabi,137.38,708.51
+2011,Salem,Black Gram,Kharif,115.98,643.11
+2011,Salem,Black Gram,Rabi,58.44,667.92
+2011,Salem,Black Gram,Kharif,62.38,599.31
+2012,Salem,Rice,Rabi,76.95,530.64
+2012,Salem,Rice,Kharif,71.2,663.13
+2012,Salem,Rice,Rabi,131.01,468.78
+2012,Salem,Rice,Kharif,115.32,348.52
+2012,Salem,Black Gram,Rabi,50.41,584.64
+2012,Salem,Black Gram,Kharif,39.96,228.2
+2012,Salem,Black Gram,Rabi,138.36,729.8
+2012,Salem,Black Gram,Kharif,125.72,343.59
+2013,Salem,Rice,Rabi,133.34,468.8
+2013,Salem,Rice,Kharif,43.41,675.08
+2013,Salem,Rice,Rabi,39.57,642.7
+2013,Salem,Rice,Kharif,40.13,646.93
+2013,Salem,Black Gram,Rabi,40.09,360.27
+2013,Salem,Black Gram,Kharif,146.03,478.53
+2013,Salem,Black Gram,Rabi,81.73,322.02
+2013,Salem,Black Gram,Kharif,104.56,612.27
+2014,Salem,Rice,Rabi,92.73,289.8
+2014,Salem,Rice,Kharif,76.03,280.43
+2014,Salem,Rice,Rabi,127.03,321.07
+2014,Salem,Rice,Kharif,51.64,771.04
+2014,Salem,Black Gram,Rabi,67.99,613.5
+2014,Salem,Black Gram,Kharif,106.49,270.46
+2014,Salem,Black Gram,Rabi,113.15,717
+2014,Salem,Black Gram,Kharif,55.45,227.61
+2015,Salem,Rice,Rabi,90.56,789.73
+2015,Salem,Rice,Kharif,130.74,510.01
+2015,Salem,Rice,Rabi,71.96,451.97
+2015,Salem,Rice,Kharif,125.63,417.29
+2015,Salem,Black Gram,Rabi,115.17,755.12
+2015,Salem,Black Gram,Kharif,106.41,632.87
+2015,Salem,Black Gram,Rabi,107.1,776.58
+2015,Salem,Black Gram,Kharif,45.3,502.07
+2016,Salem,Rice,Rabi,49.79,622.41
+2016,Salem,Rice,Kharif,39.85,781.87
+2016,Salem,Rice,Rabi,106.49,304.44
+2016,Salem,Rice,Kharif,78.09,622.85
+2016,Salem,Black Gram,Rabi,74.51,497.41
+2016,Salem,Black Gram,Kharif,101.87,381.08
+2016,Salem,Black Gram,Rabi,89.6,344.14
+2016,Salem,Black Gram,Kharif,130.56,771.14
+2017,Salem,Rice,Rabi,74.87,579.99
+2017,Salem,Rice,Kharif,108.58,430.21
+2017,Salem,Rice,Rabi,94.18,226.2
+2017,Salem,Rice,Kharif,81.48,321.16
+2017,Salem,Black Gram,Rabi,39.19,495.82
+2017,Salem,Black Gram,Kharif,127.35,365.49
+2017,Salem,Black Gram,Rabi,139.96,471.75
+2017,Salem,Black Gram,Kharif,65.19,750.74
+2018,Salem,Rice,Rabi,69.86,355.01
+2018,Salem,Rice,Kharif,145.14,707.94
+2018,Salem,Rice,Rabi,146.91,311.78
+2018,Salem,Rice,Kharif,113.27,280.52
+2018,Salem,Black Gram,Rabi,122.72,592.31
+2018,Salem,Black Gram,Kharif,53.4,494.8
+2018,Salem,Black Gram,Rabi,90.8,366.33
+2018,Salem,Black Gram,Kharif,114.81,589.83
+2019,Salem,Rice,Rabi,59,656.92
+2019,Salem,Rice,Kharif,129.04,494.72
+2019,Salem,Rice,Rabi,77.81,487.62
+2019,Salem,Rice,Kharif,139.1,378.79
+2019,Salem,Black Gram,Rabi,141.24,675.41
+2019,Salem,Black Gram,Kharif,39.65,499.44
+2019,Salem,Black Gram,Rabi,131.78,477.54
+2019,Salem,Black Gram,Kharif,67.24,713.66
+2020,Salem,Rice,Rabi,92.48,370.18
+2020,Salem,Rice,Kharif,108.83,621.81
+2020,Salem,Rice,Rabi,40.39,484.27
+2020,Salem,Rice,Kharif,72.36,397.47
+2020,Salem,Black Gram,Rabi,139.34,661.84
+2020,Salem,Black Gram,Kharif,64.13,561.89
+2020,Salem,Black Gram,Rabi,82.26,613.81
+2020,Salem,Black Gram,Kharif,71.44,323.73
+2021,Salem,Rice,Rabi,45.64,779.13
+2021,Salem,Rice,Kharif,76.02,639.02
+2021,Salem,Rice,Rabi,50.33,448
+2021,Salem,Rice,Kharif,124.29,607.02
+2021,Salem,Black Gram,Rabi,97.02,458.75
+2021,Salem,Black Gram,Kharif,97.87,263.62
+2021,Salem,Black Gram,Rabi,41.83,280.89
+2021,Salem,Black Gram,Kharif,100.11,349.88
+2009,Trichy,Rice,Rabi,203.01,477.52
+2009,Trichy,Rice,Rabi,185.46,693.44
+2009,Trichy,Black Gram,Rabi,249.55,433.08
+2009,Trichy,Black Gram,Rabi,148.26,643.16
+2010,Trichy,Rice,Rabi,145.34,256.43
+2010,Trichy,Rice,Rabi,243.24,462.12
+2010,Trichy,Black Gram,Rabi,120.96,387.03
+2010,Trichy,Black Gram,Rabi,143.71,714.08
+2011,Trichy,Rice,Rabi,223.89,603.9
+2011,Trichy,Rice,Rabi,113.14,559.58
+2011,Trichy,Black Gram,Rabi,120.4,787.29
+2011,Trichy,Black Gram,Rabi,86.14,250.5
+2012,Trichy,Rice,Rabi,113.85,312.36
+2012,Trichy,Rice,Rabi,214.32,614.96
+2012,Trichy,Black Gram,Rabi,148.17,591.15
+2012,Trichy,Black Gram,Rabi,167.51,636.48
+2013,Trichy,Rice,Rabi,173.11,506.79
+2013,Trichy,Rice,Rabi,167.48,308.3
+2013,Trichy,Black Gram,Rabi,99.71,370.23
+2013,Trichy,Black Gram,Rabi,239.6,753.03
+2014,Trichy,Rice,Rabi,242.87,474.86
+2014,Trichy,Rice,Rabi,211.3,396.2
+2014,Trichy,Black Gram,Rabi,130.74,472.92
+2014,Trichy,Black Gram,Rabi,157.75,729.15
+2015,Trichy,Rice,Rabi,269.54,519.2
+2015,Trichy,Rice,Rabi,269.12,351.63
+2015,Trichy,Black Gram,Rabi,226.33,738.13
+2015,Trichy,Black Gram,Rabi,260.25,639.02
+2016,Trichy,Rice,Rabi,135.9,321.38
+2016,Trichy,Rice,Rabi,203.34,369.69
+2016,Trichy,Black Gram,Rabi,250.72,279.83
+2016,Trichy,Black Gram,Rabi,97.2,253.44
+2017,Trichy,Rice,Rabi,257.7,308.59
+2017,Trichy,Rice,Rabi,186.47,689.08
+2017,Trichy,Black Gram,Rabi,212.27,308.05
+2017,Trichy,Black Gram,Rabi,238.56,588.77
+2018,Trichy,Rice,Rabi,110.92,717.74
+2018,Trichy,Rice,Rabi,262.06,764.03
+2018,Trichy,Black Gram,Rabi,214.07,744.71
+2018,Trichy,Black Gram,Rabi,130.58,366.79
+2019,Trichy,Rice,Rabi,237.16,428.01
+2019,Trichy,Rice,Rabi,159.95,266.34
+2019,Trichy,Black Gram,Rabi,205.66,572.13
+2019,Trichy,Black Gram,Rabi,97.83,247.63
+2020,Trichy,Rice,Rabi,127.13,534.34
+2020,Trichy,Rice,Rabi,107.43,308
+2020,Trichy,Black Gram,Rabi,162.86,663.15
+2020,Trichy,Black Gram,Rabi,103.54,491.99
+2021,Trichy,Rice,Rabi,133.74,343.57
+2021,Trichy,Rice,Rabi,162.59,629.1
+2021,Trichy,Black Gram,Rabi,163.14,730.7
+2021,Trichy,Black Gram,Rabi,213.28,505.93
+2009,Trichy,Rice,Rabi,218.4,789.98
+2009,Trichy,Rice,Rabi,162.08,227.92
+2009,Trichy,Black Gram,Rabi,249.87,580.54
+2009,Trichy,Black Gram,Rabi,166.19,678.87
+2010,Trichy,Rice,Rabi,247.54,688.38
+2010,Trichy,Rice,Rabi,109.19,663.05
+2010,Trichy,Black Gram,Rabi,198.75,483.02
+2010,Trichy,Black Gram,Rabi,123.88,528.21
+2011,Trichy,Rice,Rabi,195.03,563.89
+2011,Trichy,Rice,Rabi,210.17,706.97
+2011,Trichy,Black Gram,Rabi,140.34,307.96
+2011,Trichy,Black Gram,Rabi,104.23,525.06
+2012,Trichy,Rice,Rabi,169.75,681.16
+2012,Trichy,Rice,Rabi,163.58,545.22
+2012,Trichy,Black Gram,Rabi,131.25,300.93
+2012,Trichy,Black Gram,Rabi,156.37,741.34
+2013,Trichy,Rice,Rabi,247.9,704.23
+2013,Trichy,Rice,Rabi,213.27,296.69
+2013,Trichy,Black Gram,Rabi,143.96,317.74
+2013,Trichy,Black Gram,Rabi,184.23,777.29
+2014,Trichy,Rice,Rabi,140.82,245.46
+2014,Trichy,Rice,Rabi,140.56,352.09
+2014,Trichy,Black Gram,Rabi,212.23,708.78
+2014,Trichy,Black Gram,Rabi,240.53,335.41
+2015,Trichy,Rice,Rabi,176.52,469.98
+2015,Trichy,Rice,Rabi,245.01,362.3
+2015,Trichy,Black Gram,Rabi,213.68,601.38
+2015,Trichy,Black Gram,Rabi,132.15,645.44
+2016,Trichy,Rice,Rabi,93.96,326.72
+2016,Trichy,Rice,Rabi,264.76,648.41
+2016,Trichy,Black Gram,Rabi,143.97,246.72
+2016,Trichy,Black Gram,Rabi,237.63,714.58
+2017,Trichy,Rice,Rabi,153.97,650.29
+2017,Trichy,Rice,Rabi,248.37,408.54
+2017,Trichy,Black Gram,Rabi,113.02,285.01
+2017,Trichy,Black Gram,Rabi,155.44,488.83
+2018,Trichy,Rice,Rabi,146.5,325.01
+2018,Trichy,Rice,Rabi,146.4,445.27
+2018,Trichy,Black Gram,Rabi,213.7,415.72
+2018,Trichy,Black Gram,Rabi,107.74,519.57
+2019,Trichy,Rice,Rabi,159.65,479.37
+2019,Trichy,Rice,Rabi,261.09,536.47
+2019,Trichy,Black Gram,Rabi,230.57,499.24
+2019,Trichy,Black Gram,Rabi,234.54,614.1
+2020,Trichy,Rice,Rabi,153.92,236.2
+2020,Trichy,Rice,Rabi,258.64,713.69
+2020,Trichy,Black Gram,Rabi,264.47,653.91
+2020,Trichy,Black Gram,Rabi,108.67,688.06
+2021,Trichy,Rice,Rabi,194.78,614.42
+2021,Trichy,Rice,Rabi,154.55,461.11
+2021,Trichy,Black Gram,Rabi,107.09,301.18
+2021,Trichy,Black Gram,Rabi,119.92,746.32
+2009,Thanjavur,Rice,Kharif,667.29,831.83
+2009,Thanjavur,Rice,Kharif,506.17,1129.68
+2009,Thanjavur,Black Gram,Kharif,598.76,1029.43
+2009,Thanjavur,Black Gram,Kharif,658.1,1373.09
+2010,Thanjavur,Rice,Kharif,414.69,921.04
+2010,Thanjavur,Rice,Kharif,438.74,1337.49
+2010,Thanjavur,Black Gram,Kharif,532.58,677.9
+2010,Thanjavur,Black Gram,Kharif,388.98,617.58
+2011,Thanjavur,Rice,Kharif,389.54,1404.01
+2011,Thanjavur,Rice,Kharif,636.02,1346.47
+2011,Thanjavur,Black Gram,Kharif,486.7,777.25
+2011,Thanjavur,Black Gram,Kharif,623.06,694.32
+2012,Thanjavur,Rice,Kharif,440.04,1290.99
+2012,Thanjavur,Rice,Kharif,570.8,878.03
+2012,Thanjavur,Black Gram,Kharif,598.66,913.23
+2012,Thanjavur,Black Gram,Kharif,419.83,706.3
+2013,Thanjavur,Rice,Kharif,574.1,631.09
+2013,Thanjavur,Rice,Kharif,650.48,877.27
+2013,Thanjavur,Black Gram,Kharif,420.63,750.57
+2013,Thanjavur,Black Gram,Kharif,450.75,1110.61
+2014,Thanjavur,Rice,Kharif,464.21,617.91
+2014,Thanjavur,Rice,Kharif,463.93,985.92
+2014,Thanjavur,Black Gram,Kharif,567.73,1275.65
+2014,Thanjavur,Black Gram,Kharif,656.53,688.71
+2015,Thanjavur,Rice,Kharif,457.36,1230.03
+2015,Thanjavur,Rice,Kharif,511.52,1410.54
+2015,Thanjavur,Black Gram,Kharif,594.23,622.86
+2015,Thanjavur,Black Gram,Kharif,406.57,896.68
+2016,Thanjavur,Rice,Kharif,418.95,823.72
+2016,Thanjavur,Rice,Kharif,585.52,1051.13
+2016,Thanjavur,Black Gram,Kharif,555.9,1258.03
+2016,Thanjavur,Black Gram,Kharif,434.88,887.28
+2017,Thanjavur,Rice,Kharif,541.29,995.89
+2017,Thanjavur,Rice,Kharif,488.4,1220.45
+2017,Thanjavur,Black Gram,Kharif,514.84,1323.24
+2017,Thanjavur,Black Gram,Kharif,574.52,1277.47
+2018,Thanjavur,Rice,Kharif,638.8,1328.58
+2018,Thanjavur,Rice,Kharif,531.9,724.91
+2018,Thanjavur,Black Gram,Kharif,489.6,1305.66
+2018,Thanjavur,Black Gram,Kharif,528.06,655.5
+2019,Thanjavur,Rice,Kharif,469.34,955.98
+2019,Thanjavur,Rice,Kharif,419.15,975.45
+2019,Thanjavur,Black Gram,Kharif,399.81,1390.85
+2019,Thanjavur,Black Gram,Kharif,395.34,723.09
+2020,Thanjavur,Rice,Kharif,660.13,1271.06
+2020,Thanjavur,Rice,Kharif,486.78,927
+2020,Thanjavur,Black Gram,Kharif,415.34,899.59
+2020,Thanjavur,Black Gram,Kharif,634.05,1079.86
+2021,Thanjavur,Rice,Kharif,645.29,1222.04
+2021,Thanjavur,Rice,Kharif,444.99,1153.72
+2021,Thanjavur,Black Gram,Kharif,536.91,1022.72
+2021,Thanjavur,Black Gram,Kharif,447.88,1205.8
+2009,Thanjavur,Rice,Kharif,516.97,1410.4
+2009,Thanjavur,Rice,Kharif,501.97,699.33
+2009,Thanjavur,Black Gram,Kharif,612.46,1231.68
+2009,Thanjavur,Black Gram,Kharif,520.5,792.2
+2010,Thanjavur,Rice,Kharif,449.21,1162.04
+2010,Thanjavur,Rice,Kharif,650.38,1263.68
+2010,Thanjavur,Black Gram,Kharif,469.16,922.91
+2010,Thanjavur,Black Gram,Kharif,421.46,1076.67
+2011,Thanjavur,Rice,Kharif,429.57,1291
+2011,Thanjavur,Rice,Kharif,536.9,761.88
+2011,Thanjavur,Black Gram,Kharif,381.54,1014.98
+2011,Thanjavur,Black Gram,Kharif,653.41,765.44
+2012,Thanjavur,Rice,Kharif,511.76,922.39
+2012,Thanjavur,Rice,Kharif,482.74,1262.94
+2012,Thanjavur,Black Gram,Kharif,487.7,1140.98
+2012,Thanjavur,Black Gram,Kharif,583.09,1253.06
+2013,Thanjavur,Rice,Kharif,425.08,639.29
+2013,Thanjavur,Rice,Kharif,520.27,848.78
+2013,Thanjavur,Black Gram,Kharif,415.28,1364.12
+2013,Thanjavur,Black Gram,Kharif,633.12,1400.14
+2014,Thanjavur,Rice,Kharif,482.48,1006.41
+2014,Thanjavur,Rice,Kharif,654.31,652.56
+2014,Thanjavur,Black Gram,Kharif,647.88,1353.89
+2014,Thanjavur,Black Gram,Kharif,620.98,1399.04
+2015,Thanjavur,Rice,Kharif,507.86,1112.63
+2015,Thanjavur,Rice,Kharif,667.19,1092.26
+2015,Thanjavur,Black Gram,Kharif,605.3,1111.3
+2015,Thanjavur,Black Gram,Kharif,529.97,640.85
+2016,Thanjavur,Rice,Kharif,657.67,1153.22
+2016,Thanjavur,Rice,Kharif,641.97,1396.83
+2016,Thanjavur,Black Gram,Kharif,436.57,748.24
+2016,Thanjavur,Black Gram,Kharif,396.31,1385.58
+2017,Thanjavur,Rice,Kharif,536.33,1047.47
+2017,Thanjavur,Rice,Kharif,591.23,1219.46
+2017,Thanjavur,Black Gram,Kharif,526.37,986.81
+2017,Thanjavur,Black Gram,Kharif,647.5,1330.04
+2018,Thanjavur,Rice,Kharif,430.6,895.6
+2018,Thanjavur,Rice,Kharif,506.27,613.96
+2018,Thanjavur,Black Gram,Kharif,486.48,1392.85
+2018,Thanjavur,Black Gram,Kharif,544.26,1253.81
+2019,Thanjavur,Rice,Kharif,408.72,1015.45
+2019,Thanjavur,Rice,Kharif,428.73,867.46
+2019,Thanjavur,Black Gram,Kharif,533.75,1256.92
+2019,Thanjavur,Black Gram,Kharif,437.44,1412.4
+2020,Thanjavur,Rice,Kharif,543.34,1382.82
+2020,Thanjavur,Rice,Kharif,561.86,919.17
+2020,Thanjavur,Black Gram,Kharif,648.97,1190.36
+2020,Thanjavur,Black Gram,Kharif,619.48,1375.68
+2021,Thanjavur,Rice,Kharif,579.35,1396.9
+2021,Thanjavur,Rice,Kharif,610.62,1206.39
+2021,Thanjavur,Black Gram,Kharif,441.01,729.02
+2021,Thanjavur,Black Gram,Kharif,460.56,856.05
+2009,Thirunelveli,Rice,Kharif,125.59,568.96
+2009,Thirunelveli,Rice,Kharif,154.76,408.49
+2009,Thirunelveli,Black Gram,Kharif,144.43,456.36
+2009,Thirunelveli,Black Gram,Kharif,84.37,437.5
+2010,Thirunelveli,Rice,Kharif,80.73,494.87
+2010,Thirunelveli,Rice,Kharif,56.42,502.5
+2010,Thirunelveli,Black Gram,Kharif,154.47,365.55
+2010,Thirunelveli,Black Gram,Kharif,150.91,488.65
+2011,Thirunelveli,Rice,Kharif,79.64,516.03
+2011,Thirunelveli,Rice,Kharif,54.96,349.37
+2011,Thirunelveli,Black Gram,Kharif,160.02,404.92
+2011,Thirunelveli,Black Gram,Kharif,64.27,304.14
+2012,Thirunelveli,Rice,Kharif,152.86,605.49
+2012,Thirunelveli,Rice,Kharif,53.82,282.71
+2012,Thirunelveli,Black Gram,Kharif,161.27,543.76
+2012,Thirunelveli,Black Gram,Kharif,166.4,300.32
+2013,Thirunelveli,Rice,Kharif,134.55,301.77
+2013,Thirunelveli,Rice,Kharif,154.51,511.64
+2013,Thirunelveli,Black Gram,Kharif,91.47,492.63
+2013,Thirunelveli,Black Gram,Kharif,85.97,489.32
+2014,Thirunelveli,Rice,Kharif,57.95,470
+2014,Thirunelveli,Rice,Kharif,155.44,304.02
+2014,Thirunelveli,Black Gram,Kharif,74.35,447.74
+2014,Thirunelveli,Black Gram,Kharif,94.13,508.38
+2015,Thirunelveli,Rice,Kharif,100.59,547.75
+2015,Thirunelveli,Rice,Kharif,86.49,517.23
+2015,Thirunelveli,Black Gram,Kharif,163.74,314.21
+2015,Thirunelveli,Black Gram,Kharif,100.41,487.39
+2016,Thirunelveli,Rice,Kharif,64.05,376.87
+2016,Thirunelveli,Rice,Kharif,170.5,484.3
+2016,Thirunelveli,Black Gram,Kharif,105.26,397.03
+2016,Thirunelveli,Black Gram,Kharif,128.43,436.38
+2017,Thirunelveli,Rice,Kharif,123.62,356.95
+2017,Thirunelveli,Rice,Kharif,154.79,495.06
+2017,Thirunelveli,Black Gram,Kharif,64.72,489.72
+2017,Thirunelveli,Black Gram,Kharif,54.52,555.85
+2018,Thirunelveli,Rice,Kharif,92.44,544.48
+2018,Thirunelveli,Rice,Kharif,137.13,351.65
+2018,Thirunelveli,Black Gram,Kharif,134.23,372.37
+2018,Thirunelveli,Black Gram,Kharif,58.82,515.47
+2019,Thirunelveli,Rice,Kharif,126.41,495.66
+2019,Thirunelveli,Rice,Kharif,58.76,607.63
+2019,Thirunelveli,Black Gram,Kharif,77.63,323.19
+2019,Thirunelveli,Black Gram,Kharif,78.3,438.36
+2020,Thirunelveli,Rice,Kharif,73.49,596.9
+2020,Thirunelveli,Rice,Kharif,155.21,459.17
+2020,Thirunelveli,Black Gram,Kharif,59.31,304.01
+2020,Thirunelveli,Black Gram,Kharif,54.74,543.34
+2021,Thirunelveli,Rice,Kharif,66.21,343.45
+2021,Thirunelveli,Rice,Kharif,112.99,419.56
+2021,Thirunelveli,Black Gram,Kharif,75.29,564.67
+2021,Thirunelveli,Black Gram,Kharif,72.64,338.93
+2009,Thirunelveli,Rice,Kharif,106.37,471.25
+2009,Thirunelveli,Rice,Kharif,117.86,376.99
+2009,Thirunelveli,Black Gram,Kharif,95.5,479.81
+2009,Thirunelveli,Black Gram,Kharif,167.09,352.44
+2010,Thirunelveli,Rice,Kharif,129.23,337.95
+2010,Thirunelveli,Rice,Kharif,116.19,293.61
+2010,Thirunelveli,Black Gram,Kharif,126.86,528.34
+2010,Thirunelveli,Black Gram,Kharif,110.4,364.02
+2011,Thirunelveli,Rice,Kharif,132.34,486.03
+2011,Thirunelveli,Rice,Kharif,51.55,387.59
+2011,Thirunelveli,Black Gram,Kharif,85.17,450.16
+2011,Thirunelveli,Black Gram,Kharif,102.42,552.04
+2012,Thirunelveli,Rice,Kharif,66.59,398.6
+2012,Thirunelveli,Rice,Kharif,56.78,501.52
+2012,Thirunelveli,Black Gram,Kharif,140.86,522.78
+2012,Thirunelveli,Black Gram,Kharif,105.01,495.36
+2013,Thirunelveli,Rice,Kharif,168.77,571.19
+2013,Thirunelveli,Rice,Kharif,148.33,464.24
+2013,Thirunelveli,Black Gram,Kharif,102,306.16
+2013,Thirunelveli,Black Gram,Kharif,105.82,401.76
+2014,Thirunelveli,Rice,Kharif,97.03,304.91
+2014,Thirunelveli,Rice,Kharif,66.88,499.11
+2014,Thirunelveli,Black Gram,Kharif,114.96,417.43
+2014,Thirunelveli,Black Gram,Kharif,107.91,422.9
+2015,Thirunelveli,Rice,Kharif,148.23,608.57
+2015,Thirunelveli,Rice,Kharif,99.99,584.39
+2015,Thirunelveli,Black Gram,Kharif,105.99,550.27
+2015,Thirunelveli,Black Gram,Kharif,164.84,294.49
+2016,Thirunelveli,Rice,Kharif,131.51,357.74
+2016,Thirunelveli,Rice,Kharif,158.16,568.6
+2016,Thirunelveli,Black Gram,Kharif,168.82,290.65
+2016,Thirunelveli,Black Gram,Kharif,50.88,377.96
+2017,Thirunelveli,Rice,Kharif,104.79,446.36
+2017,Thirunelveli,Rice,Kharif,123.3,364.57
+2017,Thirunelveli,Black Gram,Kharif,89.48,449.26
+2017,Thirunelveli,Black Gram,Kharif,124.66,455.48
+2018,Thirunelveli,Rice,Kharif,162.6,396.43
+2018,Thirunelveli,Rice,Kharif,128.44,567.51
+2018,Thirunelveli,Black Gram,Kharif,159.07,460.19
+2018,Thirunelveli,Black Gram,Kharif,160.14,544.45
+2019,Thirunelveli,Rice,Kharif,85.4,491.8
+2019,Thirunelveli,Rice,Kharif,128.56,428.81
+2019,Thirunelveli,Black Gram,Kharif,49.66,481.11
+2019,Thirunelveli,Black Gram,Kharif,123.12,329.12
+2020,Thirunelveli,Rice,Kharif,145.88,287.74
+2020,Thirunelveli,Rice,Kharif,85.36,537.68
+2020,Thirunelveli,Black Gram,Kharif,111.51,350.07
+2020,Thirunelveli,Black Gram,Kharif,140.84,314.72
+2021,Thirunelveli,Rice,Kharif,110.29,406.83
+2021,Thirunelveli,Rice,Kharif,140.54,573.44
+2021,Thirunelveli,Black Gram,Kharif,54.5,292.46
+2021,Thirunelveli,Black Gram,Kharif,160.2,544.16
+2022,Trichy,Groundnut,Rabi,205.64,680.27
+2022,Trichy,Groundnut,Rabi,256.93,739.36
+2022,Trichy,Bengal Gram,Rabi,102.99,786.35
+2022,Trichy,Bengal Gram,Rabi,140.24,590.04
+2022,Trichy,Groundnut,Rabi,163.18,666.52
+2022,Trichy,Groundnut,Rabi,206.27,771.13
+2022,Trichy,Bengal Gram,Rabi,135.3,564.79
+2022,Trichy,Bengal Gram,Rabi,97.79,655.52
+2022,Kanchipuram,Groundnut,Kharif,187.23,392.5
+2022,Kanchipuram,Groundnut,Kharif,227.25,277.35
+2022,Kanchipuram,Bengal Gram,Kharif,319.18,550.28
+2022,Kanchipuram,Bengal Gram,Kharif,323.87,468.53
+2022,Kanchipuram,Groundnut,Kharif,360.84,428.92
+2022,Kanchipuram,Groundnut,Kharif,320.43,576.92
+2022,Kanchipuram,Bengal Gram,Kharif,308.25,415.9
+2022,Kanchipuram,Bengal Gram,Kharif,322.46,421.79
+2022,Thirunelveli,Groundnut,Kharif,128.91,361.62
+2022,Thirunelveli,Groundnut,Kharif,70.94,185.91
+2022,Thirunelveli,Bengal Gram,Kharif,56.54,196.03
+2022,Thirunelveli,Bengal Gram,Kharif,164.41,331.88
+2022,Thirunelveli,Groundnut,Kharif,93.55,262.35
+2022,Thirunelveli,Groundnut,Kharif,54.45,297.61
+2022,Thirunelveli,Bengal Gram,Kharif,58.05,241.26
+2022,Thirunelveli,Bengal Gram,Kharif,118.6,291.83
+2022,Salem,Groundnut,Rabi,140.86,495.62
+2022,Salem,Groundnut,Rabi,131.59,549.58
+2022,Salem,Bengal Gram,Rabi,128.35,552.33
+2022,Salem,Bengal Gram,Rabi,105.29,444.36
+2022,Salem,Groundnut,Rabi,55.42,511.61
+2022,Salem,Groundnut,Rabi,98.55,505.82
+2022,Salem,Bengal Gram,Rabi,65.87,480.13
+2022,Salem,Bengal Gram,Rabi,142.25,368.98
+2022,Trichy,Groundnut,Kharif,223.61,400.44
+2022,Trichy,Groundnut,Kharif,154.99,363.7
+2022,Trichy,Bengal Gram,Kharif,268.42,397.61
+2022,Trichy,Bengal Gram,Kharif,209.52,386.01
+2022,Trichy,Groundnut,Kharif,230.97,327
+2022,Trichy,Groundnut,Kharif,145.59,243.02
+2022,Trichy,Bengal Gram,Kharif,252.4,368.69
+2022,Trichy,Bengal Gram,Kharif,158.46,361.5
+2022,Salem,Groundnut,Kharif,111.51,163.27
+2022,Salem,Groundnut,Kharif,42.43,124.66
+2022,Salem,Bengal Gram,Kharif,90.28,182.01
+2022,Salem,Bengal Gram,Kharif,124.88,120.46
+2022,Salem,Groundnut,Kharif,124.65,210.6
+2022,Salem,Groundnut,Kharif,97.3,108.28
+2022,Salem,Bengal Gram,Kharif,137.44,156.52
+2022,Salem,Bengal Gram,Kharif,66.32,143.84
+2022,Coimbatore,Groundnut,Kharif,64.6,211.18
+2022,Coimbatore,Groundnut,Kharif,81.94,189.06
+2022,Coimbatore,Bengal Gram,Kharif,96.17,215.02
+2022,Coimbatore,Bengal Gram,Kharif,103.84,209.47
+2022,Coimbatore,Groundnut,Kharif,112.08,195.68
+2022,Coimbatore,Groundnut,Kharif,66.9,150.71
+2022,Coimbatore,Bengal Gram,Kharif,93.83,165.13
+2022,Coimbatore,Bengal Gram,Kharif,125.82,148.57
+2022,Coimbatore,Groundnut,Rabi,55.49,382.13
+2022,Coimbatore,Groundnut,Rabi,133.69,417.23
+2022,Coimbatore,Bengal Gram,Rabi,91.05,320.88
+2022,Coimbatore,Bengal Gram,Rabi,67.48,382.6
+2022,Coimbatore,Groundnut,Rabi,106.29,317.3
+2022,Coimbatore,Groundnut,Rabi,123.17,315.38
+2022,Coimbatore,Bengal Gram,Rabi,48.78,283.19
+2022,Coimbatore,Bengal Gram,Rabi,96.75,291.21
+2022,Thanjavur,Groundnut,Rabi,476.75,932.56
+2022,Thanjavur,Groundnut,Rabi,429.07,1186.09
+2022,Thanjavur,Bengal Gram,Rabi,571.41,796.97
+2022,Thanjavur,Bengal Gram,Rabi,589.48,754
+2022,Thanjavur,Groundnut,Rabi,430.18,980.97
+2022,Thanjavur,Groundnut,Rabi,545.61,1306.79
+2022,Thanjavur,Bengal Gram,Rabi,574.44,849.99
+2022,Thanjavur,Bengal Gram,Rabi,587.19,1244.37
+2022,Thirunelveli,Groundnut,Rabi,73.31,544.15
+2022,Thirunelveli,Groundnut,Rabi,118.11,551.85
+2022,Thirunelveli,Bengal Gram,Rabi,83.59,529.76
+2022,Thirunelveli,Bengal Gram,Rabi,167.71,541.99
+2022,Thirunelveli,Groundnut,Rabi,91.95,553.61
+2022,Thirunelveli,Groundnut,Rabi,84.51,430.09
+2022,Thirunelveli,Bengal Gram,Rabi,70.01,586.19
+2022,Thirunelveli,Bengal Gram,Rabi,159.41,455.41
+2022,Thanjavur,Groundnut,Kharif,208.07,204.19
+2022,Thanjavur,Groundnut,Kharif,358.74,218.9
+2022,Thanjavur,Bengal Gram,Kharif,359.19,153.83
+2022,Thanjavur,Bengal Gram,Kharif,196.43,133.63
+2022,Thanjavur,Groundnut,Kharif,303.41,315.81
+2022,Thanjavur,Groundnut,Kharif,176.74,180.75
+2022,Thanjavur,Bengal Gram,Kharif,160.86,126.3
+2022,Thanjavur,Bengal Gram,Kharif,309.98,169.29
+2022,Kanchipuram,Groundnut,Rabi,356.26,699.26
+2022,Kanchipuram,Groundnut,Rabi,257.55,879.34
+2022,Kanchipuram,Bengal Gram,Rabi,185.55,711.66
+2022,Kanchipuram,Bengal Gram,Rabi,298.81,520.76
+2022,Kanchipuram,Groundnut,Rabi,158.33,627.95
+2022,Kanchipuram,Groundnut,Rabi,266.85,926.17
+2022,Kanchipuram,Bengal Gram,Rabi,344.85,897.35
+2022,Kanchipuram,Bengal Gram,Rabi,209.1,915.38
+2022,Coimbatore,Rice,Rabi,97.83,211.84
+2022,Coimbatore,Rice,Rabi,52.74,126.9
+2022,Coimbatore,Black Gram,Rabi,127.58,200.34
+2022,Coimbatore,Black Gram,Rabi,133.46,127.06
+2022,Coimbatore,Rice,Rabi,122.54,193.89
+2022,Coimbatore,Rice,Rabi,98.83,180.23
+2022,Coimbatore,Black Gram,Rabi,51.52,139.43
+2022,Coimbatore,Black Gram,Rabi,62.13,181.41
+2022,Thirunelveli,Rice,Rabi,165.53,391.53
+2022,Thirunelveli,Rice,Rabi,124.44,319.86
+2022,Thirunelveli,Black Gram,Rabi,148.14,307.64
+2022,Thirunelveli,Black Gram,Rabi,66.44,350.68
+2022,Thirunelveli,Rice,Rabi,137.42,296.43
+2022,Thirunelveli,Rice,Rabi,152.34,402.73
+2022,Thirunelveli,Black Gram,Rabi,67.12,355.29
+2022,Thirunelveli,Black Gram,Rabi,158.44,394.98
+2022,Thanjavur,Rice,Rabi,382.68,715.94
+2022,Thanjavur,Rice,Rabi,491.23,764.56
+2022,Thanjavur,Black Gram,Rabi,583.24,770
+2022,Thanjavur,Black Gram,Rabi,480.87,554.96
+2022,Thanjavur,Rice,Rabi,462.07,792.88
+2022,Thanjavur,Rice,Rabi,600.45,567.14
+2022,Thanjavur,Black Gram,Rabi,445.96,555.16
+2022,Thanjavur,Black Gram,Rabi,524.06,759.84
+2022,Trichy,Rice,Kharif,86.82,645
+2022,Trichy,Rice,Kharif,169.25,337.91
+2022,Trichy,Black Gram,Kharif,206.65,746.28
+2022,Trichy,Black Gram,Kharif,127.62,346.55
+2022,Trichy,Rice,Kharif,146.26,740.49
+2022,Trichy,Rice,Kharif,159.68,545.58
+2022,Trichy,Black Gram,Kharif,191.14,752.18
+2022,Trichy,Black Gram,Kharif,136.14,459.78
+2022,Kanchipuram,Rice,Rabi,186.59,644.82
+2022,Kanchipuram,Rice,Rabi,245.24,608.66
+2022,Kanchipuram,Black Gram,Rabi,191.56,667.04
+2022,Kanchipuram,Black Gram,Rabi,320.97,570.96
+2022,Kanchipuram,Rice,Rabi,199.25,539.05
+2022,Kanchipuram,Rice,Rabi,191,684.45
+2022,Kanchipuram,Black Gram,Rabi,215.58,609.41
+2022,Kanchipuram,Black Gram,Rabi,294.38,622.08
+2022,Kanchipuram,Rice,Kharif,350.12,819.05
+2022,Kanchipuram,Rice,Kharif,166.36,647.35
+2022,Kanchipuram,Black Gram,Kharif,300.17,755.26
+2022,Kanchipuram,Black Gram,Kharif,167.8,830.5
+2022,Kanchipuram,Rice,Kharif,240.52,563.18
+2022,Kanchipuram,Rice,Kharif,360.38,703.25
+2022,Kanchipuram,Black Gram,Kharif,186.25,589.37
+2022,Kanchipuram,Black Gram,Kharif,253.57,927.31
+2022,Coimbatore,Rice,Kharif,47.71,326.32
+2022,Coimbatore,Rice,Kharif,86.31,365.11
+2022,Coimbatore,Black Gram,Kharif,62.97,240.28
+2022,Coimbatore,Black Gram,Kharif,65.86,297.37
+2022,Coimbatore,Rice,Kharif,101.74,411.06
+2022,Coimbatore,Rice,Kharif,54.75,250.82
+2022,Coimbatore,Black Gram,Kharif,80.01,305.53
+2022,Coimbatore,Black Gram,Kharif,84.83,424.64
+2022,Salem,Rice,Rabi,105.04,526.8
+2022,Salem,Rice,Kharif,110.22,457.51
+2022,Salem,Rice,Rabi,146.06,655.49
+2022,Salem,Rice,Kharif,44.35,577.09
+2022,Salem,Black Gram,Rabi,113.99,624.97
+2022,Salem,Black Gram,Kharif,80.82,399.37
+2022,Salem,Black Gram,Rabi,61.91,275.33
+2022,Salem,Black Gram,Kharif,144.67,696.43
+2022,Salem,Rice,Rabi,74.87,579.99
+2022,Salem,Rice,Kharif,108.58,430.21
+2022,Salem,Rice,Rabi,94.18,226.2
+2022,Salem,Rice,Kharif,81.48,321.16
+2022,Salem,Black Gram,Rabi,39.19,495.82
+2022,Salem,Black Gram,Kharif,127.35,365.49
+2022,Salem,Black Gram,Rabi,139.96,471.75
+2022,Salem,Black Gram,Kharif,65.19,750.74
+2022,Trichy,Rice,Rabi,257.7,308.59
+2022,Trichy,Rice,Rabi,186.47,689.08
+2022,Trichy,Black Gram,Rabi,212.27,308.05
+2022,Trichy,Black Gram,Rabi,238.56,588.77
+2022,Trichy,Rice,Rabi,153.97,650.29
+2022,Trichy,Rice,Rabi,248.37,408.54
+2022,Trichy,Black Gram,Rabi,113.02,285.01
+2022,Trichy,Black Gram,Rabi,155.44,488.83
+2022,Thanjavur,Rice,Kharif,541.29,995.89
+2022,Thanjavur,Rice,Kharif,488.4,1220.45
+2022,Thanjavur,Black Gram,Kharif,514.84,1323.24
+2022,Thanjavur,Black Gram,Kharif,574.52,1277.47
+2022,Thanjavur,Rice,Kharif,536.33,1047.47
+2022,Thanjavur,Rice,Kharif,591.23,1219.46
+2022,Thanjavur,Black Gram,Kharif,526.37,986.81
+2022,Thanjavur,Black Gram,Kharif,647.5,1330.04
+2022,Thirunelveli,Rice,Kharif,123.62,356.95
+2022,Thirunelveli,Rice,Kharif,154.79,495.06
+2022,Thirunelveli,Black Gram,Kharif,64.72,489.72
+2022,Thirunelveli,Black Gram,Kharif,54.52,555.85
+2022,Thirunelveli,Rice,Kharif,104.79,446.36
+2022,Thirunelveli,Rice,Kharif,123.3,364.57
+2022,Thirunelveli,Black Gram,Kharif,89.48,449.26
+2022,Thirunelveli,Black Gram,Kharif,124.66,455.48
+2023,Trichy,Groundnut,Rabi,182.85,736.49
+2023,Trichy,Groundnut,Rabi,141.87,627.19
+2023,Trichy,Bengal Gram,Rabi,136.41,736.67
+2023,Trichy,Bengal Gram,Rabi,126.07,654.17
+2023,Trichy,Groundnut,Rabi,254.01,609.93
+2023,Trichy,Groundnut,Rabi,139.09,754.79
+2023,Trichy,Bengal Gram,Rabi,259.12,714.4
+2023,Trichy,Bengal Gram,Rabi,122.71,684.89
+2023,Kanchipuram,Groundnut,Kharif,331.2,529.63
+2023,Kanchipuram,Groundnut,Kharif,300.02,287.62
+2023,Kanchipuram,Bengal Gram,Kharif,238.66,268.63
+2023,Kanchipuram,Bengal Gram,Kharif,188.48,330.44
+2023,Kanchipuram,Groundnut,Kharif,181.24,481.75
+2023,Kanchipuram,Groundnut,Kharif,206.32,388.66
+2023,Kanchipuram,Bengal Gram,Kharif,279.58,370.4
+2023,Kanchipuram,Bengal Gram,Kharif,302.37,234.26
+2023,Thirunelveli,Groundnut,Kharif,100.89,186.51
+2023,Thirunelveli,Groundnut,Kharif,153.07,350.11
+2023,Thirunelveli,Bengal Gram,Kharif,152.56,329.37
+2023,Thirunelveli,Bengal Gram,Kharif,63.51,229.47
+2023,Thirunelveli,Groundnut,Kharif,104.89,191.13
+2023,Thirunelveli,Groundnut,Kharif,109,272.34
+2023,Thirunelveli,Bengal Gram,Kharif,161.13,306.61
+2023,Thirunelveli,Bengal Gram,Kharif,99.67,217.76
+2023,Salem,Groundnut,Rabi,48.48,434.76
+2023,Salem,Groundnut,Rabi,53.86,492.34
+2023,Salem,Bengal Gram,Rabi,79.15,414.21
+2023,Salem,Bengal Gram,Rabi,141.18,431.29
+2023,Salem,Groundnut,Rabi,134.12,429.16
+2023,Salem,Groundnut,Rabi,57,481.67
+2023,Salem,Bengal Gram,Rabi,97.51,511.03
+2023,Salem,Bengal Gram,Rabi,51.44,488.56
+2023,Trichy,Groundnut,Kharif,257.93,340.42
+2023,Trichy,Groundnut,Kharif,104.25,297.94
+2023,Trichy,Bengal Gram,Kharif,185.66,431
+2023,Trichy,Bengal Gram,Kharif,211.97,383.44
+2023,Trichy,Groundnut,Kharif,254.1,256.58
+2023,Trichy,Groundnut,Kharif,112.26,301.72
+2023,Trichy,Bengal Gram,Kharif,206.85,316.26
+2023,Trichy,Bengal Gram,Kharif,149.19,258.01
+2023,Salem,Groundnut,Kharif,44.81,162.48
+2023,Salem,Groundnut,Kharif,43.32,143.09
+2023,Salem,Bengal Gram,Kharif,108.38,194.55
+2023,Salem,Bengal Gram,Kharif,113.45,131.88
+2023,Salem,Groundnut,Kharif,124.16,252.95
+2023,Salem,Groundnut,Kharif,115.42,265.62
+2023,Salem,Bengal Gram,Kharif,71.93,184.16
+2023,Salem,Bengal Gram,Kharif,133.43,261.34
+2023,Coimbatore,Groundnut,Kharif,47.01,191.59
+2023,Coimbatore,Groundnut,Kharif,49.16,191.17
+2023,Coimbatore,Bengal Gram,Kharif,57.53,177.76
+2023,Coimbatore,Bengal Gram,Kharif,117.09,143.77
+2023,Coimbatore,Groundnut,Kharif,54.49,159.92
+2023,Coimbatore,Groundnut,Kharif,102,165.13
+2023,Coimbatore,Bengal Gram,Kharif,94.25,185.03
+2023,Coimbatore,Bengal Gram,Kharif,105.18,177.65
+2023,Coimbatore,Groundnut,Rabi,77.38,288.67
+2023,Coimbatore,Groundnut,Rabi,53.62,291.49
+2023,Coimbatore,Bengal Gram,Rabi,106.58,364.95
+2023,Coimbatore,Bengal Gram,Rabi,49.97,351.68
+2023,Coimbatore,Groundnut,Rabi,72.79,338.84
+2023,Coimbatore,Groundnut,Rabi,94.08,264.1
+2023,Coimbatore,Bengal Gram,Rabi,107.58,409.47
+2023,Coimbatore,Bengal Gram,Rabi,79.75,289.42
+2023,Thanjavur,Groundnut,Rabi,470.26,1209.83
+2023,Thanjavur,Groundnut,Rabi,617.7,1258.99
+2023,Thanjavur,Bengal Gram,Rabi,637.08,998.98
+2023,Thanjavur,Bengal Gram,Rabi,642.46,1140.65
+2023,Thanjavur,Groundnut,Rabi,615.12,1100.87
+2023,Thanjavur,Groundnut,Rabi,457.31,862.11
+2023,Thanjavur,Bengal Gram,Rabi,480.81,1207.61
+2023,Thanjavur,Bengal Gram,Rabi,467,993.38
+2023,Thirunelveli,Groundnut,Rabi,97.43,592.42
+2023,Thirunelveli,Groundnut,Rabi,65.46,579.37
+2023,Thirunelveli,Bengal Gram,Rabi,82.5,598.76
+2023,Thirunelveli,Bengal Gram,Rabi,137.33,463.18
+2023,Thirunelveli,Groundnut,Rabi,96.29,532.55
+2023,Thirunelveli,Groundnut,Rabi,150.21,462.8
+2023,Thirunelveli,Bengal Gram,Rabi,115.16,479.02
+2023,Thirunelveli,Bengal Gram,Rabi,103.65,425.9
+2023,Thanjavur,Groundnut,Kharif,192.46,353.97
+2023,Thanjavur,Groundnut,Kharif,319.28,219.41
+2023,Thanjavur,Bengal Gram,Kharif,253.07,159.18
+2023,Thanjavur,Bengal Gram,Kharif,341.72,348.01
+2023,Thanjavur,Groundnut,Kharif,189.65,362.21
+2023,Thanjavur,Groundnut,Kharif,201.31,314.36
+2023,Thanjavur,Bengal Gram,Kharif,209.13,132.34
+2023,Thanjavur,Bengal Gram,Kharif,338.16,157.75
+2023,Kanchipuram,Groundnut,Rabi,258.58,989.7
+2023,Kanchipuram,Groundnut,Rabi,304.55,816.61
+2023,Kanchipuram,Bengal Gram,Rabi,273.27,522.15
+2023,Kanchipuram,Bengal Gram,Rabi,364.04,752.84
+2023,Kanchipuram,Groundnut,Rabi,325.97,519.41
+2023,Kanchipuram,Groundnut,Rabi,332.67,944.69
+2023,Kanchipuram,Bengal Gram,Rabi,286.7,723.09
+2023,Kanchipuram,Bengal Gram,Rabi,165.47,961.59
+2023,Coimbatore,Rice,Rabi,103.16,198.45
+2023,Coimbatore,Rice,Rabi,89.24,224.38
+2023,Coimbatore,Black Gram,Rabi,87.41,180.56
+2023,Coimbatore,Black Gram,Rabi,97.25,180.02
+2023,Coimbatore,Rice,Rabi,65.03,200.2
+2023,Coimbatore,Rice,Rabi,90.26,213.6
+2023,Coimbatore,Black Gram,Rabi,55.55,201.42
+2023,Coimbatore,Black Gram,Rabi,114.45,214.11
+2023,Thirunelveli,Rice,Rabi,102.53,331.61
+2023,Thirunelveli,Rice,Rabi,136.27,348.3
+2023,Thirunelveli,Black Gram,Rabi,110.03,329.18
+2023,Thirunelveli,Black Gram,Rabi,89.66,376.38
+2023,Thirunelveli,Rice,Rabi,123.96,346.94
+2023,Thirunelveli,Rice,Rabi,93.82,391.9
+2023,Thirunelveli,Black Gram,Rabi,55.09,371.41
+2023,Thirunelveli,Black Gram,Rabi,106.58,285.76
+2023,Thanjavur,Rice,Rabi,401.22,562.32
+2023,Thanjavur,Rice,Rabi,507.83,702.53
+2023,Thanjavur,Black Gram,Rabi,437.65,789.24
+2023,Thanjavur,Black Gram,Rabi,426.42,768.56
+2023,Thanjavur,Rice,Rabi,417.37,711.31
+2023,Thanjavur,Rice,Rabi,589.11,713.33
+2023,Thanjavur,Black Gram,Rabi,610.96,759.54
+2023,Thanjavur,Black Gram,Rabi,422.42,589.07
+2023,Trichy,Rice,Kharif,160.47,696.82
+2023,Trichy,Rice,Kharif,154.81,768
+2023,Trichy,Black Gram,Kharif,173.38,488.59
+2023,Trichy,Black Gram,Kharif,104.53,379.1
+2023,Trichy,Rice,Kharif,235.85,343.1
+2023,Trichy,Rice,Kharif,103.09,300.91
+2023,Trichy,Black Gram,Kharif,210.19,258.51
+2023,Trichy,Black Gram,Kharif,246.73,226.32
+2023,Kanchipuram,Rice,Rabi,204.51,546.37
+2023,Kanchipuram,Rice,Rabi,217.21,617.68
+2023,Kanchipuram,Black Gram,Rabi,294.68,602.02
+2023,Kanchipuram,Black Gram,Rabi,207.01,534.39
+2023,Kanchipuram,Rice,Rabi,247.82,680.68
+2023,Kanchipuram,Rice,Rabi,173.28,656
+2023,Kanchipuram,Black Gram,Rabi,243.08,569.99
+2023,Kanchipuram,Black Gram,Rabi,203.04,622.13
+2023,Kanchipuram,Rice,Kharif,299.24,513.68
+2023,Kanchipuram,Rice,Kharif,254.13,678.89
+2023,Kanchipuram,Black Gram,Kharif,332.23,468.48
+2023,Kanchipuram,Black Gram,Kharif,164.46,840.53
+2023,Kanchipuram,Rice,Kharif,271.14,550.68
+2023,Kanchipuram,Rice,Kharif,322.44,904.33
+2023,Kanchipuram,Black Gram,Kharif,289.62,793.15
+2023,Kanchipuram,Black Gram,Kharif,251.59,857.02
+2023,Coimbatore,Rice,Kharif,115.07,223.52
+2023,Coimbatore,Rice,Kharif,65.22,390.2
+2023,Coimbatore,Black Gram,Kharif,57.67,347.5
+2023,Coimbatore,Black Gram,Kharif,92.31,232.94
+2023,Coimbatore,Rice,Kharif,64.4,259.27
+2023,Coimbatore,Rice,Kharif,74.62,264.44
+2023,Coimbatore,Black Gram,Kharif,107.28,256.34
+2023,Coimbatore,Black Gram,Kharif,50.72,342.71
+2023,Salem,Rice,Rabi,80.64,275.74
+2023,Salem,Rice,Kharif,139.98,717.19
+2023,Salem,Rice,Rabi,146.54,729.57
+2023,Salem,Rice,Kharif,47.13,769.35
+2023,Salem,Black Gram,Rabi,73.97,646.2
+2023,Salem,Black Gram,Kharif,59.75,320.28
+2023,Salem,Black Gram,Rabi,84.84,786.97
+2023,Salem,Black Gram,Kharif,52.17,258.09
+2023,Salem,Rice,Rabi,110.94,643.36
+2023,Salem,Rice,Kharif,43.12,506.06
+2023,Salem,Rice,Rabi,61.77,713.43
+2023,Salem,Rice,Kharif,146.52,714.86
+2023,Salem,Black Gram,Rabi,137.38,708.51
+2023,Salem,Black Gram,Kharif,115.98,643.11
+2023,Salem,Black Gram,Rabi,58.44,667.92
+2023,Salem,Black Gram,Kharif,62.38,599.31
+2023,Trichy,Rice,Rabi,223.89,603.9
+2023,Trichy,Rice,Rabi,113.14,559.58
+2023,Trichy,Black Gram,Rabi,120.4,787.29
+2023,Trichy,Black Gram,Rabi,86.14,250.5
+2023,Trichy,Rice,Rabi,195.03,563.89
+2023,Trichy,Rice,Rabi,210.17,706.97
+2023,Trichy,Black Gram,Rabi,140.34,307.96
+2023,Trichy,Black Gram,Rabi,104.23,525.06
+2023,Thanjavur,Rice,Kharif,389.54,1404.01
+2023,Thanjavur,Rice,Kharif,636.02,1346.47
+2023,Thanjavur,Black Gram,Kharif,486.7,777.25
+2023,Thanjavur,Black Gram,Kharif,623.06,694.32
+2023,Thanjavur,Rice,Kharif,429.57,1291
+2023,Thanjavur,Rice,Kharif,536.9,761.88
+2023,Thanjavur,Black Gram,Kharif,381.54,1014.98
+2023,Thanjavur,Black Gram,Kharif,653.41,765.44
+2023,Thirunelveli,Rice,Kharif,79.64,516.03
+2023,Thirunelveli,Rice,Kharif,54.96,349.37
+2023,Thirunelveli,Black Gram,Kharif,160.02,404.92
+2023,Thirunelveli,Black Gram,Kharif,64.27,304.14
+2023,Thirunelveli,Rice,Kharif,132.34,486.03
+2023,Thirunelveli,Rice,Kharif,51.55,387.59
+2023,Thirunelveli,Black Gram,Kharif,85.17,450.16
+2023,Thirunelveli,Black Gram,Kharif,102.42,552.04
